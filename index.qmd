@@ -1,0 +1,50 @@
+---
+title: "Pathways to Open Science"
+format: html
+editor: visual
+---
+
+## Welcome
+
+**Pathways to Open Science** is a remote event series for Black environmental & marine researchers to build community for the future of data intensive science. Led by Ileana Fenwick of [Openscapes](https://openscapes.org), we are planning the series to begin in mid-January 2023.
+
+### **Program Details** 
+
+This remote event series will convene Black environmental and marine researcher community members with the goal of developing a mindset for Open Data Science: the tools and practices enabling reproducible, transparent, and inclusive practices for data intensive science. The event series builds from our work at [Openscapes](https://openscapes.org), where we believe open practices can accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science. Since 2019 we have mentored \>100 research teams, meeting them where they are as they develop enduring habits and community. The Pathways to Open Science event series consists of six parts (all virtual): 
+
+-   **3 community calls:** 1.5 hour calls with facilitated discussion, mini-lectures and community conversations with Black data scientists, data science leaders and students
+
+-   **3 coworking sessions:** 1 hour calls structured for folks to bring their own work, practice skill building, screenshare, and ask questions. 
+
+\
+**Timeline**:
+
+-   October 2022: Partnership planning
+
+-   Week of November 14-18: Liaison onboarding call
+
+-   December-January planning meetings with liaisons and social media engagement
+
+-   Week of January 16 - event series kick-off
+
+**About Us:**
+
+Ileans Fenwick: as I shared at the RStudio Conference ([slides](https://github.com/IleanaF/rstudio-conf22)), after participating in Openscapes in early 2021, I joined the team to pass forward the power of open science. Julie Lowndes launched Openscapes for this same reason, having learned from R and Mozilla communities. All Openscapes events abide by our [Code of Conduct](https://www.openscapes.org/code-of-conduct/). 
+
+**How do participants benefit from this event series?**
+
+-   ​​Free of cost 
+
+-   Networking opportunity 
+
+-   Build data science literacy and skills 
+
+-   Encourage community building and collaboration with other HBCU and Black scientists
+
+-   Resume building experience and access to skill development resources after the program is completed
+
+-   Welcome to the Openscapes community and Slack workspace as a resource for questions and networking
+
+### Funding
+
+This event series is possible through funding from [Code for Science & Society](https://eventfund.codeforscience.org/event-fund-grantees/) through the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/).
