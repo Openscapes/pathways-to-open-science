@@ -6,11 +6,17 @@ editor: visual
 
 ## Welcome
 
-**Pathways to Open Science** is a remote event series for Black environmental & marine researchers to build community for the future of data intensive science. Led by Ileana Fenwick of [Openscapes](https://openscapes.org), we are planning the series to begin in mid-January 2023.
+**Pathways to Open Science** is a remote event series for Black environmental & marine researchers to build community for the future of data intensive science. Led by Ileana Fenwick of [Openscapes](https://openscapes.org) in partnership with [Black in Marine Science](https://www.blackinmarinescience.org/) (BIMS) and [Black Women in Ecology, Evolution, and Marine Science](https://www.bweems.org/) (BWEEMS), we are planning the series to begin in mid-January 2023.
+
+![](openscapes_hex.png){fig-align="center" width="78"}
+
+(add BIMS & BWEEMS logos centered)
 
 ### **Program Details** 
 
-This remote event series will convene Black environmental and marine researcher community members with the goal of developing a mindset for Open Data Science: the tools and practices enabling reproducible, transparent, and inclusive practices for data intensive science. The event series builds from our work at [Openscapes](https://openscapes.org), where we believe open practices can accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science. Since 2019 we have mentored \>100 research teams, meeting them where they are as they develop enduring habits and community. The Pathways to Open Science event series consists of six parts (all virtual): 
+This remote event series will convene Black environmental and marine researcher community members with the goal of developing a mindset for Open Data Science: the tools and practices enabling reproducible, transparent, and inclusive practices for data intensive science. If you\'re feeling bogged down by folders full of files with names like \"analysis_final_v5.xlsx\" and like empowering others, we welcome you to join us!
+
+The event series builds from our work at [Openscapes](https://openscapes.org), where we believe open practices can accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science. Since 2019 we have mentored \>100 research teams, meeting them where they are as they develop enduring habits and community. The Pathways to Open Science event series consists of six parts (all virtual): 
 
 -   **3 community calls:** 1.5 hour calls with facilitated discussion, mini-lectures and community conversations with Black data scientists, data science leaders and students
 
@@ -44,6 +50,10 @@ Ileans Fenwick: as I shared at the RStudio Conference ([slides](https://github.c
 -   Resume building experience and access to skill development resources after the program is completed
 
 -   Welcome to the Openscapes community and Slack workspace as a resource for questions and networking
+
+## Event registration
+
+Coming soon.
 
 ### Funding
 
