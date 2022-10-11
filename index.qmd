@@ -12,9 +12,9 @@ editor: visual
 
 <!---(add BIMS & BWEEMS logos centered)--->
 
-### **Program Details** 
+### **Program Details**
 
-This remote event series will convene Black environmental and marine researcher community members with the goal of developing a mindset for Open Data Science: the tools and practices enabling reproducible, transparent, and inclusive practices for data intensive science. If you\'re feeling bogged down by folders full of files with names like \"analysis_final_v5.xlsx\" and like empowering others, we welcome you to join us!
+This remote event series will convene Black environmental and marine researcher community members with the goal of developing a mindset for Open Data Science: the tools and practices enabling reproducible, transparent, and inclusive practices for data intensive science. If you're feeling bogged down by folders full of files with names like "analysis_final_v5.xlsx" and like empowering others, we welcome you to join us!
 
 The event series builds from our work at [Openscapes](https://openscapes.org), where we believe open practices can accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science. Since 2019 we have mentored \>100 research teams, meeting them where they are as they develop enduring habits and community. The Pathways to Open Science event series consists of six parts (all virtual): 
 
