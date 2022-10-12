@@ -35,7 +35,7 @@ The event series builds from our work at [Openscapes](https://openscapes.org), w
 
 **About Us:**
 
-Ileans Fenwick: as I shared at the RStudio Conference ([slides](https://github.com/IleanaF/rstudio-conf22)), after participating in Openscapes in early 2021, I joined the team to pass forward the power of open science. Julie Lowndes launched Openscapes for this same reason, having learned from R and Mozilla communities. All Openscapes events abide by our [Code of Conduct](https://www.openscapes.org/code-of-conduct/). 
+Ileana Fenwick: as I shared at the RStudio Conference ([slides](https://github.com/IleanaF/rstudio-conf22)), after participating in Openscapes in early 2021, I joined the team to pass forward the power of open science. Julie Lowndes launched Openscapes for this same reason, having learned from R and Mozilla communities. All Openscapes events abide by our [Code of Conduct](https://www.openscapes.org/code-of-conduct/). 
 
 **How do participants benefit from this event series?**
 
