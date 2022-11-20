@@ -8,9 +8,7 @@ editor: visual
 
 **Pathways to Open Science** is a remote event series for Black environmental & marine researchers to build community for the future of data intensive science. Led by Ileana Fenwick of [Openscapes](https://openscapes.org) in partnership with [Black in Marine Science (BIMS)](https://www.blackinmarinescience.org/) and [Black Women in Ecology, Evolution, and Marine Science (BWEEMS)](https://www.bweems.org/), we are planning the series to begin in mid-January 2023.
 
-<center>
-![](images/openscapes_hex.png){width="78"} ![](images/bweems-logo.png){width="262"} ![](images/bims-logo.png){width="86"}
-</center>
+<center>![](images/openscapes_hex.png){width="78"} ![](images/bweems-logo.png){width="262"} ![](images/bims-logo.png){width="86"}</center>
 
 ### **Program Details**
 
@@ -23,7 +21,6 @@ The event series builds from our work at [Openscapes](https://openscapes.org), w
 -   **3 coworking sessions:** 1 hour calls structured for folks to bring their own work, practice skill building, screenshare, and ask questions. 
 
 All Openscapes events abide by our [Code of Conduct](https://www.openscapes.org/code-of-conduct/).
-
 
 **How do participants benefit from this event series?**
 
@@ -51,6 +48,7 @@ Julie Lowndes
 
 Stefanie Butland
 
+```{=html}
 <!---
 **About Us:**
 
@@ -58,8 +56,7 @@ Ileana Fenwick: as I shared at the RStudio Conference ([slides](https://github.c
 
 Julie Lowndes launched Openscapes for this same reason, having learned from R and Mozilla communities. 
 --->
-
-
+```
 ### Timeline
 
 -   October 2022: Partnership planning
