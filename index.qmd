@@ -1,7 +1,5 @@
 ---
 title: "Pathways to Open Science"
-format: html
-editor: visual
 ---
 
 ## Welcome
