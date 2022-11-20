@@ -3,10 +3,14 @@ project:
 
 website:
   title: "Supercharge your research"  
-  page-navigation: true
   site-url: https://openscapes.github.io/pathways-to-open-science/
   repo-url: https://github.com/openscapes/pathways-to-open-science/
   repo-actions: [edit, source, issue]
+  
+  sidebar:
+    contents:
+      - index.qmd
+  
 
 format:
   html:
