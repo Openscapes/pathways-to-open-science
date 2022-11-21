@@ -69,8 +69,8 @@ Julie Lowndes launched Openscapes for this same reason, having learned from R an
 
 To learn more about Openscapes approaches: 
 
-- [Supercharge your research](https://openscapes.github.io/supercharge-research/) (Lowndes et al. 2019, Nature)
-- [Better science for future us](https://docs.google.com/presentation/d/1HGw4P095-lblHiGQHXYidHiVysjrPxuojxTxKtE13vk/edit?usp=sharing) (Lowndes & Robinson, SORTEE keynote) (30-minute [video](https://osf.io/47req/))
+- [A Journey to Data Science: Tools for Equity and Diversity in STEM](https://github.com/IleanaF/rstudio-conf22) - July 28, 2022: Talk by Ileana Fenwick at RStudio Conference ([video](https://www.rstudio.com/conference/2022/talks/journey-to-data-science-tools/)) (20 minutes)
+- [Supercharge your research: a 10-week plan for open data science](https://openscapes.github.io/supercharge-research/) (Lowndes et al. 2019, Nature)
 
 ### Funding
 
