@@ -65,6 +65,13 @@ Julie Lowndes launched Openscapes for this same reason, having learned from R an
 
 -   Week of January 16 - event series kick-off
 
+### Background information
+
+To learn more about Openscapes approaches: 
+
+- [Supercharge your research](https://openscapes.github.io/supercharge-research/) (Lowndes et al. 2019, Nature)
+- [Better science for future us](https://docs.google.com/presentation/d/1HGw4P095-lblHiGQHXYidHiVysjrPxuojxTxKtE13vk/edit?usp=sharing) (Lowndes & Robinson, SORTEE keynote) (30-minute [video](https://osf.io/47req/))
+
 ### Funding
 
 This event series is possible through funding from [Code for Science & Society](https://eventfund.codeforscience.org/event-fund-grantees/) through the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/).
