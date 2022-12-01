@@ -6,7 +6,7 @@ title: "Pathways to Open Science"
 
 **Pathways to Open Science** is a remote event series for Black environmental & marine researchers to build community for the future of data intensive science. Led by Ileana Fenwick of [Openscapes](https://openscapes.org) in partnership with [Black in Marine Science (BIMS)](https://www.blackinmarinescience.org/) and [Black Women in Ecology, Evolution, and Marine Science (BWEEMS)](https://www.bweems.org/), we are planning the series to begin in mid-January 2023.
 
-<center>![](images/openscapes_hex.png){width="78"} ![](images/bweems-logo.png){width="262"} ![](images/bims-logo.png){width="86"}</center>
+<center>[![](images/openscapes_hex.png){width="78"}](https://openscapes.org) [![](images/bweems-logo.png){width="262"}](https://www.bweems.org/) [![](images/bims-logo.png){width="86"}](https://www.blackinmarinescience.org/)</center>
 
 ### **Program Details**
 
@@ -65,6 +65,14 @@ Julie Lowndes launched Openscapes for this same reason, having learned from R an
 
 -   Week of January 16 - event series kick-off
 
+### Connect with us!
+
+**BWEEMS**: [Website](https://www.bweems.org) • [Instagram](https://instagram.com/official_bweems?igshid=MWI4MTIyMDE=) • [Twitter](https://twitter.com/official_bweems?s=21&t=s-DTN1VVq1z4D-CILebMRQ)
+
+**BIMS**: [Website](https://blackinmarinescience.org) • [Instagram](https://instagram.com/blackinmarinescience?igshid=MWI4MTIyMDE=) • [Twitter](https://twitter.com/blackinmarsci) • [YouTube](https://www.youtube.com/BlackInMarineScience)
+
+**Openscapes**: [Website](https://openscapes.org) • [Twitter](https://twitter.com/openscapes) • [YouTube](https://www.youtube.com/@openscapes)
+
 ### Background information
 
 To learn more about Openscapes approaches: 
@@ -72,9 +80,10 @@ To learn more about Openscapes approaches:
 - [A Journey to Data Science: Tools for Equity and Diversity in STEM](https://github.com/IleanaF/rstudio-conf22) - July 28, 2022: Talk by Ileana Fenwick at RStudio Conference ([video](https://www.rstudio.com/conference/2022/talks/journey-to-data-science-tools/)) (20 minutes)
 - [Supercharge your research: a 10-week plan for open data science](https://openscapes.github.io/supercharge-research/) (Lowndes et al. 2019, Nature)
 
+
 ### Funding
 
-This event series is possible through funding from [Code for Science & Society](https://eventfund.codeforscience.org/event-fund-grantees/) through the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/).
+This event series is possible through funding from [Code for Science & Society](https://eventfund.codeforscience.org/event-fund-grantees/) through the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/). Thank you!
 
 ## Event registration
 
