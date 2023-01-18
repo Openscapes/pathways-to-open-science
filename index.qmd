@@ -41,7 +41,7 @@ The event series builds from our work at [Openscapes](https://openscapes.org), w
 
 ## Planning Team
 
-![Aneese Williams, Alex Davis, Ileana Fenwick (l to r)](images/aneese-alex-ileana-bweems.jpg){width="350" fig-align="left" fig-alt="3 smiling Black women standing in front of a BWEEMS-branded backdrop with an arbor of black, blue, green, and red balloons}
+![Aneese Williams, Alex Davis, Ileana Fenwick (l to r)](images/aneese-alex-ileana-bweems.jpg){width="300" fig-align="left" fig-alt="3 smiling Black women standing in front of a BWEEMS-branded backdrop with an arbor of black, blue, green, and red balloons"}
 
 [Ileana Fenwick](https://twitter.com/_ileanaf) is PI and Lead of the Pathways to Open Science program and a core Openscapes team member. She is an open science advocate and Marine Sciences Ph.D. Student at UNC Chapel Hill. Ileana's research focuses on evaluating how marine communities respond to climate change and human impacts. Her work uses innovative quantitative methods to improve our ocean management outcomes. In addition to her research, Ileana is also a fierce advocate for HBCU engagement and equity in open science and marine science through her consulting and volunteer work.
 
