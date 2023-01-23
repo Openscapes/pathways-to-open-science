@@ -12,12 +12,47 @@ title: "Pathways to Open Science"
 
 This remote event series will convene Black environmental and marine researcher community members with the goal of developing a mindset for Open Data Science: the tools and practices enabling reproducible, transparent, and inclusive practices for data intensive science. If you're feeling bogged down by folders full of files with names like "analysis_final_v5.xlsx" and/or like empowering others, we welcome you to join us!
 
-**This 6-part remote event series runs on Thursdays from 5-6:30pm ET, January 26 - March 2**. Event format will alternate weekly (all virtual):
+**This 6-part remote event series runs on Thursdays, January 26 - March 2**. Event format will alternate weekly (all virtual):
 
 -   3 community calls: 1.5 hour calls with facilitated discussion, mini-lectures and community conversations with Black data scientists, data science leaders and students
-    -   January 26, February 9, 23
+    -   January 26, February 9, 23 from 5:00 to 6:30 pm EST
 -   3 coworking sessions: 1.5 hour calls structured for folks to bring their own work, practice skill building, screenshare, and ask questions.
-    -   February 2, 16, March 2
+    -   February 2, 16, March 2 from 5:00 to 6:00 pm EST
+
+### January 26: What is open science anyway? What can it mean for you?
+
+Learn all about open science and data organization skills that will save you time and energy!
+
+Speakers
+
+-   Alex Davis, Postdoctoral Fellow, UCLA, and Pathways co-organizer
+-   Ileana Fenwick, Ph.D. Candidate, UNC Chapel Hill and Pathways Lead
+-   Aneese Williams, Environmental Management Systems Coordinator for the City of West Palm Beach, FL and Pathways co-organizer
+
+### February 9: Building our skills for a better tomorrow
+
+Hear from experts about building community and your data science toolkit for more efficient research!
+
+Speakers
+
+-   LaTreese Denson, Stock Assessment Analyst, NOAA Southeast Fisheries Science Center
+-   Jason Williams, Assistant Director, External Collaborations at Cold Spring Harbor Laboratory, DNALC; Education, Outreach, and Training lead for CyVerse
+
+### February 23: Data Science is for US
+
+Join the conversation! Hear all about our journeys into data science and building community for innovation.
+
+Speakers
+
+-   SherAaron Hurt, Director of Workshops, The Carpentries
+-   Tony Orr, Research Scientist, NOAA Alaska Fisheries Science Center
+-   Dawn Wright, Chief Scientist, Environmental Systems Research Institute (ESRI)
+
+### Join us every other week for coworking!
+
+Feb 2, 16, Mar 2, 5:00 - 6:00 pm EST
+
+Bring your code, bring a question or come learn a new skill with us!
 
 The event series builds from our work at [Openscapes](https://openscapes.org), where we believe open practices can accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science. Since 2019 we have mentored \>100 research teams, meeting them where they are as they develop enduring habits and community. All Openscapes events abide by our [Code of Conduct](https://www.openscapes.org/code-of-conduct/).
 
@@ -33,7 +68,7 @@ The event series builds from our work at [Openscapes](https://openscapes.org), w
 
 -   Welcome to the Openscapes community and Slack workspace as a resource for questions and networking
 
--   Free of cost
+-   Free
 
 ## Registration
 
@@ -43,11 +78,11 @@ The event series builds from our work at [Openscapes](https://openscapes.org), w
 
 ![Aneese Williams, Alex Davis, Ileana Fenwick (l to r)](images/aneese-alex-ileana-bweems.jpg){width="300" fig-align="left" fig-alt="3 smiling Black women standing in front of a BWEEMS-branded backdrop with an arbor of black, blue, green, and red balloons"}
 
-[Ileana Fenwick](https://twitter.com/_ileanaf) is PI and Lead of the Pathways to Open Science program and a core Openscapes team member. She is an open science advocate and Marine Sciences Ph.D. Student at UNC Chapel Hill. Ileana's research focuses on evaluating how marine communities respond to climate change and human impacts. Her work uses innovative quantitative methods to improve our ocean management outcomes. In addition to her research, Ileana is also a fierce advocate for HBCU engagement and equity in open science and marine science through her consulting and volunteer work.
+[Ileana Fenwick](https://twitter.com/_ileanaf) is PI (Principal Investigator) and Lead of the Pathways to Open Science program and a core Openscapes team member. She is an open science advocate and Marine Sciences Ph.D. Student at UNC Chapel Hill. Ileana's research focuses on evaluating how marine communities respond to climate change and human impacts. Her work uses innovative quantitative methods to improve our ocean management outcomes. In addition to her research, Ileana is also a fierce advocate for HBCU engagement and equity in open science and marine science through her consulting and volunteer work.
 
 [Alex Davis](http://www.alexandracddavis.com/) is co-organizing Pathways to Open Science as a representative of [BWEEMS](https://www.bweems.org/). She is a marine ecologist and conservation scientist working as a Postdoctoral Fellow on The Diversity Project at UCLA. Alex uses her skills with diving, GIS and spatial ecology to address issues with marine invasive species. Alex is on the Board of Directors for BWEEMS.
 
-[Aneese Williams](https://www.linkedin.com/in/aneese-williams-mps-80a846b6/) is co-organizing Pathways to Open Science as a representative of [BIMS](https://www.blackinmarinescience.org/). She is a graduate of Hampton University and has an M.Sc. in Marine Biology & Fisheries. Aneese is the Environmental Management Systems Coordinator for the City of West Palm Beach, FL. She is an expert in problem-solving with data, working to "do things better in less time".
+[Aneese Williams](https://www.linkedin.com/in/aneese-williams-mps-80a846b6/) is co-organizing Pathways to Open Science as a representative of [BIMS](https://www.blackinmarinescience.org/). She is a graduate of Hampton University where she studied Marine & Environmental Science. Aneese has an M.Sc. in Marine Biology & Fisheries from University of Miami Rosenstiel School of Marine and Atmospheric Science (RSMAS). Currently, Aneese is the Environmental Management Systems Coordinator for the City of West Palm Beach, FL. She manages an Environmental Education Program that allows employees to be more aware of their potential environmental impacts associated with their everyday tasks, highlighting the importance of protecting the environment. She is an expert in problem-solving with data, working to \"do things better in less time\".
 
 [Julie Lowndes](https://www.openscapes.org/team/) founded and directs Openscapes and provides support for the Pathways to Open Science program.
 
