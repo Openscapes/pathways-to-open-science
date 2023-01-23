@@ -25,8 +25,8 @@ Learn all about open science and data organization skills that will save you tim
 
 Speakers
 
--   [Alex Davis](http://www.alexandracddavis.com/), Postdoctoral Fellow, UCLA, and Pathways co-organizer
--   [Ileana Fenwick](https://twitter.com/_ileanaf), Ph.D. Candidate, UNC Chapel Hill and Pathways Lead
+-   [Alex Davis](http://www.alexandracddavis.com/), Postdoctoral Fellow, The Diversity Project at UCLA, and Pathways co-organizer
+-   [Ileana Fenwick](https://twitter.com/_ileanaf), PhD Student, UNC Chapel Hill and Pathways Lead
 -   [Aneese Williams](https://www.linkedin.com/in/aneese-williams-mps-80a846b6/), Environmental Management Systems Coordinator for the City of West Palm Beach, FL and Pathways co-organizer
 
 ### February 9: Building our skills for a better tomorrow
@@ -36,6 +36,7 @@ Hear from experts about building community and your data science toolkit for mor
 Speakers
 
 -   [LaTreese Denson](https://www.bweems.org/member-directory/latreese-s-denson-ph-d), Stock Assessment Analyst, NOAA Southeast Fisheries Science Center
+-   [De'Marcus Robinson](https://www.ioes.ucla.edu/person/demarcus-robinson-2/), PhD Student, Department of Atmospheric and Oceanic Sciences, UCLA 
 -   [Jason Williams](https://jasonjwilliamsny.github.io/profile/), Assistant Director, External Collaborations at Cold Spring Harbor Laboratory, DNALC; Education, Outreach, and Training lead for CyVerse
 
 ### February 23: Data Science is for US
