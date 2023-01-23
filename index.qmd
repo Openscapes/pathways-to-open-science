@@ -25,9 +25,9 @@ Learn all about open science and data organization skills that will save you tim
 
 Speakers
 
--   Alex Davis, Postdoctoral Fellow, UCLA, and Pathways co-organizer
--   Ileana Fenwick, Ph.D. Candidate, UNC Chapel Hill and Pathways Lead
--   Aneese Williams, Environmental Management Systems Coordinator for the City of West Palm Beach, FL and Pathways co-organizer
+-   [Alex Davis](http://www.alexandracddavis.com/), Postdoctoral Fellow, UCLA, and Pathways co-organizer
+-   [Ileana Fenwick](https://twitter.com/_ileanaf), Ph.D. Candidate, UNC Chapel Hill and Pathways Lead
+-   [Aneese Williams](https://www.linkedin.com/in/aneese-williams-mps-80a846b6/), Environmental Management Systems Coordinator for the City of West Palm Beach, FL and Pathways co-organizer
 
 ### February 9: Building our skills for a better tomorrow
 
@@ -35,8 +35,8 @@ Hear from experts about building community and your data science toolkit for mor
 
 Speakers
 
--   LaTreese Denson, Stock Assessment Analyst, NOAA Southeast Fisheries Science Center
--   Jason Williams, Assistant Director, External Collaborations at Cold Spring Harbor Laboratory, DNALC; Education, Outreach, and Training lead for CyVerse
+-   [LaTreese Denson](https://www.bweems.org/member-directory/latreese-s-denson-ph-d), Stock Assessment Analyst, NOAA Southeast Fisheries Science Center
+-   [Jason Williams](https://jasonjwilliamsny.github.io/profile/), Assistant Director, External Collaborations at Cold Spring Harbor Laboratory, DNALC; Education, Outreach, and Training lead for CyVerse
 
 ### February 23: Data Science is for US
 
@@ -44,9 +44,9 @@ Join the conversation! Hear all about our journeys into data science and buildin
 
 Speakers
 
--   SherAaron Hurt, Director of Workshops, The Carpentries
--   Tony Orr, Research Scientist, NOAA Alaska Fisheries Science Center
--   Dawn Wright, Chief Scientist, Environmental Systems Research Institute (ESRI)
+-   [SherAaron Hurt](https://carpentries.org/team/), Director of Workshops, The Carpentries
+-   [Tony Orr](https://www.fisheries.noaa.gov/contact/anthony-tony-orr), Research Scientist, NOAA Alaska Fisheries Science Center
+-   [Dawn Wright](https://twitter.com/deepseadawn), Chief Scientist, Environmental Systems Research Institute (ESRI)
 
 ### Join us every other week for coworking!
 
