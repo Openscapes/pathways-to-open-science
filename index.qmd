@@ -36,7 +36,7 @@ Hear from experts about building community and your data science toolkit for mor
 Speakers
 
 -   [LaTreese Denson](https://www.bweems.org/member-directory/latreese-s-denson-ph-d), Stock Assessment Analyst, NOAA Southeast Fisheries Science Center
--   [De'Marcus Robinson](https://www.ioes.ucla.edu/person/demarcus-robinson-2/), PhD Student, Department of Atmospheric and Oceanic Sciences, UCLA 
+-   [De'Marcus Robinson](https://www.ioes.ucla.edu/person/demarcus-robinson-2/), PhD Student, Department of Atmospheric and Oceanic Sciences, UCLA
 -   [Jason Williams](https://jasonjwilliamsny.github.io/profile/), Assistant Director, External Collaborations at Cold Spring Harbor Laboratory, DNALC; Education, Outreach, and Training lead for CyVerse
 
 ### February 23: Data Science is for US
@@ -77,13 +77,13 @@ The event series builds from our work at [Openscapes](https://openscapes.org), w
 
 ## Planning Team
 
-![Aneese Williams, Alex Davis, Ileana Fenwick (l to r)](images/aneese-alex-ileana-bweems.jpg){width="300" fig-align="left" fig-alt="3 smiling Black women standing in front of a BWEEMS-branded backdrop with an arbor of black, blue, green, and red balloons"}
+![Aneese Williams, Alex Davis, Ileana Fenwick (l to r)](images/aneese-alex-ileana-bweems.jpg){fig-alt="3 smiling Black women standing in front of a BWEEMS-branded backdrop with an arbor of black, blue, green, and red balloons" fig-align="left" width="300"}
 
 [Ileana Fenwick](https://twitter.com/_ileanaf) is PI (Principal Investigator) and Lead of the Pathways to Open Science program and a core Openscapes team member. She is an open science advocate and Marine Sciences Ph.D. Student at UNC Chapel Hill. Ileana's research focuses on evaluating how marine communities respond to climate change and human impacts. Her work uses innovative quantitative methods to improve our ocean management outcomes. In addition to her research, Ileana is also a fierce advocate for HBCU engagement and equity in open science and marine science through her consulting and volunteer work.
 
 [Alex Davis](http://www.alexandracddavis.com/) is co-organizing Pathways to Open Science as a representative of [BWEEMS](https://www.bweems.org/). She is a marine ecologist and conservation scientist working as a Postdoctoral Fellow on The Diversity Project at UCLA. Alex uses her skills with diving, GIS and spatial ecology to address issues with marine invasive species. Alex is on the Board of Directors for BWEEMS.
 
-[Aneese Williams](https://www.linkedin.com/in/aneese-williams-mps-80a846b6/) is co-organizing Pathways to Open Science as a representative of [BIMS](https://www.blackinmarinescience.org/). She is a graduate of Hampton University where she studied Marine & Environmental Science. Aneese has an M.Sc. in Marine Biology & Fisheries from University of Miami Rosenstiel School of Marine and Atmospheric Science (RSMAS). Currently, Aneese is the Environmental Management Systems Coordinator for the City of West Palm Beach, FL. She manages an Environmental Education Program that allows employees to be more aware of their potential environmental impacts associated with their everyday tasks, highlighting the importance of protecting the environment. She is an expert in problem-solving with data, working to \"do things better in less time\".
+[Aneese Williams](https://www.linkedin.com/in/aneese-williams-mps-80a846b6/) is co-organizing Pathways to Open Science as a representative of [BIMS](https://www.blackinmarinescience.org/). She is a graduate of Hampton University where she studied Marine & Environmental Science. Aneese has an M.Sc. in Marine Biology & Fisheries from University of Miami Rosenstiel School of Marine and Atmospheric Science (RSMAS). Currently, Aneese is the Environmental Management Systems Coordinator for the City of West Palm Beach, FL. She manages an Environmental Education Program that allows employees to be more aware of their potential environmental impacts associated with their everyday tasks, highlighting the importance of protecting the environment. She is an expert in problem-solving with data, working to "do things better in less time".
 
 [Julie Lowndes](https://www.openscapes.org/team/) founded and directs Openscapes and provides support for the Pathways to Open Science program.
 
@@ -118,6 +118,10 @@ To learn more about Openscapes approaches:
 -   [A Journey to Data Science: Tools for Equity and Diversity in STEM](https://github.com/IleanaF/rstudio-conf22) - July 28, 2022: Talk by Ileana Fenwick at RStudio Conference ([video](https://www.rstudio.com/conference/2022/talks/journey-to-data-science-tools/)) (20 minutes)
 -   [Supercharge your research: a 10-week plan for open data science](https://openscapes.github.io/supercharge-research/) (Lowndes et al. 2019, Nature)
 
-### Funding
+## Promotional Graphics
+
+![Enjoying the graphics for the event series in our social channels? Check out our incredible graphic designer [LaWanda Walker](https://www.linkedin.com/in/lawanda-walker-b673a71b2)!](images/pathways-commcall1-lawanda.png){fig-alt="poster for Community Call #1 with cartoon of kelp on the left and a Black woman sitting cross-legged, smiling reading a book" fig-align="left" width="300"}
+
+## Funding
 
 This event series is possible through funding from [Code for Science & Society](https://eventfund.codeforscience.org/event-fund-grantees/) through the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/). Thank you!
