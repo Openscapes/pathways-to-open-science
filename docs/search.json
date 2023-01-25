@@ -46,6 +46,13 @@
     "href": "resources.html",
     "title": "Resources",
     "section": "",
-    "text": "Palmer Archipelago Penguins Data in the palmerpenguins R Package (paper, talk, useR! 2022 talk)\nlterdatasampler (talk Leveraging data richness of the Long Term Ecological Research Network for an R datasets package)\nTidyTuesday, A weekly social data project in R\n\nTuskegee Airmen\nJuneteenth\n\nElevated blood lead level test results for St. Louis, MO (great repository with R code examples, links to articles about it, etc, from Chris Prener)\nCalEnviroScreen and EJscreen have lots to explore and investigate. The data are in pretty nice shape already; can be joined with other data (e.g. census).\nFor global datasets go to WorldBank (to make the data tidy, you have to use both a pivot_longer and a pivot_wider; these are functions in tidyr R package)\nUSDA Food Access Research Atlas (food access; food deserts).\nThis Twitter thread has good suggestions for social justice & some environmental justice-related datasets.\nThe Open Case Studies project is an educational resource of experiential guides that demonstrate how to effectively derive knowledge from data in real-world challenges. (preprint, Educator's Guide, Twitter thread)"
+    "text": "We will add resources here that come up in each session!"
+  },
+  {
+    "objectID": "resources.html#some-recommended-datasets-for-teaching",
+    "href": "resources.html#some-recommended-datasets-for-teaching",
+    "title": "Resources",
+    "section": "Some recommended datasets for teaching",
+    "text": "Some recommended datasets for teaching\nThese datasets are recommended by Allison Horst.\nPalmer Archipelago Penguins Data in the palmerpenguins R Package (paper, talk, useR! 2022 talk)\nlterdatasampler (talk Leveraging data richness of the Long Term Ecological Research Network for an R datasets package)\nTidyTuesday, A weekly social data project in R. Datasets include Tuskegee Airmen and Juneteenth\nElevated blood lead level test results for St. Louis, MO (great repository with R code examples, links to articles about it, etc, from Chris Prener)\nCalEnviroScreen and EJscreen have lots to explore and investigate. The data are in pretty nice shape already; can be joined with other data (e.g. census).\nFor global datasets go to WorldBank (to make the data tidy, you have to use both a pivot_longer and a pivot_wider; these are functions in tidyr R package)\nUSDA Food Access Research Atlas (food access; food deserts).\nThis Twitter thread has good suggestions for social justice & some environmental justice-related datasets.\nThe Open Case Studies project is an educational resource of experiential guides that demonstrate how to effectively derive knowledge from data in real-world challenges. (preprint, Educator's Guide, Twitter thread)"
   }
 ]

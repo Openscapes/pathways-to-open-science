@@ -2,16 +2,16 @@
 title: "Resources"
 ---
 
+We will add resources here that come up in each session! 
+
 ## Some recommended datasets for teaching
+These datasets are recommended by [Allison Horst](https://allisonhorst.github.io/). 
 
 Palmer Archipelago Penguins Data in the palmerpenguins R Package ([paper](https://journal.r-project.org/articles/RJ-2022-020/), [talk](https://allisonhorst.github.io/talks/sb_users_penguins_flash/), [useR! 2022 talk](https://apreshill.github.io/palmerpenguins-useR-2022/#/title-slide))
 
 lterdatasampler ([talk](https://allisonhorst.github.io/talks/esa_2021/) Leveraging data richness of the Long Term Ecological Research Network for an R datasets package)
 
-[TidyTuesday](https://github.com/rfordatascience/tidytuesday), A weekly social data project in R
-
--   [Tuskegee Airmen](https://github.com/rfordatascience/tidytuesday/blob/master/data/2022/2022-02-08/readme.md#tuskegee-airmen)
--   [Juneteenth](https://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-06-21)
+[TidyTuesday](https://github.com/rfordatascience/tidytuesday), A weekly social data project in R. Datasets include [Tuskegee Airmen](https://github.com/rfordatascience/tidytuesday/blob/master/data/2022/2022-02-08/readme.md#tuskegee-airmen) and [Juneteenth](https://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-06-21)
 
 Elevated blood lead level test results for St. Louis, MO (great [repository](https://github.com/slu-soc1120/STL_HEALTH_Lead) with R code examples, links to articles about it, etc, from Chris Prener)
 
