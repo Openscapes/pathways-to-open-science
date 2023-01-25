@@ -40,5 +40,12 @@
     "title": "Pathways to Open Science",
     "section": "Background Information",
     "text": "Background Information\nTo learn more about Openscapes approaches:\n\nA Journey to Data Science: Tools for Equity and Diversity in STEM - July 28, 2022: Talk by Ileana Fenwick at RStudio Conference (video) (20 minutes)\nSupercharge your research: a 10-week plan for open data science (Lowndes et al. 2019, Nature)\n\n\nFunding\nThis event series is possible through funding from Code for Science & Society through the Chan Zuckerberg Initiative. Thank you!"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Palmer Archipelago Penguins Data in the palmerpenguins R Package (paper, talk, useR! 2022 talk)\nlterdatasampler (talk Leveraging data richness of the Long Term Ecological Research Network for an R datasets package)\nTidyTuesday, A weekly social data project in R\n\nTuskegee Airmen\nJuneteenth\n\nElevated blood lead level test results for St. Louis, MO (great repository with R code examples, links to articles about it, etc, from Chris Prener)\nCalEnviroScreen and EJscreen have lots to explore and investigate. The data are in pretty nice shape already; can be joined with other data (e.g. census).\nFor global datasets go to WorldBank (to make the data tidy, you have to use both a pivot_longer and a pivot_wider; these are functions in tidyr R package)\nUSDA Food Access Research Atlas (food access; food deserts).\nThis Twitter thread has good suggestions for social justice & some environmental justice-related datasets.\nThe Open Case Studies project is an educational resource of experiential guides that demonstrate how to effectively derive knowledge from data in real-world challenges. (preprint, Educator's Guide, Twitter thread)"
   }
 ]
