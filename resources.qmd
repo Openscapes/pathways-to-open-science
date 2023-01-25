@@ -1,0 +1,26 @@
+---
+title: "Resources"
+---
+
+## Some recommended datasets for teaching
+
+Palmer Archipelago Penguins Data in the palmerpenguins R Package ([paper](https://journal.r-project.org/articles/RJ-2022-020/), [talk](https://allisonhorst.github.io/talks/sb_users_penguins_flash/), [useR! 2022 talk](https://apreshill.github.io/palmerpenguins-useR-2022/#/title-slide))
+
+lterdatasampler ([talk](https://allisonhorst.github.io/talks/esa_2021/) Leveraging data richness of the Long Term Ecological Research Network for an R datasets package)
+
+[TidyTuesday](https://github.com/rfordatascience/tidytuesday), A weekly social data project in R
+
+-   [Tuskegee Airmen](https://github.com/rfordatascience/tidytuesday/blob/master/data/2022/2022-02-08/readme.md#tuskegee-airmen)
+-   [Juneteenth](https://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-06-21)
+
+Elevated blood lead level test results for St. Louis, MO (great [repository](https://github.com/slu-soc1120/STL_HEALTH_Lead) with R code examples, links to articles about it, etc, from Chris Prener)
+
+[CalEnviroScreen](https://oehha.ca.gov/calenviroscreen) and [EJscreen](https://www.epa.gov/ejscreen) have lots to explore and investigate. The data are in pretty nice shape already; can be joined with other data (e.g. census).
+
+For global datasets go to [WorldBank](https://data.worldbank.org/) (to make the data tidy, you have to use both a `pivot_longer` and a `pivot_wider`; these are functions in [tidyr](https://tidyr.tidyverse.org/) R package)
+
+USDA [Food Access Research Atlas](https://www.ers.usda.gov/data-products/food-access-research-atlas/) (food access; food deserts).
+
+This [Twitter thread](https://twitter.com/k_lyberger/status/1344733416017645569) has good suggestions for social justice & some environmental justice-related datasets.
+
+The [Open Case Studies project](https://www.opencasestudies.org/) is an educational resource of experiential guides that demonstrate how to effectively derive knowledge from data in real-world challenges. ([preprint](https://arxiv.org/abs/2301.05298), [Educator\'s Guide](https://www.opencasestudies.org/OCS_Guide/), Twitter [thread](https://twitter.com/stephaniehicks/status/1615322767380910081))
