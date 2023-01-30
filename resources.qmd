@@ -2,10 +2,29 @@
 title: "Resources"
 ---
 
-We will add resources here that come up in each session! 
+Quicklink: [OpenscapesCommunityCalls \[ 2023-pathways \]](https://drive.google.com/drive/folders/19AprdqWkO4SSBHD6XwzHRcPoniQm2bYy) Google Drive folder
+
+This page links to the content from each Community Call (e.g. agenda, video, slides) as well as more general resources like [Some recommended datasets for teaching].
+
+We will add resources here that come up in each session!
+
+## Community Calls
+
+### Call 01, January 26: What is open science anyway? What can it mean for you? 
+
+Learn all about open science and data organization skills that will save you time and energy!
+
+Ileana Fenwick, Aneese Williams, and Alex Davis each shared their path to open science and Ileana taught us about Data Strategies for Future Us. ([Agenda](https://docs.google.com/document/d/1c9bv0YqhN0ifQEMmd8Es7L7LDx1RQCMZPPsVhkV38yc/edit#) \| [Video](https://drive.google.com/file/d/1Vt0F9RhH41Fgf5KapuD-XYUR0-gKtaAN/view) \| Slides to come)
+
+Speakers
+
+-   [Alex Davis](http://www.alexandracddavis.com/), Postdoctoral Fellow, The Diversity Project at UCLA, and Pathways co-organizer
+-   [Ileana Fenwick](https://twitter.com/_ileanaf), PhD Student, UNC Chapel Hill and Pathways Lead
+-   [Aneese Williams](https://www.linkedin.com/in/aneese-williams-mps-80a846b6/), Environmental Management Systems Coordinator for the City of West Palm Beach, FL and Pathways co-organizer
 
 ## Some recommended datasets for teaching
-These datasets are recommended by [Allison Horst](https://allisonhorst.github.io/). 
+
+These datasets are recommended by [Allison Horst](https://allisonhorst.github.io/).
 
 Palmer Archipelago Penguins Data in the palmerpenguins R Package ([paper](https://journal.r-project.org/articles/RJ-2022-020/), [talk](https://allisonhorst.github.io/talks/sb_users_penguins_flash/), [useR! 2022 talk](https://apreshill.github.io/palmerpenguins-useR-2022/#/title-slide))
 
@@ -23,4 +42,4 @@ USDA [Food Access Research Atlas](https://www.ers.usda.gov/data-products/food-ac
 
 This [Twitter thread](https://twitter.com/k_lyberger/status/1344733416017645569) has good suggestions for social justice & some environmental justice-related datasets.
 
-The [Open Case Studies project](https://www.opencasestudies.org/) is an educational resource of experiential guides that demonstrate how to effectively derive knowledge from data in real-world challenges. ([preprint](https://arxiv.org/abs/2301.05298), [Educator\'s Guide](https://www.opencasestudies.org/OCS_Guide/), Twitter [thread](https://twitter.com/stephaniehicks/status/1615322767380910081))
+The [Open Case Studies project](https://www.opencasestudies.org/) is an educational resource of experiential guides that demonstrate how to effectively derive knowledge from data in real-world challenges. ([preprint](https://arxiv.org/abs/2301.05298), [Educator's Guide](https://www.opencasestudies.org/OCS_Guide/), Twitter [thread](https://twitter.com/stephaniehicks/status/1615322767380910081))
