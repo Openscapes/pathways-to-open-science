@@ -24,7 +24,52 @@ Speakers
 -   [Ileana Fenwick](https://twitter.com/_ileanaf), PhD Student, UNC Chapel Hill and Pathways Lead
 -   [Aneese Williams](https://www.linkedin.com/in/aneese-williams-mps-80a846b6/), Environmental Management Systems Coordinator for the City of West Palm Beach, FL and Pathways co-organizer
 
-## Some recommended datasets for teaching
+## Coworking
+
+[Collaborative notes](https://docs.google.com/document/d/1t0WXHZEiNtM6p6haEQgGJXZKC5t8Ek_m4qHa-k6Ntfo/) Google doc. Notes from 3 coworking sessions all in the same doc.
+
+### Coworking #1
+
+We had breakout rooms for social or quiet working, plus rooms for discussions, screenshares and learning about Datasets for Classrooms+Working/learning in R and Tools / ArcGIS.
+
+-   **Tools/ArcGIS**
+
+    -   <https://brooklab.org/> \> Bat lab led by Cara Brook
+
+    -   Googling for tutorials together
+
+        -   <https://spatialanalysis.github.io/tutorials/>
+
+        -   <https://sites.tufts.edu/gis/learning-gis/online-tips-and-tutorials/tufts-gis-tip-sheets-arcgis10/> 
+
+        -   <https://ohi-science.org/training/> \> Spatial Analysis \> [A primer on coordinate reference systems](https://github.com/OHI-Science/ohi-science.github.io/raw/dev/assets/downloads/other/CRS.pdf) (download, created by Melanie Frazier)
+
+    -   R spatial software, and tutorials: <https://r-spatial.org/> 
+
+    -   Light datasets?
+
+        -   <https://data.neonscience.org/data-products/explore?search=light%20pollution>
+
+        -   <https://search.earthdata.nasa.gov/search?lat=-0.0703125> \> Openscapes Slack to connect directly with LandSAT data center folks!
+
+    -   <https://www.esri.com/arcgis-blog/author/deepseadawn/> 
+
+```{=html}
+<!-- -->
+```
+-   **Datasets for Classrooms / working & learning in R**
+
+    -   R tutorials for fish and ecological data
+
+        -   materials for the #BlackInMarineScience week intro to R workshop, \#[PuttingTheSEAInCode](https://github.com/latreesedenson/PuttingTheSEAInCode)
+
+        -   [BWEEMS](https://www.bweems.org/) professional development workshop, [DirtyData-CleanMaps](https://github.com/OfficialBweems/DirtyData-CleanMaps)
+
+    -   Biology Tutorials for [R](https://colebrookson.github.io/r-for-biology/) and [Python](https://colebrookson.github.io/python-for-biology/), by Cole Brookson
+
+    -   Camille\'s dataset, [FishScapes/hyperstabilitySurvey](https://zenodo.org/record/6944763#.Y9w5nnbMK3A)
+
+## Some recommended datasets for teaching {data-link="Some recommended datasets for teaching"}
 
 -   Palmer Archipelago Penguins Data in the palmerpenguins R Package ([paper](https://journal.r-project.org/articles/RJ-2022-020/), [talk](https://allisonhorst.github.io/talks/sb_users_penguins_flash/), [useR! 2022 talk](https://apreshill.github.io/palmerpenguins-useR-2022/#/title-slide))
 
@@ -43,5 +88,3 @@ Speakers
 -   This [Twitter thread](https://twitter.com/k_lyberger/status/1344733416017645569) has good suggestions for social justice & some environmental justice-related datasets.
 
 -   The [Open Case Studies project](https://www.opencasestudies.org/) is an educational resource of experiential guides that demonstrate how to effectively derive knowledge from data in real-world challenges. ([preprint](https://arxiv.org/abs/2301.05298), [Educator's Guide](https://www.opencasestudies.org/OCS_Guide/), Twitter [thread](https://twitter.com/stephaniehicks/status/1615322767380910081))
-
-Thank you [Allison Horst](https://allisonhorst.github.io/), [Stefanie Butland](https://www.openscapes.org/team/), and others for the recommendations.
