@@ -36,50 +36,21 @@ Speakers
 -   [De'Marcus Robinson](https://demarcusr.com/), PhD Student, Department of Atmospheric and Oceanic Sciences, UCLA
 -   [Jason Williams](https://jasonjwilliamsny.github.io/profile/), Assistant Director, External Collaborations at Cold Spring Harbor Laboratory, DNALC; Education, Outreach, and Training lead for CyVerse
 
+## Resources recommended by Community Call speakers
 
-## Coworking
+-   Ileana's [tweet](https://twitter.com/_ileanaf/status/1618042004939898880) demonstrating the power of community for asking questions & building your network. Responses include people's favorite packages, tutorials, and their enthusiasm
 
-[Collaborative notes](https://docs.google.com/document/d/1t0WXHZEiNtM6p6haEQgGJXZKC5t8Ek_m4qHa-k6Ntfo/) Google doc. Notes from 3 coworking sessions all in the same doc.
+-   The [Bicycle Principles](https://www.bikeprinciples.org/) for Effective, Inclusive, and Career-spanning Short-format Training
 
-### Coworking #1
+-   [CyVerse](https://cyverse.org/), The Open Science Workspace for Collaborative Data-driven Discovery
 
-We had breakout rooms for social or quiet working, plus rooms for discussions, screenshares and learning about Datasets for Classrooms+Working/learning in R and Tools / ArcGIS.
+-   [Life Science Trainers](https://lifescitrainers.org/). A global community of practice for short-format training in the life sciences
 
--   **Tools/ArcGIS**
+-   [OceanHackWeek](https://oceanhackweek.org/) is a 5-day collaborative learning experience aimed at exploring, creating and promoting effective computation and analysis workflows for large and complex oceanographic data.
 
-    -   <https://brooklab.org/> \> Bat lab led by Cara Brook
+-   [Tidy Data Illustrated Series](https://www.openscapes.org/blog/2020/10/12/tidy-data/), by Julie Lowndes and Allison Horst
 
-    -   Googling for tutorials together
-
-        -   <https://spatialanalysis.github.io/tutorials/>
-
-        -   <https://sites.tufts.edu/gis/learning-gis/online-tips-and-tutorials/tufts-gis-tip-sheets-arcgis10/> 
-
-        -   <https://ohi-science.org/training/> \> Spatial Analysis \> [A primer on coordinate reference systems](https://github.com/OHI-Science/ohi-science.github.io/raw/dev/assets/downloads/other/CRS.pdf) (download, created by Melanie Frazier)
-
-    -   R spatial software, and tutorials: <https://r-spatial.org/> 
-
-    -   Light datasets?
-
-        -   <https://data.neonscience.org/data-products/explore?search=light%20pollution>
-
-        -   <https://search.earthdata.nasa.gov/search?lat=-0.0703125> \> Openscapes Slack to connect directly with LandSAT data center folks!
-
-    -   <https://www.esri.com/arcgis-blog/author/deepseadawn/> 
-
-<!-- -->
-
--   **Datasets for Classrooms / working & learning in R**
-
-    -   R tutorials for fish and ecological data
-
-        -   materials for the #BlackInMarineScience week intro to R workshop, \#[PuttingTheSEAInCode](https://github.com/latreesedenson/PuttingTheSEAInCode)
-
-        -   [BWEEMS](https://www.bweems.org/) professional development workshop, [DirtyData-CleanMaps](https://github.com/OfficialBweems/DirtyData-CleanMaps)
-
-    -   Biology Tutorials for [R](https://colebrookson.github.io/r-for-biology/) and [Python](https://colebrookson.github.io/python-for-biology/), by Cole Brookson
-
-    -   Camille's dataset, [FishScapes/hyperstabilitySurvey](https://zenodo.org/record/6944763#.Y9w5nnbMK3A)
+-   [The Carpentries](https://carpentries.org/) teach foundational coding and data science skills to researchers worldwide
 
 ## Some recommended datasets for teaching {data-link="Some recommended datasets for teaching"}
 
@@ -101,20 +72,45 @@ We had breakout rooms for social or quiet working, plus rooms for discussions, s
 
 -   The [Open Case Studies project](https://www.opencasestudies.org/) is an educational resource of experiential guides that demonstrate how to effectively derive knowledge from data in real-world challenges. ([preprint](https://arxiv.org/abs/2301.05298), [Educator's Guide](https://www.opencasestudies.org/OCS_Guide/), Twitter [thread](https://twitter.com/stephaniehicks/status/1615322767380910081))
 
-## Resources recommended by Community Call speakers
+## Coworking
 
-- Ileana's [tweet](https://twitter.com/_ileanaf/status/1618042004939898880) demonstrating the power of community for asking questions & building your network. Responses include people's favorite packages, tutorials, and their enthusiasm
+Coworking comes in many flavors. For us, coworking involves doing our own work at the same time together with opportunities to check in, and sometimes screenshare to get feedback or solve a problem. Seeing how other people work is a big part of this transition to working more openly and collaboratively.
 
--   The [Bicycle Principles](https://www.bikeprinciples.org/) for Effective, Inclusive, and Career-spanning Short-format Training
+[Collaborative notes](https://docs.google.com/document/d/1t0WXHZEiNtM6p6haEQgGJXZKC5t8Ek_m4qHa-k6Ntfo/) Google doc. Notes from 3 coworking sessions all in the same doc.
 
--   [CyVerse](https://cyverse.org/), The Open Science Workspace for Collaborative Data-driven Discovery
+We've had breakout rooms for social, quiet working, plus rooms for discussions, screenshares and learning about Datasets for Classrooms+Working/learning in R and Tools / ArcGIS, data wrangling.
 
--   [Life Science Trainers](https://lifescitrainers.org/). A global community of practice for short-format training in the life sciences
+### Tools/ArcGIS
 
--   [OceanHackWeek](https://oceanhackweek.org/) is a 5-day collaborative learning experience aimed at exploring, creating and promoting effective computation and analysis workflows for large and complex oceanographic data.
+-   <https://brooklab.org/> \> Bat lab led by Cara Brook
+-   Googling for tutorials together
+    -   <https://spatialanalysis.github.io/tutorials/>
+    -   <https://sites.tufts.edu/gis/learning-gis/online-tips-and-tutorials/tufts-gis-tip-sheets-arcgis10/>
+    -   <https://ohi-science.org/training/> \> Spatial Analysis \> [A primer on coordinate reference systems](https://github.com/OHI-Science/ohi-science.github.io/raw/dev/assets/downloads/other/CRS.pdf) (download, created by Melanie Frazier)
+    -   R spatial software, and tutorials: <https://r-spatial.org/> 
+-   Light datasets?
+    -   <https://data.neonscience.org/data-products/explore?search=light%20pollution>
+    -   <https://search.earthdata.nasa.gov/search?lat=-0.0703125> \> Openscapes Slack to connect directly with LandSAT data center folks!
+-   <https://www.esri.com/arcgis-blog/author/deepseadawn/>
 
-- [Tidy Data Illustrated Series](https://www.openscapes.org/blog/2020/10/12/tidy-data/), by Julie Lowndes and Allison Horst
+### Datasets for Classrooms / working & learning in R
 
-- [The Carpentries](https://carpentries.org/) teach foundational coding and data science skills to researchers worldwide
+-   R tutorials for fish and ecological data
+    -   materials for the #BlackInMarineScience week intro to R workshop, \#[PuttingTheSEAInCode](https://github.com/latreesedenson/PuttingTheSEAInCode)
+    -   [BWEEMS](https://www.bweems.org/) professional development workshop, [DirtyData-CleanMaps](https://github.com/OfficialBweems/DirtyData-CleanMaps)
+-   Biology Tutorials for [R](https://colebrookson.github.io/r-for-biology/) and [Python](https://colebrookson.github.io/python-for-biology/), by Cole Brookson
+-   Camille's dataset, [FishScapes/hyperstabilitySurvey](https://zenodo.org/record/6944763#.Y9w5nnbMK3A)
 
+### Data wrangling + R
 
+-   Movement R packages
+    -   <https://nmml.github.io/tidy-movt-modeling/> book created by NOAA Fisheries team, to accompany their R package
+    -   <https://jmlondon.github.io/pathroutr/>; one of the packages included in the book
+    -   <https://docs.ropensci.org/pathviewr/> - an rOpenSci peer reviewed package that looks to be well maintained
+-   Data wrangling
+    -   Open Refine (Alex), <https://openrefine.org/> 
+    -   For thinking about managing and combining data, this is my (Julie) favorite resource: <https://peerj.com/preprints/3183/>
+    -   <https://nssdeviations.com/episode-9-spreadsheet-drama> \> Podcast about spreadsheets that is SO delightful and helps give language to thinking & talking about data. With Jenny Bryan, changed my life (Julie).
+-   Other
+    -   [A User's Guide to Network Analysis in R](https://link.springer.com/book/10.1007/978-3-319-23883-8)
+    -   <https://www.bigbookofr.com/> \> Big Book of R, lists and links to \>100 R resources/tutorials with many different foci
