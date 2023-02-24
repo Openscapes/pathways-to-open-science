@@ -28,13 +28,25 @@ Speakers
 
 Hear from experts about building community and your data science toolkit for more efficient research!
 
-([Agenda](https://docs.google.com/document/d/1cwCSRWLxXb_-P_HIlKGa-YTuFdwmXnV2JNV-w-_5UHw/edit) \| [Video](https://drive.google.com/file/d/1Zu1eJV7mkbpkrH-xD-jg3_Ilw0gY6Pbg/view) \| [Slides](https://drive.google.com/drive/folders/1PrK9-OFmR8stgI3sZPHOsUaOQi0D9FlF))
+([Agenda](https://docs.google.com/document/d/1cwCSRWLxXb_-P_HIlKGa-YTuFdwmXnV2JNV-w-_5UHw/edit) \| [Video](https://drive.google.com/file/d/1Zu1eJV7mkbpkrH-xD-jg3_Ilw0gY6Pbg/view) \| [Slides](https://drive.google.com/drive/folders/1huywikS2v5vMUsxdKfCRH5J3WKulk6jM))
 
 Speakers
 
 -   [LaTreese Denson](https://www.bweems.org/member-directory/latreese-s-denson-ph-d), Stock Assessment Analyst, NOAA Southeast Fisheries Science Center
 -   [De'Marcus Robinson](https://demarcusr.com/), PhD Student, Department of Atmospheric and Oceanic Sciences, UCLA
 -   [Jason Williams](https://jasonjwilliamsny.github.io/profile/), Assistant Director, External Collaborations at Cold Spring Harbor Laboratory, DNALC; Education, Outreach, and Training lead for CyVerse
+
+### February 23: Data Science is for US
+
+Join the conversation! Hear all about our journeys into data science and building community for innovation.
+
+Speakers
+
+-   [SherAaron Hurt](https://carpentries.org/team/), Director of Workshops, The Carpentries
+-   [Tony Orr](https://www.fisheries.noaa.gov/contact/anthony-tony-orr), Research Scientist, NOAA Alaska Fisheries Science Center
+-   [Dawn Wright](https://twitter.com/deepseadawn), Chief Scientist, Environmental Systems Research Institute (ESRI)
+
+([Agenda](https://docs.google.com/document/d/1MSa44xDoD27ryaLPnc4r63aT5sIzGBdhOi9uYja1ypo/) \| [Video](https://drive.google.com/file/d/1APfoKwL-eZ0mOpE5vMPPQZInjJKHOJMx/) \| Slides)
 
 ## Resources recommended by Community Call speakers
 
@@ -50,7 +62,7 @@ Speakers
 
 -   [Tidy Data Illustrated Series](https://www.openscapes.org/blog/2020/10/12/tidy-data/), by Julie Lowndes and Allison Horst
 
--   [The Carpentries](https://carpentries.org/) teach foundational coding and data science skills to researchers worldwide
+-   [The Carpentries](https://carpentries.org/) teach foundational coding and data science skills to researchers worldwide; [Welcome to The Carpentries tip sheet](https://carpentries.org/welcome-tip-sheet/)
 
 ## Some recommended datasets for teaching {data-link="Some recommended datasets for teaching"}
 
