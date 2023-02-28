@@ -46,7 +46,7 @@ Speakers
 -   [Tony Orr](https://www.fisheries.noaa.gov/contact/anthony-tony-orr), Research Scientist, NOAA Alaska Fisheries Science Center
 -   [Dawn Wright](https://twitter.com/deepseadawn), Chief Scientist, Environmental Systems Research Institute (ESRI)
 
-([Agenda](https://docs.google.com/document/d/1MSa44xDoD27ryaLPnc4r63aT5sIzGBdhOi9uYja1ypo/) \| [Video](https://drive.google.com/file/d/1APfoKwL-eZ0mOpE5vMPPQZInjJKHOJMx/) \| Slides)
+([Agenda](https://docs.google.com/document/d/1MSa44xDoD27ryaLPnc4r63aT5sIzGBdhOi9uYja1ypo/) \| [Video](https://drive.google.com/file/d/1APfoKwL-eZ0mOpE5vMPPQZInjJKHOJMx/) \| [Slides](https://drive.google.com/drive/folders/1WAVT59-HASvg7TLI3b8m82KkTggLn5uX?usp=share_link) \| Dawn's [poster](https://esriurl.com/agudatasci))
 
 ## Resources recommended by Community Call speakers
 
