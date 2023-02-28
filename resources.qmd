@@ -64,6 +64,22 @@ Speakers
 
 -   [The Carpentries](https://carpentries.org/) teach foundational coding and data science skills to researchers worldwide; [Welcome to The Carpentries tip sheet](https://carpentries.org/welcome-tip-sheet/)
 
+-   The Carpentries just completed \"[Alfred P. Sloan Foundation award](https://carpentries.org/blog/2021/06/carpentries-sloan-foundation-announcement/) to advance The Carpentries Equity and Inclusion goals for training researchers of color".
+
+-   '[Join the Rebel Alliance](https://www.openscapes.org/blog/2021/03/25/rebel-alliance-dr-dawn-wright/)' - An Openscapes Interview with Dr. Dawn Wright at Mozfest
+
+-   ArcGIS [Living Atlas of the World](https://livingatlas.arcgis.com/en/home/)
+
+-   [Replicability and Reproducibility via Workflows and Workbenches](https://sgsup.asu.edu/sparc/workshop/RRWorkshop), "Replicability and Reproducibility in Geospatial Research: A Spatial Analysis Research Center (SPARC) Workshop, Arizona State University, Tempe, AZ.
+
+-   Wilson, J.P., Butler, K., Gao, S., Hu, Y., Li, W., and Wright, D.J., A five-star guide for achieving replicability and reproducibility when working with GIS software and algorithms, Annals of the American Association of Geographers, 110: [doi: 10.1080/24694452.2020.1806026](https://www.tandfonline.com/doi/full/10.1080/24694452.2020.1806026).
+
+-   [NASA Transform to Open Science](https://science.nasa.gov/open-science/transform-to-open-science) (TOPS)
+
+-   2023 Year of Open Science ([Biden Harris administration announcement](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/))
+
+-   [Welcome to Tidy Movement Modeling with R](https://nmml.github.io/tidy-movt-modeling/), a welcoming telemetry resource from Tony & colleagues
+
 ## Some recommended datasets for teaching {data-link="Some recommended datasets for teaching"}
 
 -   Palmer Archipelago Penguins Data in the palmerpenguins R Package ([paper](https://journal.r-project.org/articles/RJ-2022-020/), [talk](https://allisonhorst.github.io/talks/sb_users_penguins_flash/), [useR! 2022 talk](https://apreshill.github.io/palmerpenguins-useR-2022/#/title-slide))
@@ -104,6 +120,7 @@ We've had breakout rooms for social, quiet working, plus rooms for discussions, 
     -   <https://data.neonscience.org/data-products/explore?search=light%20pollution>
     -   <https://search.earthdata.nasa.gov/search?lat=-0.0703125> \> Openscapes Slack to connect directly with LandSAT data center folks!
 -   <https://www.esri.com/arcgis-blog/author/deepseadawn/>
+-   [Welcome to Tidy Movement Modeling with R](https://nmml.github.io/tidy-movt-modeling/)
 
 ### Datasets for Classrooms / working & learning in R
 
