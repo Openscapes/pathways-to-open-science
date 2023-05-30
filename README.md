@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.7662699.svg)](https://doi.org/10.5281/zenodo.7662699) 
+
 # Pathways to Open Science
 
 Welcome! 
