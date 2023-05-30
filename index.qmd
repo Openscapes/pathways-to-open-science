@@ -128,10 +128,10 @@ This event series is possible through funding from [Code for Science & Society](
 
 ## Citation
 
-Please cite Pathways to Open Science through the project’s Zenodo archive using DOI: [10.5281/zenodo.7662699](https://doi.org/10.5281/zenodo.7662699). This DOI represents all versions, and will always resolve to the latest one.
+Please cite Pathways to Open Science through the project's Zenodo archive using DOI: [10.5281/zenodo.7662699](https://doi.org/10.5281/zenodo.7662699). This DOI represents all versions, and will always resolve to the latest one.
 
 The citation will look something like:
 
-> Ileana Fenwick, & Julia Stewart Lowndes. (2023). Pathways to Open Science (2023.02). Zenodo. https://doi.org/10.5281/zenodo.7662700
+> Ileana Fenwick & Julia Stewart Lowndes. (2023). Pathways to Open Science (2023.02). Zenodo. https://doi.org/10.5281/zenodo.7662700
 
-Please visit the Pathways [DOI link](https://doi.org/10.5281/zenodo.7662699) to get the most recent version - the one above is not automatically generated and may be out of date if we release an updated version. 
+Please visit the Pathways [DOI link](https://doi.org/10.5281/zenodo.7662699) to get the most recent version - the one above is not automatically generated and may be out of date if we release an updated version.
