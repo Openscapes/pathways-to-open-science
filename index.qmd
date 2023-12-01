@@ -2,7 +2,7 @@
 title: "Pathways to Open Science"
 ---
 
-## Welcome
+## **Welcome**
 
 **Pathways to Open Science** is a remote event series for Black environmental & marine researchers to build community for the future of data intensive science. Led by Ileana Fenwick of [Openscapes](https://openscapes.org) in partnership with [Black in Marine Science (BIMS)](https://www.blackinmarinescience.org/) and [Black Women in Ecology, Evolution, and Marine Science (BWEEMS)](https://www.bweems.org/), the series will begin on January 25, 2024!
 
@@ -19,7 +19,7 @@ This remote event series will convene Black environmental and marine researcher 
 -   3 coworking sessions: 1.5 hour calls structured for folks to bring their own work, practice skill building, screenshare, and ask questions.
     -   February 1, 15, 29 from 5:00 to 6:30 pm EST
 
-## Registration
+## **Registration**
 
 [**Register via Zoom**](https://zoom.us/meeting/register/tJ0ldempqDIrHtQ4KqAbr442Tm0xl4-h_dtC). If you are a Black marine scientist and/or an HBCU student, we would love to have you! We hope you are able to attend all six events, however, you are welcome to join as many as you are able to. Please invite others to join you! If you are an ally, please help us amplify Black voices; we suggest allies do not sign up for this particular series.
 
@@ -59,7 +59,7 @@ Speakers
 
 ### Join us every other week for coworking!
 
-Feb 2, 16, Mar 2, 5:00 - 6:00 pm EST
+Feb 2, 16, Mar 29, 5:00 - 6:00 pm EST
 
 Bring your code, bring a question or come learn a new skill with us!
 
@@ -79,7 +79,7 @@ The event series builds from our work at [Openscapes](https://openscapes.org), w
 
 -   Free
 
-## Planning Team
+## **Planning Team**
 
 ![Aneese Williams, Alex Davis, Ileana Fenwick (l to r)](images/aneese-alex-ileana-bweems.jpg){fig-alt="3 smiling Black women standing in front of a BWEEMS-branded backdrop with an arbor of black, blue, green, and red balloons" fig-align="left" width="300"}
 
@@ -95,15 +95,15 @@ The event series builds from our work at [Openscapes](https://openscapes.org), w
 
 ### Timeline
 
--   October 2022: Partnership planning
+-   October - November 2023: Partnership planning
 
--   Week of November 14-18: Liaison onboarding call
+-   November 29: Planning team kickoff call
 
--   December-January 2023 planning meetings with liaisons and social media engagement, registration opens
+-   December - January 2024 planning meetings with liaisons and social media engagement, registration opens
 
--   January 26, 2023 - event series kick-off
+-   January 24, 2024 - event series kickoff
 
--   March 2 - event series concludes
+-   Februrary 29 - event series concludes
 
 -   March-April - followup and publish cross-posted blog post!
 
@@ -113,7 +113,7 @@ The event series builds from our work at [Openscapes](https://openscapes.org), w
 
 **BIMS**: [Website](https://blackinmarinescience.org) • [Instagram](https://instagram.com/blackinmarinescience?igshid=MWI4MTIyMDE=) • [Twitter](https://twitter.com/blackinmarsci) • [YouTube](https://www.youtube.com/BlackInMarineScience)
 
-**Openscapes**: [Website](https://openscapes.org) • [Twitter](https://twitter.com/openscapes) • [YouTube](https://www.youtube.com/@openscapes)
+**Openscapes**: [Website](https://openscapes.org) • [Mastodon](https://fosstodon.org/@openscapes) • [YouTube](https://www.youtube.com/@openscapes)
 
 ## Background Information
 
