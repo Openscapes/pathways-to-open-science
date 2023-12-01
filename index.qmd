@@ -16,7 +16,7 @@ This remote event series will convene Black environmental and marine researcher 
 
 -   3 community calls: 1.5 hour calls with facilitated discussion, mini-lectures and community conversations with Black data scientists, data science leaders and students
     -   January 25, February 8, 22 from 5:00 to 6:30 pm EST
--   3 coworking sessions: 1.5 hour calls structured for folks to bring their own work, practice skill building, screenshare, and ask questions.
+-   3 coworking sessions: 1.5 hour calls structured for folks to bring their own work, their code, or questions, screenshare, and come learn a new skill with us!
     -   February 1, 15, 29 from 5:00 to 6:30 pm EST
 
 ## **Registration**
@@ -25,43 +25,7 @@ This remote event series will convene Black environmental and marine researcher 
 
 ------------------------------------------------------------------------
 
-*Below is a glimpse of our 2023 program. Updates for 2024 coming soon!*
-
-### January 26: What is open science anyway? What can it mean for you?
-
-Learn all about open science and data organization skills that will save you time and energy!
-
-Speakers
-
--   [Alex Davis](http://www.alexandracddavis.com/), Postdoctoral Fellow, The Diversity Project at UCLA, and Pathways co-organizer
--   [Ileana Fenwick](https://twitter.com/_ileanaf), PhD Student, UNC Chapel Hill and Pathways Lead
--   [Aneese Williams](https://www.linkedin.com/in/aneese-williams-mps-80a846b6/), Environmental Management Systems Coordinator for the City of West Palm Beach, FL and Pathways co-organizer
-
-### February 9: Building our skills for a better tomorrow
-
-Hear from experts about building community and your data science toolkit for more efficient research!
-
-Speakers
-
--   [LaTreese Denson](https://www.bweems.org/member-directory/latreese-s-denson-ph-d), Stock Assessment Analyst, NOAA Southeast Fisheries Science Center
--   [De'Marcus Robinson](https://demarcusr.com/), PhD Student, Department of Atmospheric and Oceanic Sciences, UCLA
--   [Jason Williams](https://jasonjwilliamsny.github.io/profile/), Assistant Director, External Collaborations at Cold Spring Harbor Laboratory, DNALC; Education, Outreach, and Training lead for CyVerse
-
-### February 23: Data Science is for US
-
-Join the conversation! Hear all about our journeys into data science and building community for innovation.
-
-Speakers
-
--   [SherAaron Hurt](https://carpentries.org/team/), Director of Workshops, The Carpentries
--   [Tony Orr](https://www.fisheries.noaa.gov/contact/anthony-tony-orr), Research Scientist, NOAA Alaska Fisheries Science Center
--   [Dawn Wright](https://twitter.com/deepseadawn), Chief Scientist, Environmental Systems Research Institute (ESRI)
-
-### Join us every other week for coworking!
-
-Feb 2, 16, Mar 29, 5:00 - 6:00 pm EST
-
-Bring your code, bring a question or come learn a new skill with us!
+**What will Pathways to Open Science look like?** Check out the speakers and resources shared in our [2023 Series](2023.qmd). Details for 2024 coming soon!
 
 The event series builds from our work at [Openscapes](https://openscapes.org), where we believe open practices can accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science. Since 2019 we have mentored \>100 research teams, meeting them where they are as they develop enduring habits and community. All Openscapes events abide by our [Code of Conduct](https://www.openscapes.org/code-of-conduct/).
 
