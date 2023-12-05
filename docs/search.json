@@ -1,7 +1,84 @@
 [
   {
+    "objectID": "2024.html",
+    "href": "2024.html",
+    "title": "Resources 2024",
+    "section": "",
+    "text": "Pathways to Open Science 2024 starts January 25th. This page will link to the content from each Community Call (e.g. agenda, video, slides) as well as resources shared by speakers and participants. We will add resources here that come up in each session.\nQuicklink: [OpenscapesCommunityCalls [ 2024-pathways ]] (LINK) Google Drive folder"
+  },
+  {
+    "objectID": "2024.html#community-calls",
+    "href": "2024.html#community-calls",
+    "title": "Resources 2024",
+    "section": "Community Calls",
+    "text": "Community Calls\n\nCall 1, January 25: What is open science anyway? What can it mean for you?\nLearn all about open science and data organization skills that will save you time and energy!\n\n\nCall 2, February 8: Building our skills for a better tomorrow\nHear from experts about building community and your data science toolkit for more efficient research!\n\n\nCall 3, February 22: Data Science is for US\nJoin the conversation! Hear all about our journeys into data science and building community for innovation."
+  },
+  {
+    "objectID": "2024.html#resources-recommended-by-speakers",
+    "href": "2024.html#resources-recommended-by-speakers",
+    "title": "Resources 2024",
+    "section": "Resources recommended by Speakers",
+    "text": "Resources recommended by Speakers\nWe’ll add links here after each Call."
+  },
+  {
+    "objectID": "2024.html#coworking",
+    "href": "2024.html#coworking",
+    "title": "Resources 2024",
+    "section": "Coworking",
+    "text": "Coworking\nCoworking comes in many flavors. For us, coworking involves doing our own work at the same time together with opportunities to check in, and sometimes screenshare to get feedback or solve a problem. Seeing how other people work is a big part of this transition to working more openly and collaboratively.\nWe’ll have breakout rooms for social, quiet working, plus rooms for discussions, screenshares and learning about specific topics."
+  },
+  {
+    "objectID": "2024.html#resources-shared-in-coworking",
+    "href": "2024.html#resources-shared-in-coworking",
+    "title": "Resources 2024",
+    "section": "Resources shared in Coworking",
+    "text": "Resources shared in Coworking\nWe’ll add links here after each Call.\n\nCoworking 1, February 1\n\n\nCoworking 2, February 15\n\n\nCoworking 3, February 29"
+  },
+  {
+    "objectID": "2023.html",
+    "href": "2023.html",
+    "title": "Resources 2023",
+    "section": "",
+    "text": "Quicklink: OpenscapesCommunityCalls [ 2023-pathways ] Google Drive folder\nThis page links to the content from each Community Call (e.g. agenda, video, slides) in the 2023 Series as well as resources shared by speakers and participants like Some recommended datasets for teaching."
+  },
+  {
+    "objectID": "2023.html#community-calls",
+    "href": "2023.html#community-calls",
+    "title": "Resources 2023",
+    "section": "Community Calls",
+    "text": "Community Calls\n\nCall 01, January 26: What is open science anyway? What can it mean for you?\nLearn all about open science and data organization skills that will save you time and energy!\nIleana Fenwick, Aneese Williams, and Alex Davis each shared a story of their path to open science and Ileana taught us about Data Strategies for Future Us. There were 80 participants!!\n(Agenda | Video | Slides)\nSpeakers\n\nAlex Davis, Postdoctoral Fellow, The Diversity Project at UCLA, and Pathways co-organizer\nIleana Fenwick, PhD Student, UNC Chapel Hill and Pathways Lead\nAneese Williams, Environmental Management Systems Coordinator for the City of West Palm Beach, FL and Pathways co-organizer\n\n\n\nCall 02, February 9: Building our skills for a better tomorrow\nHear from experts about building community and your data science toolkit for more efficient research!\n(Agenda | Video | Slides)\nSpeakers\n\nLaTreese Denson, Stock Assessment Analyst, NOAA Southeast Fisheries Science Center\nDe’Marcus Robinson, PhD Student, Department of Atmospheric and Oceanic Sciences, UCLA\nJason Williams, Assistant Director, External Collaborations at Cold Spring Harbor Laboratory, DNALC; Education, Outreach, and Training lead for CyVerse\n\n\n\nCall 03, February 23: Data Science is for US\nJoin the conversation! Hear all about our journeys into data science and building community for innovation.\nSpeakers\n\nSherAaron Hurt, Director of Workshops, The Carpentries\nTony Orr, Research Scientist, NOAA Alaska Fisheries Science Center\nDawn Wright, Chief Scientist, Environmental Systems Research Institute (ESRI)\n\n(Agenda | Video | Slides | Dawn’s poster)"
+  },
+  {
+    "objectID": "2023.html#resources-recommended-by-community-call-speakers",
+    "href": "2023.html#resources-recommended-by-community-call-speakers",
+    "title": "Resources 2023",
+    "section": "Resources recommended by Community Call speakers",
+    "text": "Resources recommended by Community Call speakers\n\nIleana’s tweet demonstrating the power of community for asking questions & building your network. Responses include people’s favorite packages, tutorials, and their enthusiasm\nThe Bicycle Principles for Effective, Inclusive, and Career-spanning Short-format Training\nCyVerse, The Open Science Workspace for Collaborative Data-driven Discovery\nLife Science Trainers. A global community of practice for short-format training in the life sciences\nOceanHackWeek is a 5-day collaborative learning experience aimed at exploring, creating and promoting effective computation and analysis workflows for large and complex oceanographic data.\nTidy Data Illustrated Series, by Julie Lowndes and Allison Horst\nThe Carpentries teach foundational coding and data science skills to researchers worldwide; Welcome to The Carpentries tip sheet\nThe Carpentries just completed “Alfred P. Sloan Foundation award to advance The Carpentries Equity and Inclusion goals for training researchers of color”.\n‘Join the Rebel Alliance’ - An Openscapes Interview with Dr. Dawn Wright at Mozfest\nArcGIS Living Atlas of the World\nReplicability and Reproducibility via Workflows and Workbenches, “Replicability and Reproducibility in Geospatial Research: A Spatial Analysis Research Center (SPARC) Workshop, Arizona State University, Tempe, AZ.\nWilson, J.P., Butler, K., Gao, S., Hu, Y., Li, W., and Wright, D.J., A five-star guide for achieving replicability and reproducibility when working with GIS software and algorithms, Annals of the American Association of Geographers, 110: doi: 10.1080/24694452.2020.1806026.\nNASA Transform to Open Science (TOPS)\n2023 Year of Open Science (Biden Harris administration announcement)\nWelcome to Tidy Movement Modeling with R, a welcoming telemetry resource from Tony & colleagues"
+  },
+  {
+    "objectID": "2023.html#some-recommended-datasets-for-teaching",
+    "href": "2023.html#some-recommended-datasets-for-teaching",
+    "title": "Resources 2023",
+    "section": "Some recommended datasets for teaching",
+    "text": "Some recommended datasets for teaching\n\nPalmer Archipelago Penguins Data in the palmerpenguins R Package (paper, talk, useR! 2022 talk)\nlterdatasampler (talk Leveraging data richness of the Long Term Ecological Research Network for an R datasets package)\nTidyTuesday, A weekly social data project in R. Datasets include Tuskegee Airmen and Juneteenth\nElevated blood lead level test results for St. Louis, MO (great repository with R code examples, links to articles about it, etc, from Chris Prener)\nCalEnviroScreen and EJscreen have lots to explore and investigate. The data are in pretty nice shape already; can be joined with other data (e.g. census).\nFor global datasets go to WorldBank (to make the data tidy, you have to use both a pivot_longer and a pivot_wider; these are functions in tidyr R package)\nUSDA Food Access Research Atlas (food access; food deserts).\nThis Twitter thread has good suggestions for social justice & some environmental justice-related datasets.\nThe Open Case Studies project is an educational resource of experiential guides that demonstrate how to effectively derive knowledge from data in real-world challenges. (preprint, Educator’s Guide, Twitter thread)"
+  },
+  {
+    "objectID": "2023.html#coworking",
+    "href": "2023.html#coworking",
+    "title": "Resources 2023",
+    "section": "Coworking",
+    "text": "Coworking\nCoworking comes in many flavors. For us, coworking involves doing our own work at the same time together with opportunities to check in, and sometimes screenshare to get feedback or solve a problem. Seeing how other people work is a big part of this transition to working more openly and collaboratively.\nCollaborative notes Google doc. Notes from 3 coworking sessions all in the same doc.\nWe’ve had breakout rooms for social, quiet working, plus rooms for discussions, screenshares and learning about Datasets for Classrooms+Working/learning in R and Tools / ArcGIS, data wrangling.\n\nTools/ArcGIS\n\nhttps://brooklab.org/ &gt; Bat lab led by Cara Brook\nGoogling for tutorials together\n\nhttps://spatialanalysis.github.io/tutorials/\nhttps://sites.tufts.edu/gis/learning-gis/online-tips-and-tutorials/tufts-gis-tip-sheets-arcgis10/\nhttps://ohi-science.org/training/ &gt; Spatial Analysis &gt; A primer on coordinate reference systems (download, created by Melanie Frazier)\nR spatial software, and tutorials: https://r-spatial.org/ \n\nLight datasets?\n\nhttps://data.neonscience.org/data-products/explore?search=light%20pollution\nhttps://search.earthdata.nasa.gov/search?lat=-0.0703125 &gt; Openscapes Slack to connect directly with LandSAT data center folks!\n\nhttps://www.esri.com/arcgis-blog/author/deepseadawn/\nWelcome to Tidy Movement Modeling with R\n\n\n\nDatasets for Classrooms / working & learning in R\n\nR tutorials for fish and ecological data\n\nmaterials for the #BlackInMarineScience week intro to R workshop, #PuttingTheSEAInCode\nBWEEMS professional development workshop, DirtyData-CleanMaps\n\nBiology Tutorials for R and Python, by Cole Brookson\nCamille’s dataset, FishScapes/hyperstabilitySurvey\n\n\n\nData wrangling + R\n\nMovement R packages\n\nhttps://nmml.github.io/tidy-movt-modeling/ book created by NOAA Fisheries team, to accompany their R package\nhttps://jmlondon.github.io/pathroutr/; one of the packages included in the book\nhttps://docs.ropensci.org/pathviewr/ - an rOpenSci peer reviewed package that looks to be well maintained\n\nData wrangling\n\nOpen Refine (Alex), https://openrefine.org/ \nFor thinking about managing and combining data, this is my (Julie) favorite resource: https://peerj.com/preprints/3183/\nhttps://nssdeviations.com/episode-9-spreadsheet-drama &gt; Podcast about spreadsheets that is SO delightful and helps give language to thinking & talking about data. With Jenny Bryan, changed my life (Julie).\n\nOther\n\nA User’s Guide to Network Analysis in R\nhttps://www.bigbookofr.com/ &gt; Big Book of R, lists and links to &gt;100 R resources/tutorials with many different foci"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
+    "title": "Pathways to Open Science",
+    "section": "",
+    "text": "Pathways to Open Science is a remote event series for Black environmental & marine researchers to build community for the future of data intensive science. Led by Ileana Fenwick of Openscapes in partnership with Black in Marine Science (BIMS) and Black Women in Ecology, Evolution, and Marine Science (BWEEMS), the series will begin on January 25, 2024!"
+  },
+  {
+    "objectID": "index.html#welcome",
+    "href": "index.html#welcome",
     "title": "Pathways to Open Science",
     "section": "",
     "text": "Pathways to Open Science is a remote event series for Black environmental & marine researchers to build community for the future of data intensive science. Led by Ileana Fenwick of Openscapes in partnership with Black in Marine Science (BIMS) and Black Women in Ecology, Evolution, and Marine Science (BWEEMS), the series will begin on January 25, 2024!"
@@ -42,20 +119,6 @@
     "text": "Background Information\nTo learn more about Openscapes approaches:\n\nA Journey to Data Science: Tools for Equity and Diversity in STEM - July 28, 2022: Talk by Ileana Fenwick at RStudio Conference (video) (20 minutes)\nSupercharge your research: a 10-week plan for open data science (Lowndes et al. 2019, Nature)"
   },
   {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "Quicklink: OpenscapesCommunityCalls [ 2023-pathways ] Google Drive folder\nThis page links to the content from each Community Call (e.g. agenda, video, slides) as well as more general resources like Some recommended datasets for teaching.\nWe will add resources here that come up in each session!"
-  },
-  {
-    "objectID": "resources.html#some-recommended-datasets-for-teaching",
-    "href": "resources.html#some-recommended-datasets-for-teaching",
-    "title": "Resources",
-    "section": "Some recommended datasets for teaching",
-    "text": "Some recommended datasets for teaching\n\nPalmer Archipelago Penguins Data in the palmerpenguins R Package (paper, talk, useR! 2022 talk)\nlterdatasampler (talk Leveraging data richness of the Long Term Ecological Research Network for an R datasets package)\nTidyTuesday, A weekly social data project in R. Datasets include Tuskegee Airmen and Juneteenth\nElevated blood lead level test results for St. Louis, MO (great repository with R code examples, links to articles about it, etc, from Chris Prener)\nCalEnviroScreen and EJscreen have lots to explore and investigate. The data are in pretty nice shape already; can be joined with other data (e.g. census).\nFor global datasets go to WorldBank (to make the data tidy, you have to use both a pivot_longer and a pivot_wider; these are functions in tidyr R package)\nUSDA Food Access Research Atlas (food access; food deserts).\nThis Twitter thread has good suggestions for social justice & some environmental justice-related datasets.\nThe Open Case Studies project is an educational resource of experiential guides that demonstrate how to effectively derive knowledge from data in real-world challenges. (preprint, Educator’s Guide, Twitter thread)"
-  },
-  {
     "objectID": "index.html#promotional-graphics",
     "href": "index.html#promotional-graphics",
     "title": "Pathways to Open Science",
@@ -70,34 +133,6 @@
     "text": "Funding\nThis event series is possible through funding from Code for Science & Society through the Chan Zuckerberg Initiative. Thank you!"
   },
   {
-    "objectID": "resources.html#community-calls-content",
-    "href": "resources.html#community-calls-content",
-    "title": "Resources",
-    "section": "Community Calls content",
-    "text": "Community Calls content\n\nWhat is open science anyway? What can it mean for you? January 26\nLearn all about open science and data organization skills that will save you time and energy!\nIleana Fenwick, Aneese Williams, and Alex Davis each shared their path to open science and Ileana taught us about Data Strategies for Future Us. (Agenda | Video | Slides to come)\nSpeakers\n\nAlex Davis, Postdoctoral Fellow, The Diversity Project at UCLA, and Pathways co-organizer\nIleana Fenwick, PhD Student, UNC Chapel Hill and Pathways Lead\nAneese Williams, Environmental Management Systems Coordinator for the City of West Palm Beach, FL and Pathways co-organizer"
-  },
-  {
-    "objectID": "resources.html#community-calls",
-    "href": "resources.html#community-calls",
-    "title": "Resources",
-    "section": "Community Calls",
-    "text": "Community Calls\n\nCall 01, January 26: What is open science anyway? What can it mean for you?\nLearn all about open science and data organization skills that will save you time and energy!\nIleana Fenwick, Aneese Williams, and Alex Davis each shared a story of their path to open science and Ileana taught us about Data Strategies for Future Us. There were 80 participants!!\n(Agenda | Video | Slides)\nSpeakers\n\nAlex Davis, Postdoctoral Fellow, The Diversity Project at UCLA, and Pathways co-organizer\nIleana Fenwick, PhD Student, UNC Chapel Hill and Pathways Lead\nAneese Williams, Environmental Management Systems Coordinator for the City of West Palm Beach, FL and Pathways co-organizer\n\n\n\nCall 02, February 9: Building our skills for a better tomorrow\nHear from experts about building community and your data science toolkit for more efficient research!\n(Agenda | Video | Slides)\nSpeakers\n\nLaTreese Denson, Stock Assessment Analyst, NOAA Southeast Fisheries Science Center\nDe’Marcus Robinson, PhD Student, Department of Atmospheric and Oceanic Sciences, UCLA\nJason Williams, Assistant Director, External Collaborations at Cold Spring Harbor Laboratory, DNALC; Education, Outreach, and Training lead for CyVerse\n\n\n\nCall 03, February 23: Data Science is for US\nJoin the conversation! Hear all about our journeys into data science and building community for innovation.\nSpeakers\n\nSherAaron Hurt, Director of Workshops, The Carpentries\nTony Orr, Research Scientist, NOAA Alaska Fisheries Science Center\nDawn Wright, Chief Scientist, Environmental Systems Research Institute (ESRI)\n\n(Agenda | Video | Slides | Dawn’s poster)"
-  },
-  {
-    "objectID": "resources.html#coworking",
-    "href": "resources.html#coworking",
-    "title": "Resources",
-    "section": "Coworking",
-    "text": "Coworking\nCoworking comes in many flavors. For us, coworking involves doing our own work at the same time together with opportunities to check in, and sometimes screenshare to get feedback or solve a problem. Seeing how other people work is a big part of this transition to working more openly and collaboratively.\nCollaborative notes Google doc. Notes from 3 coworking sessions all in the same doc.\nWe’ve had breakout rooms for social, quiet working, plus rooms for discussions, screenshares and learning about Datasets for Classrooms+Working/learning in R and Tools / ArcGIS, data wrangling.\n\nTools/ArcGIS\n\nhttps://brooklab.org/ &gt; Bat lab led by Cara Brook\nGoogling for tutorials together\n\nhttps://spatialanalysis.github.io/tutorials/\nhttps://sites.tufts.edu/gis/learning-gis/online-tips-and-tutorials/tufts-gis-tip-sheets-arcgis10/\nhttps://ohi-science.org/training/ &gt; Spatial Analysis &gt; A primer on coordinate reference systems (download, created by Melanie Frazier)\nR spatial software, and tutorials: https://r-spatial.org/ \n\nLight datasets?\n\nhttps://data.neonscience.org/data-products/explore?search=light%20pollution\nhttps://search.earthdata.nasa.gov/search?lat=-0.0703125 &gt; Openscapes Slack to connect directly with LandSAT data center folks!\n\nhttps://www.esri.com/arcgis-blog/author/deepseadawn/\nWelcome to Tidy Movement Modeling with R\n\n\n\nDatasets for Classrooms / working & learning in R\n\nR tutorials for fish and ecological data\n\nmaterials for the #BlackInMarineScience week intro to R workshop, #PuttingTheSEAInCode\nBWEEMS professional development workshop, DirtyData-CleanMaps\n\nBiology Tutorials for R and Python, by Cole Brookson\nCamille’s dataset, FishScapes/hyperstabilitySurvey\n\n\n\nData wrangling + R\n\nMovement R packages\n\nhttps://nmml.github.io/tidy-movt-modeling/ book created by NOAA Fisheries team, to accompany their R package\nhttps://jmlondon.github.io/pathroutr/; one of the packages included in the book\nhttps://docs.ropensci.org/pathviewr/ - an rOpenSci peer reviewed package that looks to be well maintained\n\nData wrangling\n\nOpen Refine (Alex), https://openrefine.org/ \nFor thinking about managing and combining data, this is my (Julie) favorite resource: https://peerj.com/preprints/3183/\nhttps://nssdeviations.com/episode-9-spreadsheet-drama &gt; Podcast about spreadsheets that is SO delightful and helps give language to thinking & talking about data. With Jenny Bryan, changed my life (Julie).\n\nOther\n\nA User’s Guide to Network Analysis in R\nhttps://www.bigbookofr.com/ &gt; Big Book of R, lists and links to &gt;100 R resources/tutorials with many different foci"
-  },
-  {
-    "objectID": "resources.html#resources-recommended-by-community-call-speakers",
-    "href": "resources.html#resources-recommended-by-community-call-speakers",
-    "title": "Resources",
-    "section": "Resources recommended by Community Call speakers",
-    "text": "Resources recommended by Community Call speakers\n\nIleana’s tweet demonstrating the power of community for asking questions & building your network. Responses include people’s favorite packages, tutorials, and their enthusiasm\nThe Bicycle Principles for Effective, Inclusive, and Career-spanning Short-format Training\nCyVerse, The Open Science Workspace for Collaborative Data-driven Discovery\nLife Science Trainers. A global community of practice for short-format training in the life sciences\nOceanHackWeek is a 5-day collaborative learning experience aimed at exploring, creating and promoting effective computation and analysis workflows for large and complex oceanographic data.\nTidy Data Illustrated Series, by Julie Lowndes and Allison Horst\nThe Carpentries teach foundational coding and data science skills to researchers worldwide; Welcome to The Carpentries tip sheet\nThe Carpentries just completed \"Alfred P. Sloan Foundation award to advance The Carpentries Equity and Inclusion goals for training researchers of color”.\n‘Join the Rebel Alliance’ - An Openscapes Interview with Dr. Dawn Wright at Mozfest\nArcGIS Living Atlas of the World\nReplicability and Reproducibility via Workflows and Workbenches, “Replicability and Reproducibility in Geospatial Research: A Spatial Analysis Research Center (SPARC) Workshop, Arizona State University, Tempe, AZ.\nWilson, J.P., Butler, K., Gao, S., Hu, Y., Li, W., and Wright, D.J., A five-star guide for achieving replicability and reproducibility when working with GIS software and algorithms, Annals of the American Association of Geographers, 110: doi: 10.1080/24694452.2020.1806026.\nNASA Transform to Open Science (TOPS)\n2023 Year of Open Science (Biden Harris administration announcement)\nWelcome to Tidy Movement Modeling with R, a welcoming telemetry resource from Tony & colleagues"
-  },
-  {
     "objectID": "index.html#citation",
     "href": "index.html#citation",
     "title": "Pathways to Open Science",
@@ -105,80 +140,10 @@
     "text": "Citation\nPlease cite Pathways to Open Science through the project’s Zenodo archive using DOI: 10.5281/zenodo.7662699. This DOI represents all versions, and will always resolve to the latest one.\nThe citation will look something like:\n\nIleana Fenwick & Julia Stewart Lowndes. (2023). Pathways to Open Science (2023.02). Zenodo. https://doi.org/10.5281/zenodo.7662700\n\nPlease visit the Pathways DOI link to get the most recent version - the one above is not automatically generated and may be out of date if we release an updated version."
   },
   {
-    "objectID": "index.html#welcome",
-    "href": "index.html#welcome",
-    "title": "Pathways to Open Science",
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
     "section": "",
-    "text": "Pathways to Open Science is a remote event series for Black environmental & marine researchers to build community for the future of data intensive science. Led by Ileana Fenwick of Openscapes in partnership with Black in Marine Science (BIMS) and Black Women in Ecology, Evolution, and Marine Science (BWEEMS), the series will begin on January 25, 2024!"
-  },
-  {
-    "objectID": "2023.html",
-    "href": "2023.html",
-    "title": "Resources 2023",
-    "section": "",
-    "text": "Quicklink: OpenscapesCommunityCalls [ 2023-pathways ] Google Drive folder\nThis page links to the content from each Community Call (e.g. agenda, video, slides) in the 2023 Series as well as resources shared by speakers and participants like Some recommended datasets for teaching."
-  },
-  {
-    "objectID": "2023.html#community-calls",
-    "href": "2023.html#community-calls",
-    "title": "Resources 2023",
-    "section": "Community Calls",
-    "text": "Community Calls\n\nCall 01, January 26: What is open science anyway? What can it mean for you?\nLearn all about open science and data organization skills that will save you time and energy!\nIleana Fenwick, Aneese Williams, and Alex Davis each shared a story of their path to open science and Ileana taught us about Data Strategies for Future Us. There were 80 participants!!\n(Agenda | Video | Slides)\nSpeakers\n\nAlex Davis, Postdoctoral Fellow, The Diversity Project at UCLA, and Pathways co-organizer\nIleana Fenwick, PhD Student, UNC Chapel Hill and Pathways Lead\nAneese Williams, Environmental Management Systems Coordinator for the City of West Palm Beach, FL and Pathways co-organizer\n\n\n\nCall 02, February 9: Building our skills for a better tomorrow\nHear from experts about building community and your data science toolkit for more efficient research!\n(Agenda | Video | Slides)\nSpeakers\n\nLaTreese Denson, Stock Assessment Analyst, NOAA Southeast Fisheries Science Center\nDe’Marcus Robinson, PhD Student, Department of Atmospheric and Oceanic Sciences, UCLA\nJason Williams, Assistant Director, External Collaborations at Cold Spring Harbor Laboratory, DNALC; Education, Outreach, and Training lead for CyVerse\n\n\n\nCall 03, February 23: Data Science is for US\nJoin the conversation! Hear all about our journeys into data science and building community for innovation.\nSpeakers\n\nSherAaron Hurt, Director of Workshops, The Carpentries\nTony Orr, Research Scientist, NOAA Alaska Fisheries Science Center\nDawn Wright, Chief Scientist, Environmental Systems Research Institute (ESRI)\n\n(Agenda | Video | Slides | Dawn’s poster)"
-  },
-  {
-    "objectID": "2023.html#resources-recommended-by-community-call-speakers",
-    "href": "2023.html#resources-recommended-by-community-call-speakers",
-    "title": "Resources 2023",
-    "section": "Resources recommended by Community Call speakers",
-    "text": "Resources recommended by Community Call speakers\n\nIleana’s tweet demonstrating the power of community for asking questions & building your network. Responses include people’s favorite packages, tutorials, and their enthusiasm\nThe Bicycle Principles for Effective, Inclusive, and Career-spanning Short-format Training\nCyVerse, The Open Science Workspace for Collaborative Data-driven Discovery\nLife Science Trainers. A global community of practice for short-format training in the life sciences\nOceanHackWeek is a 5-day collaborative learning experience aimed at exploring, creating and promoting effective computation and analysis workflows for large and complex oceanographic data.\nTidy Data Illustrated Series, by Julie Lowndes and Allison Horst\nThe Carpentries teach foundational coding and data science skills to researchers worldwide; Welcome to The Carpentries tip sheet\nThe Carpentries just completed “Alfred P. Sloan Foundation award to advance The Carpentries Equity and Inclusion goals for training researchers of color”.\n‘Join the Rebel Alliance’ - An Openscapes Interview with Dr. Dawn Wright at Mozfest\nArcGIS Living Atlas of the World\nReplicability and Reproducibility via Workflows and Workbenches, “Replicability and Reproducibility in Geospatial Research: A Spatial Analysis Research Center (SPARC) Workshop, Arizona State University, Tempe, AZ.\nWilson, J.P., Butler, K., Gao, S., Hu, Y., Li, W., and Wright, D.J., A five-star guide for achieving replicability and reproducibility when working with GIS software and algorithms, Annals of the American Association of Geographers, 110: doi: 10.1080/24694452.2020.1806026.\nNASA Transform to Open Science (TOPS)\n2023 Year of Open Science (Biden Harris administration announcement)\nWelcome to Tidy Movement Modeling with R, a welcoming telemetry resource from Tony & colleagues"
-  },
-  {
-    "objectID": "2023.html#some-recommended-datasets-for-teaching",
-    "href": "2023.html#some-recommended-datasets-for-teaching",
-    "title": "Resources 2023",
-    "section": "Some recommended datasets for teaching",
-    "text": "Some recommended datasets for teaching\n\nPalmer Archipelago Penguins Data in the palmerpenguins R Package (paper, talk, useR! 2022 talk)\nlterdatasampler (talk Leveraging data richness of the Long Term Ecological Research Network for an R datasets package)\nTidyTuesday, A weekly social data project in R. Datasets include Tuskegee Airmen and Juneteenth\nElevated blood lead level test results for St. Louis, MO (great repository with R code examples, links to articles about it, etc, from Chris Prener)\nCalEnviroScreen and EJscreen have lots to explore and investigate. The data are in pretty nice shape already; can be joined with other data (e.g. census).\nFor global datasets go to WorldBank (to make the data tidy, you have to use both a pivot_longer and a pivot_wider; these are functions in tidyr R package)\nUSDA Food Access Research Atlas (food access; food deserts).\nThis Twitter thread has good suggestions for social justice & some environmental justice-related datasets.\nThe Open Case Studies project is an educational resource of experiential guides that demonstrate how to effectively derive knowledge from data in real-world challenges. (preprint, Educator’s Guide, Twitter thread)"
-  },
-  {
-    "objectID": "2023.html#coworking",
-    "href": "2023.html#coworking",
-    "title": "Resources 2023",
-    "section": "Coworking",
-    "text": "Coworking\nCoworking comes in many flavors. For us, coworking involves doing our own work at the same time together with opportunities to check in, and sometimes screenshare to get feedback or solve a problem. Seeing how other people work is a big part of this transition to working more openly and collaboratively.\nCollaborative notes Google doc. Notes from 3 coworking sessions all in the same doc.\nWe’ve had breakout rooms for social, quiet working, plus rooms for discussions, screenshares and learning about Datasets for Classrooms+Working/learning in R and Tools / ArcGIS, data wrangling.\n\nTools/ArcGIS\n\nhttps://brooklab.org/ &gt; Bat lab led by Cara Brook\nGoogling for tutorials together\n\nhttps://spatialanalysis.github.io/tutorials/\nhttps://sites.tufts.edu/gis/learning-gis/online-tips-and-tutorials/tufts-gis-tip-sheets-arcgis10/\nhttps://ohi-science.org/training/ &gt; Spatial Analysis &gt; A primer on coordinate reference systems (download, created by Melanie Frazier)\nR spatial software, and tutorials: https://r-spatial.org/ \n\nLight datasets?\n\nhttps://data.neonscience.org/data-products/explore?search=light%20pollution\nhttps://search.earthdata.nasa.gov/search?lat=-0.0703125 &gt; Openscapes Slack to connect directly with LandSAT data center folks!\n\nhttps://www.esri.com/arcgis-blog/author/deepseadawn/\nWelcome to Tidy Movement Modeling with R\n\n\n\nDatasets for Classrooms / working & learning in R\n\nR tutorials for fish and ecological data\n\nmaterials for the #BlackInMarineScience week intro to R workshop, #PuttingTheSEAInCode\nBWEEMS professional development workshop, DirtyData-CleanMaps\n\nBiology Tutorials for R and Python, by Cole Brookson\nCamille’s dataset, FishScapes/hyperstabilitySurvey\n\n\n\nData wrangling + R\n\nMovement R packages\n\nhttps://nmml.github.io/tidy-movt-modeling/ book created by NOAA Fisheries team, to accompany their R package\nhttps://jmlondon.github.io/pathroutr/; one of the packages included in the book\nhttps://docs.ropensci.org/pathviewr/ - an rOpenSci peer reviewed package that looks to be well maintained\n\nData wrangling\n\nOpen Refine (Alex), https://openrefine.org/ \nFor thinking about managing and combining data, this is my (Julie) favorite resource: https://peerj.com/preprints/3183/\nhttps://nssdeviations.com/episode-9-spreadsheet-drama &gt; Podcast about spreadsheets that is SO delightful and helps give language to thinking & talking about data. With Jenny Bryan, changed my life (Julie).\n\nOther\n\nA User’s Guide to Network Analysis in R\nhttps://www.bigbookofr.com/ &gt; Big Book of R, lists and links to &gt;100 R resources/tutorials with many different foci"
-  },
-  {
-    "objectID": "2024.html",
-    "href": "2024.html",
-    "title": "Pathways 2024",
-    "section": "",
-    "text": "Pathways to Open Science 2024 starts January 25th. This page will link to the content from each Community Call (e.g. agenda, video, slides) as well as resources shared by speakers and participants. We will add resources here that come up in each session.\nQuicklink: [OpenscapesCommunityCalls [ 2024-pathways ]] (LINK) Google Drive folder"
-  },
-  {
-    "objectID": "2024.html#community-calls",
-    "href": "2024.html#community-calls",
-    "title": "Pathways 2024",
-    "section": "Community Calls",
-    "text": "Community Calls\n\nCall 1, January 25: What is open science anyway? What can it mean for you?\nLearn all about open science and data organization skills that will save you time and energy!\n\n\nCall 2, February 8: Building our skills for a better tomorrow\nHear from experts about building community and your data science toolkit for more efficient research!\n\n\nCall 3, February 22: Data Science is for US\nJoin the conversation! Hear all about our journeys into data science and building community for innovation."
-  },
-  {
-    "objectID": "2024.html#resources-recommended-by-speakers",
-    "href": "2024.html#resources-recommended-by-speakers",
-    "title": "Pathways 2024",
-    "section": "Resources recommended by Speakers",
-    "text": "Resources recommended by Speakers\nWe’ll add links here after each Call."
-  },
-  {
-    "objectID": "2024.html#coworking",
-    "href": "2024.html#coworking",
-    "title": "Pathways 2024",
-    "section": "Coworking",
-    "text": "Coworking\nCoworking comes in many flavors. For us, coworking involves doing our own work at the same time together with opportunities to check in, and sometimes screenshare to get feedback or solve a problem. Seeing how other people work is a big part of this transition to working more openly and collaboratively.\nWe’ll have breakout rooms for social, quiet working, plus rooms for discussions, screenshares and learning about specific topics."
-  },
-  {
-    "objectID": "2024.html#resources-shared-in-coworking",
-    "href": "2024.html#resources-shared-in-coworking",
-    "title": "Pathways 2024",
-    "section": "Resources shared in Coworking",
-    "text": "Resources shared in Coworking\nWe’ll add links here after each Call.\n\nCoworking 1, February 1\n\n\nCoworking 2, February 15\n\n\nCoworking 3, February 29"
+    "text": "Resources from speakers and participants in Pathways to Open Science Community Calls and Coworking.\n2024\n2023"
   }
 ]

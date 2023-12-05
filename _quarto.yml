@@ -16,13 +16,17 @@ website:
       - text: "Pathways"
         href: index.qmd
       - text: "Resources"
-        href: resources.qmd        
+        menu: 
+            - text: "2024"
+              href: 2024.qmd 
+            - text: "2023"
+              href: 2023.qmd
       - text: "Home"
         href: https://openscapes.org
       - icon: github
         href: https://github.com/openscapes/pathways-to-open-science
-      - icon: twitter
-        href: https://twitter.com/openscapes
+      - icon: mastodon
+        href: https://fosstodon.org/@openscapes
         
 format:
   html:
