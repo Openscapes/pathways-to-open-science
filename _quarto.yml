@@ -13,8 +13,6 @@ website:
     logo: images/openscapes_hex.png
     href: https://openscapes.org
     right:
-      - text: "Pathways"
-        href: index.qmd
       - text: "Resources"
         menu: 
             - text: "2024"
