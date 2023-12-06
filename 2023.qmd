@@ -1,0 +1,143 @@
+---
+title: "Resources 2023"
+---
+
+*Quicklink: [OpenscapesCommunityCalls \[ 2023-pathways \]](https://drive.google.com/drive/folders/19AprdqWkO4SSBHD6XwzHRcPoniQm2bYy) Google Drive folder*
+
+*This page links to the content from each Community Call (e.g. agenda, video, slides) in the 2023 Series as well as resources shared by speakers and participants like [Some recommended datasets for teaching].*
+
+## Community Calls
+
+### Call 01, January 26: What is open science anyway? What can it mean for you?
+
+Learn all about open science and data organization skills that will save you time and energy!
+
+Ileana Fenwick, Aneese Williams, and Alex Davis each shared a story of their path to open science and Ileana taught us about Data Strategies for Future Us. There were [80 participants!](https://twitter.com/curly_scientist/status/1618735555415805953)!
+
+([Agenda](https://docs.google.com/document/d/1c9bv0YqhN0ifQEMmd8Es7L7LDx1RQCMZPPsVhkV38yc/edit#) \| [Video](https://drive.google.com/file/d/1Vt0F9RhH41Fgf5KapuD-XYUR0-gKtaAN/view) \| [Slides](https://drive.google.com/drive/folders/1PrK9-OFmR8stgI3sZPHOsUaOQi0D9FlF))
+
+Speakers
+
+-   [Alex Davis](http://www.alexandracddavis.com/), Postdoctoral Fellow, The Diversity Project at UCLA, and Pathways co-organizer
+-   [Ileana Fenwick](https://twitter.com/_ileanaf), PhD Student, UNC Chapel Hill and Pathways Lead
+-   [Aneese Williams](https://www.linkedin.com/in/aneese-williams-mps-80a846b6/), Environmental Management Systems Coordinator for the City of West Palm Beach, FL and Pathways co-organizer
+
+### Call 02, February 9: Building our skills for a better tomorrow
+
+Hear from experts about building community and your data science toolkit for more efficient research!
+
+([Agenda](https://docs.google.com/document/d/1cwCSRWLxXb_-P_HIlKGa-YTuFdwmXnV2JNV-w-_5UHw/edit) \| [Video](https://drive.google.com/file/d/1Zu1eJV7mkbpkrH-xD-jg3_Ilw0gY6Pbg/view) \| [Slides](https://drive.google.com/drive/folders/1huywikS2v5vMUsxdKfCRH5J3WKulk6jM))
+
+Speakers
+
+-   [LaTreese Denson](https://www.bweems.org/member-directory/latreese-s-denson-ph-d), Stock Assessment Analyst, NOAA Southeast Fisheries Science Center
+-   [De'Marcus Robinson](https://demarcusr.com/), PhD Student, Department of Atmospheric and Oceanic Sciences, UCLA
+-   [Jason Williams](https://jasonjwilliamsny.github.io/profile/), Assistant Director, External Collaborations at Cold Spring Harbor Laboratory, DNALC; Education, Outreach, and Training lead for CyVerse
+
+### Call 03, February 23: Data Science is for US
+
+Join the conversation! Hear all about our journeys into data science and building community for innovation.
+
+Speakers
+
+-   [SherAaron Hurt](https://carpentries.org/team/), Director of Workshops, The Carpentries
+-   [Tony Orr](https://www.fisheries.noaa.gov/contact/anthony-tony-orr), Research Scientist, NOAA Alaska Fisheries Science Center
+-   [Dawn Wright](https://twitter.com/deepseadawn), Chief Scientist, Environmental Systems Research Institute (ESRI)
+
+([Agenda](https://docs.google.com/document/d/1MSa44xDoD27ryaLPnc4r63aT5sIzGBdhOi9uYja1ypo/) \| [Video](https://drive.google.com/file/d/1APfoKwL-eZ0mOpE5vMPPQZInjJKHOJMx/) \| [Slides](https://drive.google.com/drive/folders/1WAVT59-HASvg7TLI3b8m82KkTggLn5uX?usp=share_link) \| Dawn's [poster](https://esriurl.com/agudatasci))
+
+## Resources recommended by Community Call speakers
+
+-   Ileana's [tweet](https://twitter.com/_ileanaf/status/1618042004939898880) demonstrating the power of community for asking questions & building your network. Responses include people's favorite packages, tutorials, and their enthusiasm
+
+-   The [Bicycle Principles](https://www.bikeprinciples.org/) for Effective, Inclusive, and Career-spanning Short-format Training
+
+-   [CyVerse](https://cyverse.org/), The Open Science Workspace for Collaborative Data-driven Discovery
+
+-   [Life Science Trainers](https://lifescitrainers.org/). A global community of practice for short-format training in the life sciences
+
+-   [OceanHackWeek](https://oceanhackweek.org/) is a 5-day collaborative learning experience aimed at exploring, creating and promoting effective computation and analysis workflows for large and complex oceanographic data.
+
+-   [Tidy Data Illustrated Series](https://www.openscapes.org/blog/2020/10/12/tidy-data/), by Julie Lowndes and Allison Horst
+
+-   [The Carpentries](https://carpentries.org/) teach foundational coding and data science skills to researchers worldwide; [Welcome to The Carpentries tip sheet](https://carpentries.org/welcome-tip-sheet/)
+
+-   The Carpentries just completed "[Alfred P. Sloan Foundation award](https://carpentries.org/blog/2021/06/carpentries-sloan-foundation-announcement/) to advance The Carpentries Equity and Inclusion goals for training researchers of color".
+
+-   '[Join the Rebel Alliance](https://www.openscapes.org/blog/2021/03/25/rebel-alliance-dr-dawn-wright/)' - An Openscapes Interview with Dr. Dawn Wright at Mozfest
+
+-   ArcGIS [Living Atlas of the World](https://livingatlas.arcgis.com/en/home/)
+
+-   [Replicability and Reproducibility via Workflows and Workbenches](https://sgsup.asu.edu/sparc/workshop/RRWorkshop), "Replicability and Reproducibility in Geospatial Research: A Spatial Analysis Research Center (SPARC) Workshop, Arizona State University, Tempe, AZ.
+
+-   Wilson, J.P., Butler, K., Gao, S., Hu, Y., Li, W., and Wright, D.J., A five-star guide for achieving replicability and reproducibility when working with GIS software and algorithms, Annals of the American Association of Geographers, 110: [doi: 10.1080/24694452.2020.1806026](https://www.tandfonline.com/doi/full/10.1080/24694452.2020.1806026).
+
+-   [NASA Transform to Open Science](https://science.nasa.gov/open-science/transform-to-open-science) (TOPS)
+
+-   2023 Year of Open Science ([Biden Harris administration announcement](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/))
+
+-   [Welcome to Tidy Movement Modeling with R](https://nmml.github.io/tidy-movt-modeling/), a welcoming telemetry resource from Tony & colleagues
+
+## Some recommended datasets for teaching {data-link="Some recommended datasets for teaching"}
+
+-   Palmer Archipelago Penguins Data in the palmerpenguins R Package ([paper](https://journal.r-project.org/articles/RJ-2022-020/), [talk](https://allisonhorst.github.io/talks/sb_users_penguins_flash/), [useR! 2022 talk](https://apreshill.github.io/palmerpenguins-useR-2022/#/title-slide))
+
+-   lterdatasampler ([talk](https://allisonhorst.github.io/talks/esa_2021/) Leveraging data richness of the Long Term Ecological Research Network for an R datasets package)
+
+-   [TidyTuesday](https://github.com/rfordatascience/tidytuesday), A weekly social data project in R. Datasets include [Tuskegee Airmen](https://github.com/rfordatascience/tidytuesday/blob/master/data/2022/2022-02-08/readme.md#tuskegee-airmen) and [Juneteenth](https://github.com/rfordatascience/tidytuesday/tree/master/data/2022/2022-06-21)
+
+-   Elevated blood lead level test results for St. Louis, MO (great [repository](https://github.com/slu-soc1120/STL_HEALTH_Lead) with R code examples, links to articles about it, etc, from Chris Prener)
+
+-   [CalEnviroScreen](https://oehha.ca.gov/calenviroscreen) and [EJscreen](https://www.epa.gov/ejscreen) have lots to explore and investigate. The data are in pretty nice shape already; can be joined with other data (e.g. census).
+
+-   For global datasets go to [WorldBank](https://data.worldbank.org/) (to make the data tidy, you have to use both a `pivot_longer` and a `pivot_wider`; these are functions in [tidyr](https://tidyr.tidyverse.org/) R package)
+
+-   USDA [Food Access Research Atlas](https://www.ers.usda.gov/data-products/food-access-research-atlas/) (food access; food deserts).
+
+-   This [Twitter thread](https://twitter.com/k_lyberger/status/1344733416017645569) has good suggestions for social justice & some environmental justice-related datasets.
+
+-   The [Open Case Studies project](https://www.opencasestudies.org/) is an educational resource of experiential guides that demonstrate how to effectively derive knowledge from data in real-world challenges. ([preprint](https://arxiv.org/abs/2301.05298), [Educator's Guide](https://www.opencasestudies.org/OCS_Guide/), Twitter [thread](https://twitter.com/stephaniehicks/status/1615322767380910081))
+
+## Coworking
+
+Coworking comes in many flavors. For us, coworking involves doing our own work at the same time together with opportunities to check in, and sometimes screenshare to get feedback or solve a problem. Seeing how other people work is a big part of this transition to working more openly and collaboratively.
+
+[Collaborative notes](https://docs.google.com/document/d/1t0WXHZEiNtM6p6haEQgGJXZKC5t8Ek_m4qHa-k6Ntfo/) Google doc. Notes from 3 coworking sessions all in the same doc.
+
+We've had breakout rooms for social, quiet working, plus rooms for discussions, screenshares and learning about Datasets for Classrooms+Working/learning in R and Tools / ArcGIS, data wrangling.
+
+### Tools/ArcGIS
+
+-   <https://brooklab.org/> \> Bat lab led by Cara Brook
+-   Googling for tutorials together
+    -   <https://spatialanalysis.github.io/tutorials/>
+    -   <https://sites.tufts.edu/gis/learning-gis/online-tips-and-tutorials/tufts-gis-tip-sheets-arcgis10/>
+    -   <https://ohi-science.org/training/> \> Spatial Analysis \> [A primer on coordinate reference systems](https://github.com/OHI-Science/ohi-science.github.io/raw/dev/assets/downloads/other/CRS.pdf) (download, created by Melanie Frazier)
+    -   R spatial software, and tutorials: <https://r-spatial.org/> 
+-   Light datasets?
+    -   <https://data.neonscience.org/data-products/explore?search=light%20pollution>
+    -   <https://search.earthdata.nasa.gov/search?lat=-0.0703125> \> Openscapes Slack to connect directly with LandSAT data center folks!
+-   <https://www.esri.com/arcgis-blog/author/deepseadawn/>
+-   [Welcome to Tidy Movement Modeling with R](https://nmml.github.io/tidy-movt-modeling/)
+
+### Datasets for Classrooms / working & learning in R
+
+-   R tutorials for fish and ecological data
+    -   materials for the #BlackInMarineScience week intro to R workshop, \#[PuttingTheSEAInCode](https://github.com/latreesedenson/PuttingTheSEAInCode)
+    -   [BWEEMS](https://www.bweems.org/) professional development workshop, [DirtyData-CleanMaps](https://github.com/OfficialBweems/DirtyData-CleanMaps)
+-   Biology Tutorials for [R](https://colebrookson.github.io/r-for-biology/) and [Python](https://colebrookson.github.io/python-for-biology/), by Cole Brookson
+-   Camille's dataset, [FishScapes/hyperstabilitySurvey](https://zenodo.org/record/6944763#.Y9w5nnbMK3A)
+
+### Data wrangling + R
+
+-   Movement R packages
+    -   <https://nmml.github.io/tidy-movt-modeling/> book created by NOAA Fisheries team, to accompany their R package
+    -   <https://jmlondon.github.io/pathroutr/>; one of the packages included in the book
+    -   <https://docs.ropensci.org/pathviewr/> - an rOpenSci peer reviewed package that looks to be well maintained
+-   Data wrangling
+    -   Open Refine (Alex), <https://openrefine.org/> 
+    -   For thinking about managing and combining data, this is my (Julie) favorite resource: <https://peerj.com/preprints/3183/>
+    -   <https://nssdeviations.com/episode-9-spreadsheet-drama> \> Podcast about spreadsheets that is SO delightful and helps give language to thinking & talking about data. With Jenny Bryan, changed my life (Julie).
+-   Other
+    -   [A User's Guide to Network Analysis in R](https://link.springer.com/book/10.1007/978-3-319-23883-8)
+    -   <https://www.bigbookofr.com/> \> Big Book of R, lists and links to \>100 R resources/tutorials with many different foci

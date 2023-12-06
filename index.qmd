@@ -2,9 +2,9 @@
 title: "Pathways to Open Science"
 ---
 
-## Welcome
+## **Welcome**
 
-**Pathways to Open Science** is a remote event series for Black environmental & marine researchers to build community for the future of data intensive science. Led by Ileana Fenwick of [Openscapes](https://openscapes.org) in partnership with [Black in Marine Science (BIMS)](https://www.blackinmarinescience.org/) and [Black Women in Ecology, Evolution, and Marine Science (BWEEMS)](https://www.bweems.org/), the series will begin on January 25, 2024!
+**Pathways to Open Science** is a remote event series for Black environmental & marine researchers to build community for the future of data intensive science. Led by Ileana Fenwick of [Openscapes](https://openscapes.org) in partnership with [Black in Marine Science (BIMS)](https://www.blackinmarinescience.org/) and [Black Women in Ecology, Evolution, and Marine Science (BWEEMS)](https://www.bweems.org/), the series will begin on **January 25, 2024**!
 
 <center>[![](images/openscapes_hex.png){width="78"}](https://openscapes.org) [![](images/bweems-logo.png){width="262"}](https://www.bweems.org/) [![](images/bims-logo.png){width="86"}](https://www.blackinmarinescience.org/)</center>
 
@@ -16,52 +16,16 @@ This remote event series will convene Black environmental and marine researcher 
 
 -   3 community calls: 1.5 hour calls with facilitated discussion, mini-lectures and community conversations with Black data scientists, data science leaders and students
     -   January 25, February 8, 22 from 5:00 to 6:30 pm EST
--   3 coworking sessions: 1.5 hour calls structured for folks to bring their own work, practice skill building, screenshare, and ask questions.
+-   3 coworking sessions: 1.5 hour calls structured for folks to bring their own work, their code, or questions, screenshare, and come learn a new skill with us!
     -   February 1, 15, 29 from 5:00 to 6:30 pm EST
 
-## Registration
+## **Registration**
 
 [**Register via Zoom**](https://zoom.us/meeting/register/tJ0ldempqDIrHtQ4KqAbr442Tm0xl4-h_dtC). If you are a Black marine scientist and/or an HBCU student, we would love to have you! We hope you are able to attend all six events, however, you are welcome to join as many as you are able to. Please invite others to join you! If you are an ally, please help us amplify Black voices; we suggest allies do not sign up for this particular series.
 
 ------------------------------------------------------------------------
 
-*Below is a glimpse of our 2023 program. Updates for 2024 coming soon!*
-
-### January 26: What is open science anyway? What can it mean for you?
-
-Learn all about open science and data organization skills that will save you time and energy!
-
-Speakers
-
--   [Alex Davis](http://www.alexandracddavis.com/), Postdoctoral Fellow, The Diversity Project at UCLA, and Pathways co-organizer
--   [Ileana Fenwick](https://twitter.com/_ileanaf), PhD Student, UNC Chapel Hill and Pathways Lead
--   [Aneese Williams](https://www.linkedin.com/in/aneese-williams-mps-80a846b6/), Environmental Management Systems Coordinator for the City of West Palm Beach, FL and Pathways co-organizer
-
-### February 9: Building our skills for a better tomorrow
-
-Hear from experts about building community and your data science toolkit for more efficient research!
-
-Speakers
-
--   [LaTreese Denson](https://www.bweems.org/member-directory/latreese-s-denson-ph-d), Stock Assessment Analyst, NOAA Southeast Fisheries Science Center
--   [De'Marcus Robinson](https://demarcusr.com/), PhD Student, Department of Atmospheric and Oceanic Sciences, UCLA
--   [Jason Williams](https://jasonjwilliamsny.github.io/profile/), Assistant Director, External Collaborations at Cold Spring Harbor Laboratory, DNALC; Education, Outreach, and Training lead for CyVerse
-
-### February 23: Data Science is for US
-
-Join the conversation! Hear all about our journeys into data science and building community for innovation.
-
-Speakers
-
--   [SherAaron Hurt](https://carpentries.org/team/), Director of Workshops, The Carpentries
--   [Tony Orr](https://www.fisheries.noaa.gov/contact/anthony-tony-orr), Research Scientist, NOAA Alaska Fisheries Science Center
--   [Dawn Wright](https://twitter.com/deepseadawn), Chief Scientist, Environmental Systems Research Institute (ESRI)
-
-### Join us every other week for coworking!
-
-Feb 2, 16, Mar 2, 5:00 - 6:00 pm EST
-
-Bring your code, bring a question or come learn a new skill with us!
+**What will Pathways to Open Science look like?** Check out the speakers and resources shared in our [2023 Series](2023.qmd). Details for 2024 coming soon!
 
 The event series builds from our work at [Openscapes](https://openscapes.org), where we believe open practices can accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science. Since 2019 we have mentored \>100 research teams, meeting them where they are as they develop enduring habits and community. All Openscapes events abide by our [Code of Conduct](https://www.openscapes.org/code-of-conduct/).
 
@@ -79,7 +43,7 @@ The event series builds from our work at [Openscapes](https://openscapes.org), w
 
 -   Free
 
-## Planning Team
+## **Planning Team**
 
 ![Aneese Williams, Alex Davis, Ileana Fenwick (l to r)](images/aneese-alex-ileana-bweems.jpg){fig-alt="3 smiling Black women standing in front of a BWEEMS-branded backdrop with an arbor of black, blue, green, and red balloons" fig-align="left" width="300"}
 
@@ -95,15 +59,15 @@ The event series builds from our work at [Openscapes](https://openscapes.org), w
 
 ### Timeline
 
--   October 2022: Partnership planning
+-   October - November 2023: Partnership planning
 
--   Week of November 14-18: Liaison onboarding call
+-   November 29: Planning team kickoff call
 
--   December-January 2023 planning meetings with liaisons and social media engagement, registration opens
+-   December - January 2024 planning meetings with liaisons and social media engagement, registration opens
 
--   January 26, 2023 - event series kick-off
+-   January 24, 2024 - event series kickoff
 
--   March 2 - event series concludes
+-   Februrary 29 - event series concludes
 
 -   March-April - followup and publish cross-posted blog post!
 
@@ -113,7 +77,7 @@ The event series builds from our work at [Openscapes](https://openscapes.org), w
 
 **BIMS**: [Website](https://blackinmarinescience.org) • [Instagram](https://instagram.com/blackinmarinescience?igshid=MWI4MTIyMDE=) • [Twitter](https://twitter.com/blackinmarsci) • [YouTube](https://www.youtube.com/BlackInMarineScience)
 
-**Openscapes**: [Website](https://openscapes.org) • [Twitter](https://twitter.com/openscapes) • [YouTube](https://www.youtube.com/@openscapes)
+**Openscapes**: [Website](https://openscapes.org) • [Mastodon](https://fosstodon.org/@openscapes) • [YouTube](https://www.youtube.com/@openscapes)
 
 ## Background Information
 
@@ -128,7 +92,7 @@ To learn more about Openscapes approaches:
 
 ## Funding
 
-This event series is possible through funding from [Code for Science & Society](https://eventfund.codeforscience.org/event-fund-grantees/) through the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/). Thank you!
+The 2024 Pathways event series is supported by Openscapes LLC, with further funding partners pending. The whole Pathways event series was kicked off with 2023 support from [Code for Science & Society](https://eventfund.codeforscience.org/event-fund-grantees/) through the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/). Thank you!
 
 ## Citation
 
