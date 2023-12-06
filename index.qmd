@@ -92,7 +92,7 @@ To learn more about Openscapes approaches:
 
 ## Funding
 
-This event series is possible through funding from [Code for Science & Society](https://eventfund.codeforscience.org/event-fund-grantees/) through the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/). Thank you!
+The 2024 Pathways event series is supported by Openscapes LLC, with further funding partners pending. The whole Pathways event series was kicked off with 2023 support from [Code for Science & Society](https://eventfund.codeforscience.org/event-fund-grantees/) through the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/). Thank you!
 
 ## Citation
 
