@@ -16,8 +16,8 @@ This remote event series will convene Black environmental and marine researcher 
 
 -   3 community calls: 1.5 hour calls with facilitated discussion, mini-lectures and community conversations with Black data scientists, data science leaders and students
     -   January 25, February 8, 22 from 5:00 to 6:30 pm EST
--   3 coworking sessions: 1.5 hour calls structured for folks to bring their own work, their code, or questions, screenshare, and come learn a new skill with us!
-    -   February 1, 15, 29 from 5:00 to 6:30 pm EST
+-   3 coworking sessions: 1 hour calls structured for folks to bring their own work, their code, or questions, screenshare, and come learn a new skill with us!
+    -   February 1, 15, 29 from 5:00 to 6:00 pm EST
 
 ## **Registration**
 
