@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Resources from speakers and participants in Pathways to Open Science Community Calls and Coworking.\n2024\n2023"
+  },
+  {
     "objectID": "2024.html",
     "href": "2024.html",
     "title": "Resources 2024",
@@ -103,13 +110,6 @@
     "title": "Pathways to Open Science",
     "section": "Citation",
     "text": "Citation\nPlease cite Pathways to Open Science through the project’s Zenodo archive using DOI: 10.5281/zenodo.7662699. This DOI represents all versions, and will always resolve to the latest one.\nThe citation will look something like:\n\nIleana Fenwick & Julia Stewart Lowndes. (2023). Pathways to Open Science (2023.02). Zenodo. https://doi.org/10.5281/zenodo.7662700\n\nPlease visit the Pathways DOI link to get the most recent version - the one above is not automatically generated and may be out of date if we release an updated version."
-  },
-  {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "Resources from speakers and participants in Pathways to Open Science Community Calls and Coworking.\n2024\n2023"
   },
   {
     "objectID": "2023.html",
