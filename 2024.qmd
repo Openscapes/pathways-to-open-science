@@ -4,25 +4,53 @@ title: "Resources 2024"
 
 *Pathways to Open Science 2024 starts January 25th. This page will link to the content from each Community Call (e.g. agenda, video, slides) as well as resources shared by speakers and participants. We will add resources here that come up in each session.*
 
-Quicklink: \[OpenscapesCommunityCalls \[ 2024-pathways \]\] (LINK) Google Drive folder
+*Certificates will be available with the number of hours you completed in the program.*
+
+Quicklink: [OpenscapesCommunityCalls \[ 2024-pathways \]](https://drive.google.com/drive/folders/1H4krhccewqitgE39g7VAPFQKf0aaUu82?usp=drive_link) Google Drive folder
 
 ## Community Calls
 
 ### Call 1, January 25: What is open science anyway? What can it mean for you?
 
-Learn all about open science and data organization skills that will save you time and energy!
+(Agenda \| Video \| Slides) to come!
+
+Meet the team: [Ileana Fenwick](https://twitter.com/_ileanaf), [Aneese Williams](https://www.linkedin.com/in/aneese-williams-mps-80a846b6/), [Alex Davis, PhD](http://www.alexandracddavis.com/), [Antoinette Foster, PhD](https://www.ohsu.edu/racial-equity-and-inclusion-center/our-people)
+
+Speakers
+
+-   [Ileana Fenwick](https://twitter.com/_ileanaf), UNC PhD Candidate & Openscapes Team member
+-   [Aliyah Griffith](https://aliyahgg.wixsite.com/aliyah-griffith/), UNC PhD Candidate & CEO of Mahogany Mermaids
+-   [Bárbara Pinheiro](https://www.instagram.com/barbara.pin/)
 
 ### Call 2, February 8: Building our skills for a better tomorrow
 
-Hear from experts about building community and your data science toolkit for more efficient research!
+(Agenda \| Video \| Slides) to come!
+
+Speakers
+
+-   [LaTreese Denson, PhD](https://www.bweems.org/member-directory/latreese-s-denson-ph-d), Stock Assessment Analyst, NOAA Southeast Fisheries Science Center
+
+-   [Antoinette Foster, PhD](https://www.ohsu.edu/racial-equity-and-inclusion-center/our-people), Director of Community Transformation, OHSU
 
 ### Call 3, February 22: Data Science is for US
 
-Join the conversation! Hear all about our journeys into data science and building community for innovation.
+(Agenda \| Video \| Slides) to come!
+
+Speakers
+
+-   [SherAaron Hurt](https://carpentries.org/team/), Director of Workshops, The Carpentries
+
+-   [Justin Rice, PhD](https://www.nasa.gov/image-article/deputy-manager-justin-rice/), Deputy Manager of the ESDIS Science Systems Development Office, NASA\'s Goddard Space Flight Center
+
+-   [Dawn Wright, PhD](https://twitter.com/deepseadawn), Chief Scientist, Environmental Systems Research Institute (ESRI)
+
+------------------------------------------------------------------------
 
 ## Resources recommended by Speakers
 
 *We'll add links here after each Call.*
+
+------------------------------------------------------------------------
 
 ## Coworking
 
