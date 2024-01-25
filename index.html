@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.4.549">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -45,7 +45,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -54,6 +60,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -67,9 +74,9 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a href="./index.html" class="navbar-brand navbar-brand-logo">
     <img src="./images/openscapes_hex.png" alt="" class="navbar-logo">
     </a>
@@ -84,38 +91,38 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-resources" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Resources</span>
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-resources">    
         <li>
-    <a class="dropdown-item" href="./2024.html" rel="" target="">
+    <a class="dropdown-item" href="./2024.html">
  <span class="dropdown-text">2024</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="./2023.html" rel="" target="">
+    <a class="dropdown-item" href="./2023.html">
  <span class="dropdown-text">2023</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="https://openscapes.org" rel="" target="">
- <span class="menu-text">Home</span></a>
+    <a class="nav-link" href="https://openscapes.org"> 
+<span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/openscapes/pathways-to-open-science" rel="" target=""><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/openscapes/pathways-to-open-science"> <i class="bi bi-github" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://fosstodon.org/@openscapes" rel="" target=""><i class="bi bi-mastodon" role="img">
+    <a class="nav-link" href="https://fosstodon.org/@openscapes"> <i class="bi bi-mastodon" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools">
-</div>
           </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
+</div>
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -161,11 +168,13 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
+
 
 <section id="welcome" class="level2">
 <h2 class="anchored" data-anchor-id="welcome"><strong>Welcome</strong></h2>
-<p><strong>Pathways to Open Science</strong> is a remote event series for Black environmental &amp; marine researchers to build community for the future of data intensive science. Led by Ileana Fenwick of <a href="https://openscapes.org">Openscapes</a> in partnership with <a href="https://www.blackinmarinescience.org/">Black in Marine Science (BIMS)</a>, <a href="https://www.bweems.org/">Black Women in Ecology, Evolution, and Marine Science (BWEEMS)</a>, and <a href="https://prereview.org/">PREreview</a>, the series will begin on <strong>January 25, 2024</strong>!</p>
+<p><strong>Pathways to Open Science</strong> is a remote event series for Black environmental &amp; marine researchers to build community for the future of data intensive science. This is an ongoing collaboration with Black in Marine Science (<a href="https://www.blackinmarinescience.org/">BIMS</a>), Black Women in Ecology, Evolution, and Marine Science (<a href="https://www.bweems.org/">BWEEMS</a>), HBCU marine science professors, and now <a href="https://prereview.org/">PREreview</a> and Antoinette Foster, PhD. The program is led by Ileana Fenwick, with Alex Davis, PhD, and Aneese Williams. The series will begin on <strong>January 25, 2024</strong>!</p>
 <center>
 <img src="images/logos-openscapes-bweems-bims-prereview.png" class="img-fluid" style="width:80.0%">
 </center>
@@ -205,14 +214,14 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="planning-team"><strong>Planning Team</strong></h2>
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><img src="images/aneese-alex-ileana-bweems.jpg" class="img-fluid figure-img" alt="3 smiling Black women standing in front of a BWEEMS-branded backdrop with an arbor of black, blue, green, and red balloons" width="300"></p>
-<figcaption class="figure-caption">Aneese Williams, Alex Davis, Ileana Fenwick (l to r)</figcaption>
+<p><img src="images/aneese-alex-ileana-bweems.jpg" class="img-fluid quarto-figure quarto-figure-left figure-img" alt="3 smiling Black women standing in front of a BWEEMS-branded backdrop with an arbor of black, blue, green, and red balloons" width="300"></p>
+<figcaption>Aneese Williams, Alex Davis, Ileana Fenwick (l to r)</figcaption>
 </figure>
 </div>
 <p><a href="https://twitter.com/_ileanaf">Ileana Fenwick</a> is PI (Principal Investigator) and Lead of the Pathways to Open Science program and a core Openscapes team member. She is an open science advocate and Marine Sciences Ph.D.&nbsp;Student at UNC Chapel Hill. Ileana’s research focuses on evaluating how marine communities respond to climate change and human impacts. Her work uses innovative quantitative methods to improve our ocean management outcomes. In addition to her research, Ileana is also a fierce advocate for HBCU engagement and equity in open science and marine science through her consulting and volunteer work.</p>
-<p><a href="http://www.alexandracddavis.com/">Alex Davis</a> is co-organizing Pathways to Open Science as a representative of <a href="https://www.bweems.org/">BWEEMS</a>. She is a marine ecologist and conservation scientist working as a Postdoctoral Fellow on The Diversity Project at UCLA. Alex uses her skills with diving, GIS and spatial ecology to address issues with marine invasive species. Alex is on the Board of Directors for BWEEMS.</p>
+<p><a href="http://www.alexandracddavis.com/">Alex Davis</a>, PhD, is co-organizing Pathways to Open Science as a representative of <a href="https://www.bweems.org/">BWEEMS</a>. She is a marine ecologist and conservation scientist working as a Postdoctoral Fellow on The Diversity Project at UCLA. Alex uses her skills with diving, GIS and spatial ecology to address issues with marine invasive species. Alex is on the Board of Directors for BWEEMS.</p>
 <p><a href="https://www.linkedin.com/in/aneese-williams-mps-80a846b6/">Aneese Williams</a> is co-organizing Pathways to Open Science as a representative of <a href="https://www.blackinmarinescience.org/">BIMS</a>. She is a graduate of Hampton University where she studied Marine &amp; Environmental Science. Aneese has an M.Sc. in Marine Biology &amp; Fisheries from University of Miami Rosenstiel School of Marine and Atmospheric Science (RSMAS). Currently, Aneese is the Environmental Management Systems Coordinator for the City of West Palm Beach, FL. She manages an Environmental Education Program that allows employees to be more aware of their potential environmental impacts associated with their everyday tasks, highlighting the importance of protecting the environment. She is an expert in problem-solving with data, working to “do things better in less time”.</p>
-<p><a href="https://www.openscapes.org/team/">Julie Lowndes</a> founded and directs Openscapes and provides support for the Pathways to Open Science program.</p>
+<p><a href="https://www.openscapes.org/team/">Julie Lowndes</a>, PhD, founded and directs Openscapes and provides support for the Pathways to Open Science program.</p>
 <p><a href="https://www.openscapes.org/team/">Stefanie Butland</a> is a core Openscapes team member and provides support for the Pathways to Open Science program.</p>
 <section id="timeline" class="level3">
 <h3 class="anchored" data-anchor-id="timeline">Timeline</h3>
@@ -244,14 +253,14 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="promotional-graphics">Promotional Graphics</h2>
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><img src="images/pathways-commcall1-lawanda.png" class="img-fluid figure-img" alt="poster for Community Call #1 with cartoon of kelp on the left and a Black woman sitting cross-legged, smiling reading a book" width="300"></p>
-<figcaption class="figure-caption">Enjoying the graphics for the event series in our social channels? Check out our incredible graphic designer <a href="https://www.linkedin.com/in/lawanda-walker-b673a71b2">LaWanda Walker</a>!</figcaption>
+<p><img src="images/2024-pathways-commcall1-lawanda.png" class="img-fluid quarto-figure quarto-figure-left figure-img" alt="poster for Community Call #1 with cartoon of kelp on the left and a Black woman sitting cross-legged, smiling reading a book" width="300"></p>
+<figcaption>Enjoying the graphics for the event series in our social channels? Check out our incredible graphic designer <a href="https://www.linkedin.com/in/lawanda-walker-b673a71b2">LaWanda Walker</a>!</figcaption>
 </figure>
 </div>
 </section>
 <section id="funding" class="level2">
 <h2 class="anchored" data-anchor-id="funding">Funding</h2>
-<p>The 2024 Pathways event series is supported by Openscapes LLC, with further funding partners pending. The whole Pathways event series was kicked off with 2023 support from <a href="https://eventfund.codeforscience.org/event-fund-grantees/">Code for Science &amp; Society</a> through the <a href="https://chanzuckerberg.com/">Chan Zuckerberg Initiative</a>. Thank you!</p>
+<p>The 2024 Pathways event series is supported by Openscapes LLC, with funding from a <a href="https://foundation.mozilla.org/en/blog/mozilla-announces-first-ever-alumni-connection-grant-finalists/">Mozilla Foundation’s Alumni Connection grant</a>, allowing us to collaborate with <a href="https://prereview.org/">PREreview</a> and Antoinette Foster, PhD to bring expertise in values-guided career navigation and anti-racist scholarly review to the programming this year. Pathways to Open Science was kicked off with 2023 support from the <a href="https://eventfund.codeforscience.org/event-fund-grantees/">Code for Science &amp; Society Event Fund</a> through the <a href="https://chanzuckerberg.com/">Chan Zuckerberg Initiative</a>. Thank you!</p>
 </section>
 <section id="citation" class="level2">
 <h2 class="anchored" data-anchor-id="citation">Citation</h2>
@@ -345,10 +354,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -358,8 +366,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -372,6 +389,125 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -415,6 +551,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -440,6 +577,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -502,13 +665,18 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 </div> <!-- /content -->
 <footer class="footer">
   <div class="nav-footer">
-    <div class="nav-footer-left">© CC-By Openscapes Core Team</div>   
+    <div class="nav-footer-left">
+<p>© CC-By Openscapes Core Team</p>
+</div>   
     <div class="nav-footer-center">
       &nbsp;
     </div>
-    <div class="nav-footer-right">This page is built with ❤️ and <a href="https://quarto.org/">Quarto</a>.</div>
+    <div class="nav-footer-right">
+<p>This page is built with ❤️ and <a href="https://quarto.org/">Quarto</a>.</p>
+</div>
   </div>
 </footer>
+
 
 
 

@@ -1,1 +1,1 @@
-Sitemap: https://github.com/Openscapes/pathways-to-open-science/sitemap.xml
+Sitemap: https://Openscapes.github.io/pathways-to-open-science/sitemap.xml
