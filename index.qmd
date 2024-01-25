@@ -4,7 +4,7 @@ title: "Pathways to Open Science"
 
 ## **Welcome**
 
-**Pathways to Open Science** is a remote event series for Black environmental & marine researchers to build community for the future of data intensive science. This is an ongoing collaboration with Black in Marine Science ([BIMS](https://www.blackinmarinescience.org/)), Black Women in Ecology, Evolution, and Marine Science ([BWEEMS](https://www.bweems.org/)), HBCU marine science professors, and now [PREreview](https://prereview.org/). The program is led by Ileana Fenwick, with Alex Davis, PhD, and Aneese Williams. The series will begin on **January 25, 2024**!
+**Pathways to Open Science** is a remote event series for Black environmental & marine researchers to build community for the future of data intensive science. This is an ongoing collaboration with Black in Marine Science ([BIMS](https://www.blackinmarinescience.org/)), Black Women in Ecology, Evolution, and Marine Science ([BWEEMS](https://www.bweems.org/)), HBCU marine science professors, and now [PREreview](https://prereview.org/) and Antoinette Foster, PhD. The program is led by Ileana Fenwick, with Alex Davis, PhD, and Aneese Williams. The series will begin on **January 25, 2024**!
 
 <center>![](images/logos-openscapes-bweems-bims-prereview.png){width="80%"}</center>
 
