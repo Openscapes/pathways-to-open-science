@@ -12,14 +12,14 @@ Quicklink: [OpenscapesCommunityCalls \[ 2024-pathways \]](https://drive.google.c
 
 ### Call 1, January 25: What is open science anyway? What can it mean for you?
 
-(Agenda \| Video \| Slides) to come!
+([Agenda](https://docs.google.com/document/d/1rRq6UweAtBzAD1ZiemnghrvolOkqTAdNJLiDm4woa8U/edit#heading=h.v4arp372yz2n) \| [Video](https://drive.google.com/file/d/128PREjilaB7Y0jULVd7b8_VZLRPkvSPz/view?usp=drive_link) \| [Slides](https://docs.google.com/presentation/d/1LN3bMRdxZXE_4yqOBPF30mz8hAf-6gGx2v1hMHBecRc/))
 
-Meet the team: [Ileana Fenwick](https://twitter.com/_ileanaf), [Aneese Williams](https://www.linkedin.com/in/aneese-williams-mps-80a846b6/), [Alex Davis, PhD](http://www.alexandracddavis.com/), [Antoinette Foster, PhD](https://www.ohsu.edu/racial-equity-and-inclusion-center/our-people)
+Meet the team: [Ileana Fenwick](https://twitter.com/_ileanaf), [Aneese Williams](https://www.linkedin.com/in/aneese-williams-mps-80a846b6/), [Alex Davis, PhD](http://www.alexandracddavis.com/)
 
 Speakers
 
--   [Ileana Fenwick](https://twitter.com/_ileanaf), UNC PhD Candidate & Openscapes Team member
--   [Aliyah Griffith](https://aliyahgg.wixsite.com/aliyah-griffith/), UNC PhD Candidate & CEO of Mahogany Mermaids
+-   [Ileana Fenwick](https://twitter.com/_ileanaf), UNC PhD Candidate, Openscapes Team member
+-   [Aliyah Griffith](https://aliyahgg.wixsite.com/aliyah-griffith/), UNC PhD Candidate, CEO of Mahogany Mermaids, National Geographic Explorer
 -   [Bárbara Pinheiro](https://www.instagram.com/barbara.pin/)
 
 ### Call 2, February 8: Building our skills for a better tomorrow
@@ -40,7 +40,7 @@ Speakers
 
 -   [SherAaron Hurt](https://carpentries.org/team/), Director of Workshops, The Carpentries
 
--   [Justin Rice, PhD](https://www.nasa.gov/image-article/deputy-manager-justin-rice/), Deputy Manager of the ESDIS Science Systems Development Office, NASA\'s Goddard Space Flight Center
+-   [Justin Rice, PhD](https://www.nasa.gov/image-article/deputy-manager-justin-rice/), Deputy Manager of the ESDIS Science Systems Development Office, NASA's Goddard Space Flight Center
 
 -   [Dawn Wright, PhD](https://twitter.com/deepseadawn), Chief Scientist, Environmental Systems Research Institute (ESRI)
 
@@ -48,7 +48,41 @@ Speakers
 
 ## Resources recommended by Speakers
 
-*We'll add links here after each Call.*
+*We'll add links here after each Call*
+
+Aliyah Griffith
+
+-   [The Big Book of R](https://www.bigbookofr.com/)
+-   [PSU R Statistical Software Tutorial](https://online.stat.psu.edu/statprogram/tutorials/statistical-software/r)
+-   [Google Colab](https://colab.google/) and [example](https://colab.research.google.com/github/microsoft/torchgeo/blob/releases/v0.4/docs/tutorials/trainers.ipynb#scrollTo=b13c2251)
+
+Bárbara Pinheiro
+
+-   Ocean Biodiversity Information System - a global open-access data and information clearing-house on marine biodiversity for science, conservation and sustainable development
+    -   <https://mapper.obis.org/>
+
+    -   <https://github.com/iobis>
+
+    -   <https://github.com/iobis/robis>
+
+Ileana Fenwick
+
+-   [Tidy data Illustrated Series](https://www.openscapes.org/blog/2020/10/12/tidy-data/)
+-   Good resource for [how to start a project in R](https://njsilbiger.github.io/GettingStarted/)
+-   [BioTIME](https://biotime.st-andrews.ac.uk/)
+
+Call 1 participants recommend
+
+-   R
+    -   I use this posit package to data wrangle <https://dplyr.tidyverse.org/>
+    -   [Janitor R package](https://sfirke.github.io/janitor/) for cleaning data in R
+    -   The Carpentries [Intro to R](https://datacarpentry.org/R-genomics/01-intro-to-R.html)
+-   Datasets from NOAA, USGS, etc. to practice data mining and visualization:
+    -   This ["tidy coral" lesson](https://nceas.github.io/crescynt-training/tidy_coral) helped walk through NOAA buoy data in R
+    -   The [USGS Vizlab](https://labs.waterdata.usgs.gov/visualizations/) links back to the source data and reusable code
+-   GIS
+    -   [Tutorials](https://learn.arcgis.com/en/projects/predict-seagrass-habitats-with-machine-learning/) from learn.arcgis.com
+    -   [NOAA has also published some surveys](https://experience.arcgis.com/experience/dfe13b44993b4449bf47422db9d0e1a6/) that may be good practice from a more social science (socioeconomic) perspective
 
 ------------------------------------------------------------------------
 
