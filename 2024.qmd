@@ -20,7 +20,7 @@ Speakers
 
 -   [Ileana Fenwick](https://twitter.com/_ileanaf), UNC PhD Candidate, Openscapes Team member
 -   [Aliyah Griffith](https://aliyahgg.wixsite.com/aliyah-griffith/), UNC PhD Candidate, CEO of Mahogany Mermaids, National Geographic Explorer
--   [Bárbara Pinheiro](https://www.instagram.com/barbara.pin/)
+-   [Bárbara Pinheiro](https://www.instagram.com/barbara.pin/), Post Doctoral research fellow, [PELD CCAL- Universidade Federal de Alagoas, Maceió- Brazil ](https://sites.google.com/view/peld-costa-dos-corais-al/equipe?authuser=0)(in Portuguese)
 
 ### Call 2, February 8: Building our skills for a better tomorrow
 
@@ -29,7 +29,6 @@ Speakers
 Speakers
 
 -   [LaTreese Denson, PhD](https://www.bweems.org/member-directory/latreese-s-denson-ph-d), Stock Assessment Analyst, NOAA Southeast Fisheries Science Center
-
 -   [Antoinette Foster, PhD](https://www.ohsu.edu/racial-equity-and-inclusion-center/our-people), Director of Community Transformation, OHSU
 
 ### Call 3, February 22: Data Science is for US
@@ -39,9 +38,7 @@ Speakers
 Speakers
 
 -   [SherAaron Hurt](https://carpentries.org/team/), Director of Workshops, The Carpentries
-
 -   [Justin Rice, PhD](https://www.nasa.gov/image-article/deputy-manager-justin-rice/), Deputy Manager of the ESDIS Science Systems Development Office, NASA's Goddard Space Flight Center
-
 -   [Dawn Wright, PhD](https://twitter.com/deepseadawn), Chief Scientist, Environmental Systems Research Institute (ESRI)
 
 ------------------------------------------------------------------------
@@ -60,9 +57,7 @@ Bárbara Pinheiro
 
 -   Ocean Biodiversity Information System - a global open-access data and information clearing-house on marine biodiversity for science, conservation and sustainable development
     -   <https://mapper.obis.org/>
-
     -   <https://github.com/iobis>
-
     -   <https://github.com/iobis/robis>
 
 Ileana Fenwick
@@ -88,16 +83,29 @@ Call 1 participants recommend
 
 ## Coworking
 
+*We'll add links here after each Coworking session. These take place alternating Thursdays, February 1, 15, 29,* 5:00 to 6:00 pm EST.
+
 Coworking comes in many flavors. For us, coworking involves doing our own work at the same time together with opportunities to check in, and sometimes screenshare to get feedback or solve a problem. Seeing how other people work is a big part of this transition to working more openly and collaboratively.
 
 We'll have breakout rooms for social, quiet working, plus rooms for discussions, screenshares and learning about specific topics.
 
-## Resources shared in Coworking
+### R
 
-*We'll add links here after each Call.*
+-   Tutorial: [Introduction to Programming in R for Biology](https://colebrookson.github.io/r-for-biology/), by Cole Brookson, Emma Atkinson. Screenshared by Alex. More comprehensive tutorial: [The R Manual](https://rman.eeb.utoronto.ca/00-landingpage.html), by Cole Brookson.
 
-### Coworking 1, February 1
+-   [Posit](https://posit.co/) / RStudio cheat sheets
 
-### Coworking 2, February 15
+    -   Posit makes the popular [RStudio IDE](https://posit.co/downloads/) (integrated development environment, a software application that helps people develop code efficiently)
 
-### Coworking 3, February 29
+    -   Data tidying with tidyr : : [Cheatsheet](https://bioinformatics.ccr.cancer.gov/docs/rintro/resources/tidyr_cheatsheet.pdf)
+
+    -   [all Posit Cheatsheets](https://posit.co/resources/cheatsheets/)
+
+-   radar / spider / web charts
+
+    -   [ggradar](https://exts.ggplot2.tidyverse.org/ggradar.html): build radar charts with ggplot2
+    -   https://www.data-to-viz.com/caveat/spider.html
+
+### Math
+
+-   [Maple](https://www.maplesoft.com/products/Maple/) software for math (requires license)
