@@ -93,9 +93,12 @@ We'll have breakout rooms for social, quiet working, plus rooms for discussions,
 
 -   Tutorial: [Introduction to Programming in R for Biology](https://colebrookson.github.io/r-for-biology/), by Cole Brookson, Emma Atkinson. Screenshared by Alex. More comprehensive tutorial: [The R Manual](https://rman.eeb.utoronto.ca/00-landingpage.html), by Cole Brookson.
 
--   Posit / RStudio cheat sheets
+-   [Posit](https://posit.co/) / RStudio cheat sheets
+
+    -   Posit makes the popular [RStudio IDE](https://posit.co/downloads/) (integrated development environment, a software application that helps people develop code efficiently)
 
     -   Data tidying with tidyr : : [Cheatsheet](https://bioinformatics.ccr.cancer.gov/docs/rintro/resources/tidyr_cheatsheet.pdf)
+
     -   [all Posit Cheatsheets](https://posit.co/resources/cheatsheets/)
 
 -   radar / spider / web charts
