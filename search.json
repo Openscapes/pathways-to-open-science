@@ -11,7 +11,7 @@
     "href": "2024.html#community-calls",
     "title": "Resources 2024",
     "section": "Community Calls",
-    "text": "Community Calls\n\nCall 1, January 25: What is open science anyway? What can it mean for you?\n(Agenda | Video | Slides)\nMeet the team: Ileana Fenwick, Aneese Williams, Alex Davis, PhD\nSpeakers\n\nIleana Fenwick, UNC PhD Candidate, Openscapes Team member\nAliyah Griffith, UNC PhD Candidate, CEO of Mahogany Mermaids, National Geographic Explorer\nBárbara Pinheiro\n\n\n\nCall 2, February 8: Building our skills for a better tomorrow\n(Agenda | Video | Slides) to come!\nSpeakers\n\nLaTreese Denson, PhD, Stock Assessment Analyst, NOAA Southeast Fisheries Science Center\nAntoinette Foster, PhD, Director of Community Transformation, OHSU\n\n\n\nCall 3, February 22: Data Science is for US\n(Agenda | Video | Slides) to come!\nSpeakers\n\nSherAaron Hurt, Director of Workshops, The Carpentries\nJustin Rice, PhD, Deputy Manager of the ESDIS Science Systems Development Office, NASA’s Goddard Space Flight Center\nDawn Wright, PhD, Chief Scientist, Environmental Systems Research Institute (ESRI)"
+    "text": "Community Calls\n\nCall 1, January 25: What is open science anyway? What can it mean for you?\n(Agenda | Video | Slides)\nMeet the team: Ileana Fenwick, Aneese Williams, Alex Davis, PhD\nSpeakers\n\nIleana Fenwick, UNC PhD Candidate, Openscapes Team member\nAliyah Griffith, UNC PhD Candidate, CEO of Mahogany Mermaids, National Geographic Explorer\nBárbara Pinheiro, Post Doctoral research fellow, PELD CCAL- Universidade Federal de Alagoas, Maceió- Brazil(in Portuguese)\n\n\n\nCall 2, February 8: Building our skills for a better tomorrow\n(Agenda | Video | Slides) to come!\nSpeakers\n\nLaTreese Denson, PhD, Stock Assessment Analyst, NOAA Southeast Fisheries Science Center\nAntoinette Foster, PhD, Director of Community Transformation, OHSU\n\n\n\nCall 3, February 22: Data Science is for US\n(Agenda | Video | Slides) to come!\nSpeakers\n\nSherAaron Hurt, Director of Workshops, The Carpentries\nJustin Rice, PhD, Deputy Manager of the ESDIS Science Systems Development Office, NASA’s Goddard Space Flight Center\nDawn Wright, PhD, Chief Scientist, Environmental Systems Research Institute (ESRI)"
   },
   {
     "objectID": "2024.html#resources-recommended-by-speakers",
@@ -25,14 +25,14 @@
     "href": "2024.html#coworking",
     "title": "Resources 2024",
     "section": "Coworking",
-    "text": "Coworking\nCoworking comes in many flavors. For us, coworking involves doing our own work at the same time together with opportunities to check in, and sometimes screenshare to get feedback or solve a problem. Seeing how other people work is a big part of this transition to working more openly and collaboratively.\nWe’ll have breakout rooms for social, quiet working, plus rooms for discussions, screenshares and learning about specific topics."
+    "text": "Coworking\nWe’ll add links here after each Coworking session. These take place alternating Thursdays, February 1, 15, 29, 5:00 to 6:00 pm EST.\nCoworking comes in many flavors. For us, coworking involves doing our own work at the same time together with opportunities to check in, and sometimes screenshare to get feedback or solve a problem. Seeing how other people work is a big part of this transition to working more openly and collaboratively.\nWe’ll have breakout rooms for social, quiet working, plus rooms for discussions, screenshares and learning about specific topics.\n\nR\n\nTutorial: Introduction to Programming in R for Biology, by Cole Brookson, Emma Atkinson. Screenshared by Alex. More comprehensive tutorial: The R Manual, by Cole Brookson.\nPosit / RStudio cheat sheets\n\nPosit makes the popular RStudio IDE (integrated development environment, a software application that helps people develop code efficiently)\nData tidying with tidyr : : Cheatsheet\nall Posit Cheatsheets\n\nradar / spider / web charts\n\nggradar: build radar charts with ggplot2\nhttps://www.data-to-viz.com/caveat/spider.html\n\n\n\n\nMath\n\nMaple software for math (requires license)"
   },
   {
-    "objectID": "2024.html#resources-shared-in-coworking",
-    "href": "2024.html#resources-shared-in-coworking",
-    "title": "Resources 2024",
-    "section": "Resources shared in Coworking",
-    "text": "Resources shared in Coworking\nWe’ll add links here after each Call.\n\nCoworking 1, February 1\n\n\nCoworking 2, February 15\n\n\nCoworking 3, February 29"
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Resources from speakers and participants in Pathways to Open Science Community Calls and Coworking.\n2024\n2023"
   },
   {
     "objectID": "index.html",
@@ -109,7 +109,7 @@
     "href": "2023.html",
     "title": "Resources 2023",
     "section": "",
-    "text": "Quicklink: OpenscapesCommunityCalls [ 2023-pathways ] Google Drive folder\nThis page links to the content from each Community Call (e.g. agenda, video, slides) in the 2023 Series as well as resources shared by speakers and participants like Some recommended datasets for teaching."
+    "text": "Read our report, Community building for Black environmental and marine researchers: Pathways to Open Science, April 2023\nQuicklink: OpenscapesCommunityCalls [ 2023-pathways ] Google Drive folder\nThis page links to the content from each Community Call (e.g. agenda, video, slides) in the 2023 Series as well as resources shared by speakers and participants like Some recommended datasets for teaching."
   },
   {
     "objectID": "2023.html#community-calls",
@@ -138,12 +138,5 @@
     "title": "Resources 2023",
     "section": "Coworking",
     "text": "Coworking\nCoworking comes in many flavors. For us, coworking involves doing our own work at the same time together with opportunities to check in, and sometimes screenshare to get feedback or solve a problem. Seeing how other people work is a big part of this transition to working more openly and collaboratively.\nCollaborative notes Google doc. Notes from 3 coworking sessions all in the same doc.\nWe’ve had breakout rooms for social, quiet working, plus rooms for discussions, screenshares and learning about Datasets for Classrooms+Working/learning in R and Tools / ArcGIS, data wrangling.\n\nTools/ArcGIS\n\nhttps://brooklab.org/ &gt; Bat lab led by Cara Brook\nGoogling for tutorials together\n\nhttps://spatialanalysis.github.io/tutorials/\nhttps://sites.tufts.edu/gis/learning-gis/online-tips-and-tutorials/tufts-gis-tip-sheets-arcgis10/\nhttps://ohi-science.org/training/ &gt; Spatial Analysis &gt; A primer on coordinate reference systems (download, created by Melanie Frazier)\nR spatial software, and tutorials: https://r-spatial.org/ \n\nLight datasets?\n\nhttps://data.neonscience.org/data-products/explore?search=light%20pollution\nhttps://search.earthdata.nasa.gov/search?lat=-0.0703125 &gt; Openscapes Slack to connect directly with LandSAT data center folks!\n\nhttps://www.esri.com/arcgis-blog/author/deepseadawn/\nWelcome to Tidy Movement Modeling with R\n\n\n\nDatasets for Classrooms / working & learning in R\n\nR tutorials for fish and ecological data\n\nmaterials for the #BlackInMarineScience week intro to R workshop, #PuttingTheSEAInCode\nBWEEMS professional development workshop, DirtyData-CleanMaps\n\nBiology Tutorials for R and Python, by Cole Brookson\nCamille’s dataset, FishScapes/hyperstabilitySurvey\n\n\n\nData wrangling + R\n\nMovement R packages\n\nhttps://nmml.github.io/tidy-movt-modeling/ book created by NOAA Fisheries team, to accompany their R package\nhttps://jmlondon.github.io/pathroutr/; one of the packages included in the book\nhttps://docs.ropensci.org/pathviewr/ - an rOpenSci peer reviewed package that looks to be well maintained\n\nData wrangling\n\nOpen Refine (Alex), https://openrefine.org/ \nFor thinking about managing and combining data, this is my (Julie) favorite resource: https://peerj.com/preprints/3183/\nhttps://nssdeviations.com/episode-9-spreadsheet-drama &gt; Podcast about spreadsheets that is SO delightful and helps give language to thinking & talking about data. With Jenny Bryan, changed my life (Julie).\n\nOther\n\nA User’s Guide to Network Analysis in R\nhttps://www.bigbookofr.com/ &gt; Big Book of R, lists and links to &gt;100 R resources/tutorials with many different foci"
-  },
-  {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "Resources from speakers and participants in Pathways to Open Science Community Calls and Coworking.\n2024\n2023"
   }
 ]
