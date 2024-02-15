@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "Resources",
+    "section": "",
+    "text": "Resources from speakers and participants in Pathways to Open Science Community Calls and Coworking.\n2024\n2023"
+  },
+  {
     "objectID": "2024.html",
     "href": "2024.html",
     "title": "Resources 2024",
@@ -11,7 +18,7 @@
     "href": "2024.html#community-calls",
     "title": "Resources 2024",
     "section": "Community Calls",
-    "text": "Community Calls\n\nCall 1, January 25: What is open science anyway? What can it mean for you?\n(Agenda | Video | Slides)\nMeet the team: Ileana Fenwick, Aneese Williams, Alex Davis, PhD\nSpeakers\n\nIleana Fenwick, UNC PhD Candidate, Openscapes Team member\nAliyah Griffith, UNC PhD Candidate, CEO of Mahogany Mermaids, National Geographic Explorer\nBárbara Pinheiro, Post Doctoral research fellow, PELD CCAL- Universidade Federal de Alagoas, Maceió- Brazil(in Portuguese)\n\n\n\nCall 2, February 8: Building our skills for a better tomorrow\n(Agenda | Video | Slides) to come!\nSpeakers\n\nLaTreese Denson, PhD, Stock Assessment Analyst, NOAA Southeast Fisheries Science Center\nAntoinette Foster, PhD, Director of Community Transformation, OHSU\n\n\n\nCall 3, February 22: Data Science is for US\n(Agenda | Video | Slides) to come!\nSpeakers\n\nSherAaron Hurt, Director of Workshops, The Carpentries\nJustin Rice, PhD, Deputy Manager of the ESDIS Science Systems Development Office, NASA’s Goddard Space Flight Center\nDawn Wright, PhD, Chief Scientist, Environmental Systems Research Institute (ESRI)"
+    "text": "Community Calls\n\nCall 1, January 25: What is open science anyway? What can it mean for you?\n(Agenda | Video | Slides)\nMeet the team: Ileana Fenwick, Aneese Williams, MSc, Alex Davis, PhD\nSpeakers\n\nIleana Fenwick, UNC PhD Candidate, Openscapes Team member\nAliyah Griffith, UNC PhD Candidate, CEO of Mahogany Mermaids, National Geographic Explorer\nBárbara Pinheiro, Post Doctoral research fellow, PELD CCAL- Universidade Federal de Alagoas, Maceió- Brazil(in Portuguese)\n\n\n\nCall 2, February 8: Building our skills for a better tomorrow\n(Agenda | Video | Slides)\nSpeakers\n\nAneese Williams, MSc, Environmental Management Systems (EMS) Coordinator, City of West Palm Beach\nLaTreese Denson, PhD, Stock Assessment Analyst, NOAA Southeast Fisheries Science Center\nAntoinette Foster, PhD, Director of Community Transformation, OHSU\n\nLaTreese’s and Antoinette’s slides can be viewed in the recording. Aneese’s slides are linked above.\n\n\nCall 3, February 22: Data Science is for US\n(Agenda | Video | Slides) to come!\nSpeakers\n\nSherAaron Hurt, Director of Workshops, The Carpentries\nJustin Rice, PhD, Deputy Manager of the ESDIS Science Systems Development Office, NASA’s Goddard Space Flight Center\nDawn Wright, PhD, Chief Scientist, Environmental Systems Research Institute (ESRI)"
   },
   {
     "objectID": "2024.html#resources-recommended-by-speakers",
@@ -26,13 +33,6 @@
     "title": "Resources 2024",
     "section": "Coworking",
     "text": "Coworking\nWe’ll add links here after each Coworking session. These take place alternating Thursdays, February 1, 15, 29, 5:00 to 6:00 pm EST.\nCoworking comes in many flavors. For us, coworking involves doing our own work at the same time together with opportunities to check in, and sometimes screenshare to get feedback or solve a problem. Seeing how other people work is a big part of this transition to working more openly and collaboratively.\nWe’ll have breakout rooms for social, quiet working, plus rooms for discussions, screenshares and learning about specific topics.\n\nR\n\nTutorial: Introduction to Programming in R for Biology, by Cole Brookson, Emma Atkinson. Screenshared by Alex. More comprehensive tutorial: The R Manual, by Cole Brookson.\nPosit / RStudio cheat sheets\n\nPosit makes the popular RStudio IDE (integrated development environment, a software application that helps people develop code efficiently)\nData tidying with tidyr : : Cheatsheet\nall Posit Cheatsheets\n\nradar / spider / web charts\n\nggradar: build radar charts with ggplot2\nhttps://www.data-to-viz.com/caveat/spider.html\n\n\n\n\nMath\n\nMaple software for math (requires license)"
-  },
-  {
-    "objectID": "resources.html",
-    "href": "resources.html",
-    "title": "Resources",
-    "section": "",
-    "text": "Resources from speakers and participants in Pathways to Open Science Community Calls and Coworking.\n2024\n2023"
   },
   {
     "objectID": "index.html",
