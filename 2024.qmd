@@ -12,7 +12,7 @@ Quicklink: [OpenscapesCommunityCalls \[ 2024-pathways \]](https://drive.google.c
 
 ### Call 1, January 25: What is open science anyway? What can it mean for you?
 
-([Agenda](https://docs.google.com/document/d/1rRq6UweAtBzAD1ZiemnghrvolOkqTAdNJLiDm4woa8U/edit#heading=h.v4arp372yz2n) \| [Video](https://drive.google.com/file/d/128PREjilaB7Y0jULVd7b8_VZLRPkvSPz/view?usp=drive_link) \| [Slides](https://docs.google.com/presentation/d/1LN3bMRdxZXE_4yqOBPF30mz8hAf-6gGx2v1hMHBecRc/))
+([Agenda](https://docs.google.com/document/d/1rRq6UweAtBzAD1ZiemnghrvolOkqTAdNJLiDm4woa8U/edit#heading=h.v4arp372yz2n) with notes and links to resources \| [Video](https://drive.google.com/file/d/128PREjilaB7Y0jULVd7b8_VZLRPkvSPz/view?usp=drive_link) \| [Slides](https://docs.google.com/presentation/d/1LN3bMRdxZXE_4yqOBPF30mz8hAf-6gGx2v1hMHBecRc/))
 
 Meet the team: [Ileana Fenwick](https://twitter.com/_ileanaf), [Aneese Williams, MSc](https://www.linkedin.com/in/aneese-williams-mps-80a846b6/), [Alex Davis, PhD](http://www.alexandracddavis.com/)
 
@@ -24,7 +24,7 @@ Speakers
 
 ### Call 2, February 8: Building our skills for a better tomorrow
 
-([Agenda](https://docs.google.com/document/d/1rRq6UweAtBzAD1ZiemnghrvolOkqTAdNJLiDm4woa8U/edit#heading=h.y0zhyd3y1f29) \| [Video](https://drive.google.com/file/d/1hUEs7flNMa5yd7YUha9tau-BGBSjAbS3/) \| [Slides](https://docs.google.com/presentation/d/1FFCBGvOmr1FpCaKK7JU0C5rpdv2oQ7_Q/))
+([Agenda](https://docs.google.com/document/d/1rRq6UweAtBzAD1ZiemnghrvolOkqTAdNJLiDm4woa8U/edit#heading=h.y0zhyd3y1f29) with notes and links to resources \| [Video](https://drive.google.com/file/d/1hUEs7flNMa5yd7YUha9tau-BGBSjAbS3/) \| [Slides](https://docs.google.com/presentation/d/1FFCBGvOmr1FpCaKK7JU0C5rpdv2oQ7_Q/))
 
 Speakers
 
@@ -36,7 +36,7 @@ LaTreese's and Antoinette's slides can be viewed in the recording. Aneese's slid
 
 ### Call 3, February 22: Data Science is for US
 
-(Agenda \| Video \| Slides) to come!
+([Agenda](https://docs.google.com/document/d/1rRq6UweAtBzAD1ZiemnghrvolOkqTAdNJLiDm4woa8U/edit#heading=h.t7xxkwa7gaf4) with notes and links to resources \| Video \| Slides) to come!
 
 Speakers
 
@@ -44,11 +44,19 @@ Speakers
 -   [Justin Rice, PhD](https://www.nasa.gov/image-article/deputy-manager-justin-rice/), Deputy Manager of the ESDIS Science Systems Development Office, NASA's Goddard Space Flight Center
 -   [Dawn Wright, PhD](https://twitter.com/deepseadawn), Chief Scientist, Environmental Systems Research Institute (ESRI)
 
-------------------------------------------------------------------------
+## Coworking Sessions
+
+Coworking comes in many flavors. For us, coworking involves doing our own work at the same time together with opportunities to check in, and sometimes screenshare to get feedback or solve a problem. Seeing how other people work is a big part of this transition to working more openly and collaboratively.
+
+We have breakout rooms to meet the speakers, for topic-based screenshares and discussions, and for socializing or quiet working.
+
+### Coworking 1, February 1
+
+### Coworking 2, February 15
+
+### Coworking 3, February 29
 
 ## Resources recommended by Speakers
-
-*We'll add links here after each Call*
 
 Aliyah Griffith
 
@@ -81,34 +89,3 @@ Call 1 participants recommend
 -   GIS
     -   [Tutorials](https://learn.arcgis.com/en/projects/predict-seagrass-habitats-with-machine-learning/) from learn.arcgis.com
     -   [NOAA has also published some surveys](https://experience.arcgis.com/experience/dfe13b44993b4449bf47422db9d0e1a6/) that may be good practice from a more social science (socioeconomic) perspective
-
-------------------------------------------------------------------------
-
-## Coworking
-
-*We'll add links here after each Coworking session. These take place alternating Thursdays, February 1, 15, 29,* 5:00 to 6:00 pm EST.
-
-Coworking comes in many flavors. For us, coworking involves doing our own work at the same time together with opportunities to check in, and sometimes screenshare to get feedback or solve a problem. Seeing how other people work is a big part of this transition to working more openly and collaboratively.
-
-We'll have breakout rooms for social, quiet working, plus rooms for discussions, screenshares and learning about specific topics.
-
-### R
-
--   Tutorial: [Introduction to Programming in R for Biology](https://colebrookson.github.io/r-for-biology/), by Cole Brookson, Emma Atkinson. Screenshared by Alex. More comprehensive tutorial: [The R Manual](https://rman.eeb.utoronto.ca/00-landingpage.html), by Cole Brookson.
-
--   [Posit](https://posit.co/) / RStudio cheat sheets
-
-    -   Posit makes the popular [RStudio IDE](https://posit.co/downloads/) (integrated development environment, a software application that helps people develop code efficiently)
-
-    -   Data tidying with tidyr : : [Cheatsheet](https://bioinformatics.ccr.cancer.gov/docs/rintro/resources/tidyr_cheatsheet.pdf)
-
-    -   [all Posit Cheatsheets](https://posit.co/resources/cheatsheets/)
-
--   radar / spider / web charts
-
-    -   [ggradar](https://exts.ggplot2.tidyverse.org/ggradar.html): build radar charts with ggplot2
-    -   https://www.data-to-viz.com/caveat/spider.html
-
-### Math
-
--   [Maple](https://www.maplesoft.com/products/Maple/) software for math (requires license)
