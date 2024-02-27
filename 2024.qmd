@@ -12,23 +12,25 @@ Quicklink: [OpenscapesCommunityCalls \[ 2024-pathways \]](https://drive.google.c
 
 ### Call 1, January 25: What is open science anyway? What can it mean for you?
 
-([Agenda](https://docs.google.com/document/d/1rRq6UweAtBzAD1ZiemnghrvolOkqTAdNJLiDm4woa8U/edit#heading=h.v4arp372yz2n) with notes and links to resources \| [Video](https://drive.google.com/file/d/128PREjilaB7Y0jULVd7b8_VZLRPkvSPz/view?usp=drive_link) \| [Slides](https://docs.google.com/presentation/d/1LN3bMRdxZXE_4yqOBPF30mz8hAf-6gGx2v1hMHBecRc/))
+([Agenda](https://docs.google.com/document/d/1rRq6UweAtBzAD1ZiemnghrvolOkqTAdNJLiDm4woa8U/edit#heading=h.v4arp372yz2n) with notes and links to resources \| [Video](https://drive.google.com/file/d/128PREjilaB7Y0jULVd7b8_VZLRPkvSPz/view?usp=drive_link))
 
 Meet the team: [Ileana Fenwick](https://twitter.com/_ileanaf), [Aneese Williams, MSc](https://www.linkedin.com/in/aneese-williams-mps-80a846b6/), [Alex Davis, PhD](http://www.alexandracddavis.com/)
 
 Speakers
 
 -   [Ileana Fenwick](https://twitter.com/_ileanaf), UNC PhD Candidate, Openscapes Team member
+    -   Data strategies for Future Us ([slides](https://docs.google.com/presentation/d/1LN3bMRdxZXE_4yqOBPF30mz8hAf-6gGx2v1hMHBecRc/))
 -   [Aliyah Griffith](https://aliyahgg.wixsite.com/aliyah-griffith/), UNC PhD Candidate, CEO of Mahogany Mermaids, National Geographic Explorer
 -   [Bárbara Pinheiro](https://www.instagram.com/barbara.pin/), Post Doctoral research fellow, [PELD CCAL- Universidade Federal de Alagoas, Maceió- Brazil](https://sites.google.com/view/peld-costa-dos-corais-al/equipe?authuser=0)(in Portuguese)
 
 ### Call 2, February 8: Building our skills for a better tomorrow
 
-([Agenda](https://docs.google.com/document/d/1rRq6UweAtBzAD1ZiemnghrvolOkqTAdNJLiDm4woa8U/edit#heading=h.y0zhyd3y1f29) with notes and links to resources \| [Video](https://drive.google.com/file/d/1hUEs7flNMa5yd7YUha9tau-BGBSjAbS3/) \| [Slides](https://docs.google.com/presentation/d/1FFCBGvOmr1FpCaKK7JU0C5rpdv2oQ7_Q/))
+([Agenda](https://docs.google.com/document/d/1rRq6UweAtBzAD1ZiemnghrvolOkqTAdNJLiDm4woa8U/edit#heading=h.y0zhyd3y1f29) with notes and links to resources \| [Video](https://drive.google.com/file/d/1hUEs7flNMa5yd7YUha9tau-BGBSjAbS3/))
 
 Speakers
 
 -   [Aneese Williams, MSc](https://www.linkedin.com/in/aneese-williams-mps-80a846b6/), Environmental Management Systems (EMS) Coordinator, City of West Palm Beach
+    -   My journey to open science ([slides](https://docs.google.com/presentation/d/1FFCBGvOmr1FpCaKK7JU0C5rpdv2oQ7_Q/))
 -   [LaTreese Denson, PhD](https://www.bweems.org/member-directory/latreese-s-denson-ph-d), Stock Assessment Analyst, NOAA Southeast Fisheries Science Center
 -   [Antoinette Foster, PhD](https://www.ohsu.edu/racial-equity-and-inclusion-center/our-people), Director of Community Transformation, OHSU
 
@@ -36,11 +38,14 @@ LaTreese's and Antoinette's slides can be viewed in the recording. Aneese's slid
 
 ### Call 3, February 22: Data Science is for US
 
-([Agenda](https://docs.google.com/document/d/1rRq6UweAtBzAD1ZiemnghrvolOkqTAdNJLiDm4woa8U/edit#heading=h.t7xxkwa7gaf4) with notes and links to resources \| Video \| Slides) to come!
+([Agenda](https://docs.google.com/document/d/1rRq6UweAtBzAD1ZiemnghrvolOkqTAdNJLiDm4woa8U/edit#heading=h.t7xxkwa7gaf4) with notes and links to resources \| [Video](https://drive.google.com/file/d/1OwFJlFr1sfSILKjZMfLJbQf838z5E7eX/))
 
 Speakers
 
+-   [Alex Davis, PhD](http://www.alexandracddavis.com/), Postdoctoral Fellow, aquatic invasive species ecologist, UCLA
+    -   What Open Science means to me ([slides](https://docs.google.com/presentation/d/1b3oUq-jc01HyEV_eRijPyF6qYURpcB4c/edit?usp=drive_link&ouid=117331415908654768512&rtpof=true&sd=true))
 -   [SherAaron Hurt](https://carpentries.org/team/), Director of Workshops, The Carpentries
+    -   Journey to Open Science ([slides](https://www.canva.com/design/DAF9jeVCeTI/MR1bstUE6kgZPS8M0H2EKw))
 -   [Justin Rice, PhD](https://www.nasa.gov/image-article/deputy-manager-justin-rice/), Deputy Manager of the ESDIS Science Systems Development Office, NASA's Goddard Space Flight Center
 -   [Dawn Wright, PhD](https://twitter.com/deepseadawn), Chief Scientist, Environmental Systems Research Institute (ESRI)
 
@@ -48,13 +53,9 @@ Speakers
 
 Coworking comes in many flavors. For us, coworking involves doing our own work at the same time together with opportunities to check in, and sometimes screenshare to get feedback or solve a problem. Seeing how other people work is a big part of this transition to working more openly and collaboratively.
 
-We have breakout rooms to meet the speakers, for topic-based screenshares and discussions, and for socializing or quiet working.
+We have breakout rooms to meet the speakers, for topic-based screenshares and discussions, and for socializing or quiet working. Follow the links to our collaborative notes doc to see the resources everyone shared on R and tidy data, Python, math, GIS, data visualization, Quarto, GitHub, ocean biodiversity data, NASA TOPS Open Science 101 Modules, training and paid internships, Data that’s FAIR (Findable, Accessible, Interoperable, Reusable) and open, storymaps, replicability and reproducibility.
 
-### Coworking 1, February 1
-
-### Coworking 2, February 15
-
-### Coworking 3, February 29
+[February 1](https://docs.google.com/document/d/1rRq6UweAtBzAD1ZiemnghrvolOkqTAdNJLiDm4woa8U/edit#heading=h.k5xex36bbt1k) \| [February 15](https://docs.google.com/document/d/1rRq6UweAtBzAD1ZiemnghrvolOkqTAdNJLiDm4woa8U/edit#heading=h.8jo8fpfqrb5p) \| February 29
 
 ## Resources recommended by Speakers
 
