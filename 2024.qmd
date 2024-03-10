@@ -2,9 +2,9 @@
 title: "Resources 2024"
 ---
 
-*Pathways to Open Science 2024 starts January 25th. This page will link to the content from each Community Call (e.g. agenda, video, slides) as well as resources shared by speakers and participants. We will add resources here that come up in each session.*
+*Pathways to Open Science 2024 ran January 25 to February 29. This page links to the content from each Community Call (e.g. agenda, video, slides) and the Agenda doc includes many linked resources shared by speakers and participants.*
 
-*Certificates will be available with the number of hours you completed in the program.*
+*Certificates were granted for anyone who participated in one or more of the six sessions.*
 
 Quicklink: [OpenscapesCommunityCalls \[ 2024-pathways \]](https://drive.google.com/drive/folders/1H4krhccewqitgE39g7VAPFQKf0aaUu82?usp=drive_link) Google Drive folder
 
@@ -31,6 +31,7 @@ Speakers
 
 -   [Aneese Williams, MSc](https://www.linkedin.com/in/aneese-williams-mps-80a846b6/), Environmental Management Systems (EMS) Coordinator, City of West Palm Beach
     -   My journey to open science ([slides](https://docs.google.com/presentation/d/1FFCBGvOmr1FpCaKK7JU0C5rpdv2oQ7_Q/))
+    -   Open Science Key Terms ([slides](https://docs.google.com/presentation/d/16RbJ3S4njI22tBjrsjxzbl3Yjv1OVNKE/))
 -   [LaTreese Denson, PhD](https://www.bweems.org/member-directory/latreese-s-denson-ph-d), Stock Assessment Analyst, NOAA Southeast Fisheries Science Center
 -   [Antoinette Foster, PhD](https://www.ohsu.edu/racial-equity-and-inclusion-center/our-people), Director of Community Transformation, OHSU
 
@@ -53,40 +54,6 @@ Speakers
 
 Coworking comes in many flavors. For us, coworking involves doing our own work at the same time together with opportunities to check in, and sometimes screenshare to get feedback or solve a problem. Seeing how other people work is a big part of this transition to working more openly and collaboratively.
 
-We have breakout rooms to meet the speakers, for topic-based screenshares and discussions, and for socializing or quiet working. Follow the links to our collaborative notes doc to see the resources everyone shared on R and tidy data, Python, math, GIS, data visualization, Quarto, GitHub, ocean biodiversity data, NASA TOPS Open Science 101 Modules, training and paid internships, Data that’s FAIR (Findable, Accessible, Interoperable, Reusable) and open, storymaps, replicability and reproducibility.
+We have breakout rooms to meet the speakers, for topic-based screenshares and discussions, and for socializing or quiet working. **Follow the links below to our collaborative notes doc to see the resources that speakers and participants shared** on R and tidy data, Python, math, GIS, ArcGIS, Storymaps, data visualization, Quarto, GitHub, ocean biodiversity data, creating an ORCID profile, NASA TOPS Open Science 101 Modules, training and paid internships, Data that’s FAIR (Findable, Accessible, Interoperable, Reusable) and open, replicability and reproducibility.
 
-[February 1](https://docs.google.com/document/d/1rRq6UweAtBzAD1ZiemnghrvolOkqTAdNJLiDm4woa8U/edit#heading=h.k5xex36bbt1k) \| [February 15](https://docs.google.com/document/d/1rRq6UweAtBzAD1ZiemnghrvolOkqTAdNJLiDm4woa8U/edit#heading=h.8jo8fpfqrb5p) \| February 29
-
-## Resources recommended by Speakers
-
-Aliyah Griffith
-
--   [The Big Book of R](https://www.bigbookofr.com/)
--   [PSU R Statistical Software Tutorial](https://online.stat.psu.edu/statprogram/tutorials/statistical-software/r)
--   [Google Colab](https://colab.google/) and [example](https://colab.research.google.com/github/microsoft/torchgeo/blob/releases/v0.4/docs/tutorials/trainers.ipynb#scrollTo=b13c2251)
-
-Bárbara Pinheiro
-
--   Ocean Biodiversity Information System - a global open-access data and information clearing-house on marine biodiversity for science, conservation and sustainable development
-    -   <https://mapper.obis.org/>
-    -   <https://github.com/iobis>
-    -   <https://github.com/iobis/robis>
-
-Ileana Fenwick
-
--   [Tidy data Illustrated Series](https://www.openscapes.org/blog/2020/10/12/tidy-data/)
--   Good resource for [how to start a project in R](https://njsilbiger.github.io/GettingStarted/)
--   [BioTIME](https://biotime.st-andrews.ac.uk/)
-
-Call 1 participants recommend
-
--   R
-    -   I use this posit package to data wrangle <https://dplyr.tidyverse.org/>
-    -   [Janitor R package](https://sfirke.github.io/janitor/) for cleaning data in R
-    -   The Carpentries [Intro to R](https://datacarpentry.org/R-genomics/01-intro-to-R.html)
--   Datasets from NOAA, USGS, etc. to practice data mining and visualization:
-    -   This ["tidy coral" lesson](https://nceas.github.io/crescynt-training/tidy_coral) helped walk through NOAA buoy data in R
-    -   The [USGS Vizlab](https://labs.waterdata.usgs.gov/visualizations/) links back to the source data and reusable code
--   GIS
-    -   [Tutorials](https://learn.arcgis.com/en/projects/predict-seagrass-habitats-with-machine-learning/) from learn.arcgis.com
-    -   [NOAA has also published some surveys](https://experience.arcgis.com/experience/dfe13b44993b4449bf47422db9d0e1a6/) that may be good practice from a more social science (socioeconomic) perspective
+[Coworking 1, Feb 1](https://docs.google.com/document/d/1rRq6UweAtBzAD1ZiemnghrvolOkqTAdNJLiDm4woa8U/edit#heading=h.djx1rcamjz6w) \| [Coworking 2, Feb 15](https://docs.google.com/document/d/1rRq6UweAtBzAD1ZiemnghrvolOkqTAdNJLiDm4woa8U/edit#heading=h.grka8yrfbfff) \| [Coworking 3, Feb 29](https://docs.google.com/document/d/1rRq6UweAtBzAD1ZiemnghrvolOkqTAdNJLiDm4woa8U/edit#heading=h.kp0f4kfvvusk)
