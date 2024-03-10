@@ -4,9 +4,9 @@ title: "Pathways to Open Science"
 
 ## **Welcome**
 
-**Pathways to Open Science** is a remote event series for Black environmental & marine researchers to build community for the future of data intensive science. This is an ongoing collaboration with Black in Marine Science ([BIMS](https://www.blackinmarinescience.org/)), Black Women in Ecology, Evolution, and Marine Science ([BWEEMS](https://www.bweems.org/)), HBCU marine science professors, and now [PREreview](https://prereview.org/) and Antoinette Foster, PhD. The program is led by Ileana Fenwick, with Alex Davis, PhD, and Aneese Williams. The series will began on **January 25, 2024**!
+**Pathways to Open Science** is a remote event series for Black environmental & marine researchers to build community for the future of data intensive science. This is an ongoing collaboration with Black in Marine Science ([BIMS](https://www.blackinmarinescience.org/)), Black Women in Ecology, Evolution, and Marine Science ([BWEEMS](https://www.bweems.org/)), HBCU marine science professors, and now [PREreview](https://prereview.org/) and Antoinette Foster, PhD. The program is led by Ileana Fenwick, with Alex Davis, PhD, and Aneese Williams. The 2024 series ran from **January 25 to February 29.**
 
-<center>![](images/logos-openscapes-bweems-bims-prereview.png){width="80%"}</center>
+![](images/pathways-recap-zoomie-wordcloud.png){fig-align="center" width="85%"}
 
 ## **Program Details**
 
@@ -25,7 +25,7 @@ This remote event series will convene Black environmental and marine researcher 
 
 ------------------------------------------------------------------------
 
-**What will Pathways to Open Science look like?** Check out the speakers in our [2024 Series](2024.qmd) and speakers and resources shared in our [2023 Series](2023.qmd). 
+**What will Pathways to Open Science look like?** Check out the speakers in our [2024 Series](2024.qmd) and speakers and resources shared in our [2023 Series](2023.qmd).
 
 The event series builds from our work at [Openscapes](https://openscapes.org), where we believe open practices can accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science. Since 2019 we have mentored \>100 research teams, meeting them where they are as they develop enduring habits and community. All Openscapes events abide by our [Code of Conduct](https://www.openscapes.org/code-of-conduct/).
 
@@ -103,3 +103,5 @@ The citation will look something like:
 > Ileana Fenwick & Julia Stewart Lowndes. (2023). Pathways to Open Science (2023.02). Zenodo. https://doi.org/10.5281/zenodo.7662700
 
 Please visit the Pathways [DOI link](https://doi.org/10.5281/zenodo.7662699) to get the most recent version - the one above is not automatically generated and may be out of date if we release an updated version.
+
+<center>![](images/logos-openscapes-bweems-bims-prereview.png){width="80%"}</center>
