@@ -2,13 +2,13 @@
 title: "Pathways to Open Science"
 ---
 
-## **Welcome**
+## Welcome
 
 **Pathways to Open Science** is a remote event series for Black environmental & marine researchers to build community for the future of data intensive science. This is an ongoing collaboration with Black in Marine Science ([BIMS](https://www.blackinmarinescience.org/)), Black Women in Ecology, Evolution, and Marine Science ([BWEEMS](https://www.bweems.org/)), HBCU marine science professors, and now [PREreview](https://prereview.org/) and Antoinette Foster, PhD. The program is led by Ileana Fenwick, with Alex Davis, PhD, and Aneese Williams. The 2024 series ran from **January 25 to February 29.**
 
 ![](images/pathways-recap-zoomie-wordcloud.png){fig-alt="2 zoom selfies of 48 Black people smiling and waving, a cartoon of a Black woman sitting, smiling, reading a book called Open Science, and a word cloud with community, personal stories, resources, as largest font words" fig-align="center" width="85%"}
 
-## **Program Details**
+## Program Details
 
 This remote event series will convene Black environmental and marine researcher community members with the goal of developing a mindset for Open Data Science: the tools and practices enabling reproducible, transparent, and inclusive practices for data intensive science. If you're feeling bogged down by folders full of files with names like "analysis_final_v5.xlsx" and/or like empowering others, we welcome you to join us!
 
@@ -19,9 +19,9 @@ This remote event series will convene Black environmental and marine researcher 
 -   3 coworking sessions: 1 hour calls structured for folks to bring their own work, their code, or questions, screenshare, and come learn a new skill with us!
     -   February 1, 15, 29 from 5:00 to 6:00 pm EST
 
-## **Registration**
+## Registration
 
-[**Register via Zoom**](https://zoom.us/meeting/register/tJ0ldempqDIrHtQ4KqAbr442Tm0xl4-h_dtC). If you are a Black marine scientist and/or an HBCU student, we would love to have you! We hope you are able to attend all six events, however, you are welcome to join as many as you are able to. Please invite others to join you! If you are an ally, please help us amplify Black voices; we suggest allies do not sign up for this particular series.
+<!---[**Register via Zoom**](https://zoom.us/meeting/register/tJ0ldempqDIrHtQ4KqAbr442Tm0xl4-h_dtC).---> Check back in late 2024 to register. If you are a Black marine scientist and/or an HBCU student, we would love to have you! We hope you are able to attend all six events, however, you are welcome to join as many as you are able to. Please invite others to join you! If you are an ally, please help us amplify Black voices; we suggest allies do not sign up for this particular series.
 
 ------------------------------------------------------------------------
 
@@ -43,7 +43,7 @@ The event series builds from our work at [Openscapes](https://openscapes.org), w
 
 -   Free
 
-## **Planning Team**
+## Planning Team
 
 ![Aneese Williams, Alex Davis, Ileana Fenwick (l to r)](images/aneese-alex-ileana-bweems.jpg){fig-alt="3 smiling Black women standing in front of a BWEEMS-branded backdrop with an arbor of black, blue, green, and red balloons" fig-align="left" width="300"}
 
