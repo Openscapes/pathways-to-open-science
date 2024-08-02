@@ -19,7 +19,9 @@ website:
               href: 2024.qmd 
             - text: "2023"
               href: 2023.qmd
-      - text: "Home"
+      - text: "Blog"
+        href: blog.qmd
+      - text: "Openscapes"
         href: https://openscapes.org
       - icon: github
         href: https://github.com/openscapes/pathways-to-open-science
