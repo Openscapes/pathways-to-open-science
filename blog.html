@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Pathways to Open Science</title>
+<title>BLOG – Pathways to Open Science</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -30,6 +30,8 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-search/fuse.min.js"></script>
 <script src="site_libs/quarto-search/quarto-search.js"></script>
 <meta name="quarto:offset" content="./">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
@@ -66,7 +68,65 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
+<script>
 
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -106,7 +166,7 @@ ul.task-list li input[type="checkbox"] {
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="./blog.html"> 
+    <a class="nav-link active" href="./blog.html" aria-current="page"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
@@ -131,40 +191,23 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#welcome" id="toc-welcome" class="nav-link active" data-scroll-target="#welcome">Welcome</a></li>
-  <li><a href="#program-details" id="toc-program-details" class="nav-link" data-scroll-target="#program-details">Program Details</a></li>
-  <li><a href="#registration" id="toc-registration" class="nav-link" data-scroll-target="#registration">Registration</a></li>
-  <li><a href="#planning-team" id="toc-planning-team" class="nav-link" data-scroll-target="#planning-team">Planning Team</a>
-  <ul class="collapse">
-  <li><a href="#timeline" id="toc-timeline" class="nav-link" data-scroll-target="#timeline">Timeline</a></li>
-  </ul></li>
-  <li><a href="#connect-with-us" id="toc-connect-with-us" class="nav-link" data-scroll-target="#connect-with-us">Connect with us!</a></li>
-  <li><a href="#background-information" id="toc-background-information" class="nav-link" data-scroll-target="#background-information">Background Information</a></li>
-  <li><a href="#promotional-graphics" id="toc-promotional-graphics" class="nav-link" data-scroll-target="#promotional-graphics">Promotional Graphics</a></li>
-  <li><a href="#funding" id="toc-funding" class="nav-link" data-scroll-target="#funding">Funding</a></li>
-  <li><a href="#citation" id="toc-citation" class="nav-link" data-scroll-target="#citation">Citation</a></li>
-  </ul>
-</nav>
-    </div>
+        
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(6)</span></div><div class="category" data-category="blog">blog <span class="quarto-category-count">(6)</span></div><div class="category" data-category="conference">conference <span class="quarto-category-count">(2)</span></div><div class="category" data-category="how-we-work">how-we-work <span class="quarto-category-count">(1)</span></div><div class="category" data-category="nasa-framework">nasa-framework <span class="quarto-category-count">(4)</span></div><div class="category" data-category="noaa-fisheries">noaa-fisheries <span class="quarto-category-count">(4)</span></div><div class="category" data-category="pathways">pathways <span class="quarto-category-count">(6)</span></div><div class="category" data-category="water-boards">water-boards <span class="quarto-category-count">(4)</span></div></div></div>
 <!-- main -->
-<main class="content" id="quarto-document-content">
+<main class="content column-page-left" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Pathways to Open Science</h1>
+<h1 class="title">BLOG</h1>
 </div>
 
 
 
-<div class="quarto-title-meta">
+<div class="quarto-title-meta column-page-left">
 
     
   
@@ -176,115 +219,278 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="welcome" class="level2">
-<h2 class="anchored" data-anchor-id="welcome">Welcome</h2>
-<p><strong>Pathways to Open Science</strong> is a remote event series for Black environmental &amp; marine researchers to build community for the future of data intensive science. This is an ongoing collaboration with Black in Marine Science (<a href="https://www.blackinmarinescience.org/">BIMS</a>), Black Women in Ecology, Evolution, and Marine Science (<a href="https://www.bweems.org/">BWEEMS</a>), HBCU marine science professors, and now <a href="https://prereview.org/">PREreview</a> and Antoinette Foster, PhD. The program is led by Ileana Fenwick, with Alex Davis, PhD, and Aneese Williams. The 2024 series ran from <strong>January 25 to February 29.</strong></p>
-<div class="quarto-figure quarto-figure-center">
-<figure class="figure">
-<p><img src="images/pathways-recap-zoomie-wordcloud.png" class="img-fluid quarto-figure quarto-figure-center figure-img" style="width:85.0%" alt="2 zoom selfies of 48 Black people smiling and waving, a cartoon of a Black woman sitting, smiling, reading a book called Open Science, and a word cloud with community, personal stories, resources, as largest font words"></p>
-</figure>
-</div>
-</section>
-<section id="program-details" class="level2">
-<h2 class="anchored" data-anchor-id="program-details">Program Details</h2>
-<p>This remote event series will convene Black environmental and marine researcher community members with the goal of developing a mindset for Open Data Science: the tools and practices enabling reproducible, transparent, and inclusive practices for data intensive science. If you’re feeling bogged down by folders full of files with names like “analysis_final_v5.xlsx” and/or like empowering others, we welcome you to join us!</p>
-<p><strong>This 6-part remote event series runs on Thursdays, January 25 - February 29</strong>. Event format will alternate weekly (all virtual):</p>
-<ul>
-<li>3 community calls: 1.5 hour calls with facilitated discussion, mini-lectures and community conversations with Black data scientists, data science leaders and students
-<ul>
-<li>January 25, February 8, 22 from 5:00 to 6:30 pm EST</li>
-</ul></li>
-<li>3 coworking sessions: 1 hour calls structured for folks to bring their own work, their code, or questions, screenshare, and come learn a new skill with us!
-<ul>
-<li>February 1, 15, 29 from 5:00 to 6:00 pm EST</li>
-</ul></li>
-</ul>
-</section>
-<section id="registration" class="level2">
-<h2 class="anchored" data-anchor-id="registration">Registration</h2>
-<!---[**Register via Zoom**](https://zoom.us/meeting/register/tJ0ldempqDIrHtQ4KqAbr442Tm0xl4-h_dtC).--->
-<p>Check back in late 2024 to register. If you are a Black marine scientist and/or an HBCU student, we would love to have you! We hope you are able to attend all six events, however, you are welcome to join as many as you are able to. Please invite others to join you! If you are an ally, please help us amplify Black voices; we suggest allies do not sign up for this particular series.</p>
-<hr>
-<p><strong>What will Pathways to Open Science look like?</strong> Check out the speakers in our <a href="./2024.html">2024 Series</a> and speakers and resources shared in our <a href="./2023.html">2023 Series</a>.</p>
-<p>The event series builds from our work at <a href="https://openscapes.org">Openscapes</a>, where we believe open practices can accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science. Since 2019 we have mentored &gt;100 research teams, meeting them where they are as they develop enduring habits and community. All Openscapes events abide by our <a href="https://www.openscapes.org/code-of-conduct/">Code of Conduct</a>.</p>
-<p><strong>How do participants benefit from this event series?</strong></p>
-<ul>
-<li><p>Build data science literacy and skills</p></li>
-<li><p>Encourage community building and collaboration with other HBCU and Black scientists</p></li>
-<li><p>Resume building experience and access to skill development resources after the program is completed</p></li>
-<li><p>Networking opportunity</p></li>
-<li><p>Welcome to the Openscapes community and Slack workspace as a resource for questions and networking</p></li>
-<li><p>Free</p></li>
-</ul>
-</section>
-<section id="planning-team" class="level2">
-<h2 class="anchored" data-anchor-id="planning-team">Planning Team</h2>
-<div class="quarto-figure quarto-figure-left">
-<figure class="figure">
-<p><img src="images/aneese-alex-ileana-bweems.jpg" class="img-fluid figure-img" alt="3 smiling Black women standing in front of a BWEEMS-branded backdrop with an arbor of black, blue, green, and red balloons" width="300"></p>
-<figcaption>Aneese Williams, Alex Davis, Ileana Fenwick (l to r)</figcaption>
-</figure>
-</div>
-<p><a href="https://twitter.com/_ileanaf">Ileana Fenwick</a> is PI (Principal Investigator) and Lead of the Pathways to Open Science program and a core Openscapes team member. She is an open science advocate and Marine Sciences Ph.D.&nbsp;Student at UNC Chapel Hill. Ileana’s research focuses on evaluating how marine communities respond to climate change and human impacts. Her work uses innovative quantitative methods to improve our ocean management outcomes. In addition to her research, Ileana is also a fierce advocate for HBCU engagement and equity in open science and marine science through her consulting and volunteer work.</p>
-<p><a href="http://www.alexandracddavis.com/">Alex Davis</a>, PhD, is co-organizing Pathways to Open Science as a representative of <a href="https://www.bweems.org/">BWEEMS</a>. She is a marine ecologist and conservation scientist working as a Postdoctoral Fellow on The Diversity Project at UCLA. Alex uses her skills with diving, GIS and spatial ecology to address issues with marine invasive species. Alex is on the Board of Directors for BWEEMS.</p>
-<p><a href="https://www.linkedin.com/in/aneese-williams-mps-80a846b6/">Aneese Williams</a> is co-organizing Pathways to Open Science as a representative of <a href="https://www.blackinmarinescience.org/">BIMS</a>. She is a graduate of Hampton University where she studied Marine &amp; Environmental Science. Aneese has an M.Sc. in Marine Biology &amp; Fisheries from University of Miami Rosenstiel School of Marine and Atmospheric Science (RSMAS). Currently, Aneese is the Environmental Management Systems Coordinator for the City of West Palm Beach, FL. She manages an Environmental Education Program that allows employees to be more aware of their potential environmental impacts associated with their everyday tasks, highlighting the importance of protecting the environment. She is an expert in problem-solving with data, working to “do things better in less time”.</p>
-<p><a href="https://www.openscapes.org/team/">Julie Lowndes</a>, PhD, founded and directs Openscapes and provides support for the Pathways to Open Science program.</p>
-<p><a href="https://www.openscapes.org/team/">Stefanie Butland</a> is a core Openscapes team member and provides support for the Pathways to Open Science program.</p>
-<section id="timeline" class="level3">
-<h3 class="anchored" data-anchor-id="timeline">Timeline</h3>
-<ul>
-<li><p>October - November 2023: Partnership planning</p></li>
-<li><p>November 29: Planning team kickoff call</p></li>
-<li><p>December - January 2024 planning meetings with liaisons and social media engagement, registration opens</p></li>
-<li><p>January 24, 2024 - event series kickoff</p></li>
-<li><p>Februrary 29 - event series concludes</p></li>
-<li><p>March-April - followup and publish cross-posted blog post!</p></li>
-</ul>
-</section>
-</section>
-<section id="connect-with-us" class="level2">
-<h2 class="anchored" data-anchor-id="connect-with-us">Connect with us!</h2>
-<p><strong>BWEEMS</strong>: <a href="https://www.bweems.org">Website</a> • <a href="https://instagram.com/official_bweems?igshid=MWI4MTIyMDE=">Instagram</a> • <a href="https://twitter.com/official_bweems?s=21&amp;t=s-DTN1VVq1z4D-CILebMRQ">Twitter</a></p>
-<p><strong>BIMS</strong>: <a href="https://blackinmarinescience.org">Website</a> • <a href="https://instagram.com/blackinmarinescience?igshid=MWI4MTIyMDE=">Instagram</a> • <a href="https://twitter.com/blackinmarsci">Twitter</a> • <a href="https://www.youtube.com/BlackInMarineScience">YouTube</a></p>
-<p><strong>Openscapes</strong>: <a href="https://openscapes.org">Website</a> • <a href="https://fosstodon.org/@openscapes">Mastodon</a> • <a href="https://www.youtube.com/@openscapes">YouTube</a></p>
-</section>
-<section id="background-information" class="level2">
-<h2 class="anchored" data-anchor-id="background-information">Background Information</h2>
-<p>To learn more about Openscapes approaches:</p>
-<ul>
-<li><a href="https://github.com/IleanaF/rstudio-conf22">A Journey to Data Science: Tools for Equity and Diversity in STEM</a> - July 28, 2022: Talk by Ileana Fenwick at RStudio Conference (<a href="https://www.rstudio.com/conference/2022/talks/journey-to-data-science-tools/">video</a>) (20 minutes)</li>
-<li><a href="https://openscapes.github.io/supercharge-research/">Supercharge your research: a 10-week plan for open data science</a> (Lowndes et al.&nbsp;2019, Nature)</li>
-</ul>
-</section>
-<section id="promotional-graphics" class="level2">
-<h2 class="anchored" data-anchor-id="promotional-graphics">Promotional Graphics</h2>
-<div class="quarto-figure quarto-figure-left">
-<figure class="figure">
-<p><img src="images/2024-pathways-commcall1-lawanda.png" class="img-fluid figure-img" alt="poster for Community Call #1 with cartoon of kelp on the left and a Black woman sitting cross-legged, smiling reading a book" width="300"></p>
-<figcaption>Enjoying the graphics for the event series in our social channels? Check out our incredible graphic designer <a href="https://www.linkedin.com/in/lawanda-walker-b673a71b2">LaWanda Walker</a>!</figcaption>
-</figure>
-</div>
-</section>
-<section id="funding" class="level2">
-<h2 class="anchored" data-anchor-id="funding">Funding</h2>
-<p>The 2024 Pathways event series is funded in part by Mozilla, NASA Earthdata, and Openscapes LLC. We are grateful to <a href="https://foundation.mozilla.org/en/blog/mozilla-announces-first-ever-alumni-connection-grant-finalists/">Mozilla Foundation’s Alumni Connection grant</a> that supports our collaboration with <a href="https://prereview.org/">PREreview</a> and Dr.&nbsp;Antoinette Foster’s expertise in values-guided career navigation and anti-racist scholarly review. Pathways to Open Science was kicked off with 2023 support from the <a href="https://eventfund.codeforscience.org/event-fund-grantees/">Code for Science &amp; Society Event Fund</a> through the <a href="https://chanzuckerberg.com/">Chan Zuckerberg Initiative</a>. Thank you!</p>
-</section>
-<section id="citation" class="level2">
-<h2 class="anchored" data-anchor-id="citation">Citation</h2>
-<p>Please cite Pathways to Open Science through the project’s Zenodo archive using DOI: <a href="https://doi.org/10.5281/zenodo.7662699">10.5281/zenodo.7662699</a>. This DOI represents all versions, and will always resolve to the latest one.</p>
-<p>The citation will look something like:</p>
-<blockquote class="blockquote">
-<p>Ileana Fenwick &amp; Julia Stewart Lowndes. (2023). Pathways to Open Science (2023.02). Zenodo. https://doi.org/10.5281/zenodo.7662700</p>
-</blockquote>
-<p>Please visit the Pathways <a href="https://doi.org/10.5281/zenodo.7662699">DOI link</a> to get the most recent version - the one above is not automatically generated and may be out of date if we release an updated version.</p>
-<center>
-<img src="images/logos-openscapes-bweems-bims-prereview.png" class="img-fluid" style="width:80.0%">
-</center>
 
 
-</section>
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="blog,noaa-fisheries,nasa-framework,water-boards,pathways,how-we-work" data-listing-date-sort="1717632000000" data-listing-file-modified-sort="1722637891723" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="335">
+<div class="thumbnail">
+<p><a href="./blog/2024-06-06-editorial-published/index.html" class="no-external"></a></p><a href="./blog/2024-06-06-editorial-published/index.html" class="no-external">
+<p><img loading="lazy" src="./blog/2024-06-06-editorial-published/ece311341-fig-0001-m.jpg" class="thumbnail-image"></p>
+</a><p><a href="./blog/2024-06-06-editorial-published/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./blog/2024-06-06-editorial-published/index.html" class="no-external">Shifting institutional culture to develop climate solutions with Open Science</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./blog/2024-06-06-editorial-published/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('blog'); return false;">
+blog
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('noaa-fisheries'); return false;">
+noaa-fisheries
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('nasa-framework'); return false;">
+nasa-framework
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('water-boards'); return false;">
+water-boards
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('pathways'); return false;">
+pathways
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('how-we-work'); return false;">
+how-we-work
+</div>
+</div>
+<div class="listing-description">
+<a href="./blog/2024-06-06-editorial-published/index.html" class="no-external">An Open Access Editorial written collaboratively by mentors across the Openscapes community</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./blog/2024-06-06-editorial-published/index.html" class="no-external">
+<div class="listing-date">
+Jun 6, 2024
+</div>
+<div class="listing-author">
+Openscapes
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="1" data-categories="blog,noaa-fisheries,nasa-framework,water-boards,pathways" data-listing-date-sort="1707436800000" data-listing-file-modified-sort="1722637891723" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="416">
+<div class="thumbnail">
+<p><a href="./blog/2024-02-09-white-house-factsheet-openscapes/index.html" class="no-external"></a></p><a href="./blog/2024-02-09-white-house-factsheet-openscapes/index.html" class="no-external">
+<p><img loading="lazy" src="./blog/2024-02-09-white-house-factsheet-openscapes/white-house.png" class="thumbnail-image"></p>
+</a><p><a href="./blog/2024-02-09-white-house-factsheet-openscapes/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./blog/2024-02-09-white-house-factsheet-openscapes/index.html" class="no-external">White House Fact Sheet Mentions Openscapes!</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./blog/2024-02-09-white-house-factsheet-openscapes/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('blog'); return false;">
+blog
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('noaa-fisheries'); return false;">
+noaa-fisheries
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('nasa-framework'); return false;">
+nasa-framework
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('water-boards'); return false;">
+water-boards
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('pathways'); return false;">
+pathways
+</div>
+</div>
+<div class="listing-description">
+<a href="./blog/2024-02-09-white-house-factsheet-openscapes/index.html" class="no-external">We are so thrilled that the Openscapes community is included in the White House Fact Sheet as the Biden-⁠Harris Administration Marks the Anniversary of OSTP’s Year of Open…</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./blog/2024-02-09-white-house-factsheet-openscapes/index.html" class="no-external">
+<div class="listing-date">
+Feb 9, 2024
+</div>
+<div class="listing-author">
+Openscapes
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="2" data-categories="blog,pathways" data-listing-date-sort="1705881600000" data-listing-file-modified-sort="1722637891719" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="285">
+<div class="thumbnail">
+<p><a href="./blog/2024-01-22-pathways-2024/index.html" class="no-external"></a></p><a href="./blog/2024-01-22-pathways-2024/index.html" class="no-external">
+<p><img loading="lazy" src="./blog/2024-01-22-pathways-2024/logos-openscapes-bweems-prereview-bims.png" class="thumbnail-image"></p>
+</a><p><a href="./blog/2024-01-22-pathways-2024/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./blog/2024-01-22-pathways-2024/index.html" class="no-external">2024 Pathways to Open Science Program - in collaboration with PREreview</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./blog/2024-01-22-pathways-2024/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('blog'); return false;">
+blog
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('pathways'); return false;">
+pathways
+</div>
+</div>
+<div class="listing-description">
+<a href="./blog/2024-01-22-pathways-2024/index.html" class="no-external"><em>Quicklinks:</em></a>
+</div>
+</div>
+<div class="metadata">
+<a href="./blog/2024-01-22-pathways-2024/index.html" class="no-external">
+<div class="listing-date">
+Jan 22, 2024
+</div>
+<div class="listing-author">
+Ileana Fenwick, Alex Davis, Aneese Williams, Antoinette Foster
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="3" data-categories="blog,pathways" data-listing-date-sort="1682467200000" data-listing-file-modified-sort="1722637891719" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="14" data-listing-word-count-sort="2664">
+<div class="thumbnail">
+<p><a href="./blog/2023-04-26-pathways-report/index.html" class="no-external"></a></p><a href="./blog/2023-04-26-pathways-report/index.html" class="no-external">
+<p><img loading="lazy" src="./blog/2023-04-26-pathways-report/PathwaysToOpenScience_GroupZoom_square_2023_01_26.png" class="thumbnail-image"></p>
+</a><p><a href="./blog/2023-04-26-pathways-report/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./blog/2023-04-26-pathways-report/index.html" class="no-external">Community building for Black environmental and marine researchers: Pathways to Open Science</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./blog/2023-04-26-pathways-report/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('blog'); return false;">
+blog
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('pathways'); return false;">
+pathways
+</div>
+</div>
+<div class="listing-description">
+<a href="./blog/2023-04-26-pathways-report/index.html" class="no-external"><em>Welcome to Pathways to Open Science, a remote event series for Black environmental &amp; marine researchers to build community for the future of data intensive science! What you…</em></a>
+</div>
+</div>
+<div class="metadata">
+<a href="./blog/2023-04-26-pathways-report/index.html" class="no-external">
+<div class="listing-date">
+Apr 26, 2023
+</div>
+<div class="listing-author">
+Ileana Fenwick, Alex Davis, Aneese Williams, Stefanie Butland, Julie Lowndes
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="4" data-categories="blog,conference,noaa-fisheries,nasa-framework,water-boards,pathways" data-listing-date-sort="1678924800000" data-listing-file-modified-sort="1722637891715" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="15" data-listing-word-count-sort="2934">
+<div class="thumbnail">
+<p><a href="./blog/2023-03-16-esip-winter-2023/index.html" class="no-external"></a></p><a href="./blog/2023-03-16-esip-winter-2023/index.html" class="no-external">
+<p><img loading="lazy" src="./blog/2023-03-16-esip-winter-2023/esip-2023-speakers-square.png" class="thumbnail-image"></p>
+</a><p><a href="./blog/2023-03-16-esip-winter-2023/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./blog/2023-03-16-esip-winter-2023/index.html" class="no-external">3 approaches for the year of open science</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./blog/2023-03-16-esip-winter-2023/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('blog'); return false;">
+blog
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('conference'); return false;">
+conference
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('noaa-fisheries'); return false;">
+noaa-fisheries
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('nasa-framework'); return false;">
+nasa-framework
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('water-boards'); return false;">
+water-boards
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('pathways'); return false;">
+pathways
+</div>
+</div>
+<div class="listing-description">
+<a href="./blog/2023-03-16-esip-winter-2023/index.html" class="no-external"><em>At the 2023 ESIP Winter Meeting, “Opening Doors to Open Science”, we held a session called “Better Science for Future Us: Openscapes stories and approaches for the Year of…</em></a>
+</div>
+</div>
+<div class="metadata">
+<a href="./blog/2023-03-16-esip-winter-2023/index.html" class="no-external">
+<div class="listing-date">
+Mar 16, 2023
+</div>
+<div class="listing-author">
+Corey Clatterbuck, Ileana Fenwick, Josh London, Luis Lopez, Cassie Nickles, Adyan Rios, Stefanie Butland, Julie Lowndes, Erin Robinson
+</div>
+</a>
+</div>
+</div>
+<div class="quarto-post image-right" data-index="5" data-categories="blog,conference,noaa-fisheries,nasa-framework,water-boards,pathways" data-listing-date-sort="1645056000000" data-listing-file-modified-sort="1722637891715" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="11" data-listing-word-count-sort="2077">
+<div class="thumbnail">
+<p><a href="./blog/2022-02-17-esip-winter-2022/index.html" class="no-external"></a></p><a href="./blog/2022-02-17-esip-winter-2022/index.html" class="no-external">
+<p><img loading="lazy" src="./blog/2022-02-17-esip-winter-2022/esip-holmes-earlyadopter-square.png" class="thumbnail-image"></p>
+</a><p><a href="./blog/2022-02-17-esip-winter-2022/index.html" class="no-external"></a></p>
+</div>
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./blog/2022-02-17-esip-winter-2022/index.html" class="no-external">3 takeaways for planning for the year of open science</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./blog/2022-02-17-esip-winter-2022/index.html" class="no-external"></a>
+</div>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('blog'); return false;">
+blog
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('conference'); return false;">
+conference
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('noaa-fisheries'); return false;">
+noaa-fisheries
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('nasa-framework'); return false;">
+nasa-framework
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('water-boards'); return false;">
+water-boards
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('pathways'); return false;">
+pathways
+</div>
+</div>
+<div class="listing-description">
+<a href="./blog/2022-02-17-esip-winter-2022/index.html" class="no-external"><em>At the ESIP Winter Meeting, “Data for All People: From Data Generation to Data Use and Understanding”, we held a session called “Better Science for Future Us: Planning for…</em></a>
+</div>
+</div>
+<div class="metadata">
+<a href="./blog/2022-02-17-esip-winter-2022/index.html" class="no-external">
+<div class="listing-date">
+Feb 17, 2022
+</div>
+<div class="listing-author">
+Aaron Friesz, Ileana Fenwick, Eli Holmes, Anna Holder, Amy Steiker, Erin Robinson, Julie Lowndes
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
