@@ -24,6 +24,8 @@ csl: nature.csl
 
 *This contribution was supported by Mozilla, who funded the Pathways to Open Science Program in part in 2024 through a Mozilla Alumni Connection grant to Openscapes and PREreview that connected Dr. Foster with the Pathways Team. Thank you! See the [2024 Pathways Summary Report](https://openscapes.org/blog/2024-08-05-pathways-report/).*
 
+*Cross-posted at [Openscapes](https://openscapes.org/blog) and [Pathways to Open Science](https://openscapes.github.io/pathways-to-open-science/blog)*
+
 ------------------------------------------------------------------------
 
 ## A letter to researchers that want to make the world a better place
