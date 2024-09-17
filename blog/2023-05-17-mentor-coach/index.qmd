@@ -21,25 +21,25 @@ aliases:
 
 ------------------------------------------------------------------------
 
-::: {.blockquote-blue}
+::: blockquote-blue
 > *"This quietly subversive training showed me how to be a better mentor and coach by using new tools or old tools in better ways to hear what people are saying and help them find solutions within themselves...and by helping me get out of my own way in the process."* **---Amanda Bradford, Research Ecologist, PIFSC, NOAA Fisheries**
 :::
 
 <!-- break -->
 
-::: {.blockquote-blue}
+::: blockquote-blue
 > *"This was amazing! I love the courses that make you feel uncomfortable and safe at the same time because that's where change happens. It was such a positive growing experience. I was also able to connect with so many amazing people and that in itself was worth it. Learning from the others has expanded my views on coaching/mentoring/ etc so much!"* **---Alex Davis, The Diversity Project, UCLA**
 :::
 
 <!-- break -->
 
-::: {.blockquote-blue}
+::: blockquote-blue
 > *"This program provides a solid foundation for learning what goes into good mentoring and coaching conducted by an instructor who leads by example. When members of the group place their trust in the instructor and program, it becomes free group therapy with other scientists, where vulnerability is welcomed and mental breakthroughs are made. This bred an extremely comfortable and supportive cohort that I would like to keep in touch with!"* **--- Alexis Hunzinger, NASA GES DISC Data Center**
 :::
 
 <!-- break -->
 
-::: {.blockquote-blue}
+::: blockquote-blue
 > *"This has been unlike any leadership training offered to us through typical NOAA/government channels. I think it has been a real eye opener to the importance of getting training outside of our typical (and comfortable) space"* **---Josh London, Wildlife Biologist at NOAA Alaska Fisheries Science Center**
 :::
 
@@ -75,7 +75,7 @@ What do we mean by a "powerful question"? It's a short question that can open up
 
 Distinguishing when we're listening as mentors and when we're listening as coaches is important, because it determines how we will respond as early adopters who may not know the answer to the question -- think cloud computing, how to store increasingly large data, how to give hard feedback to a superior, and how to ask for help in a culture built on competition and the myth of the lone genius. Developing these coach listening skills, including what questions to ask, has helped us help others better (and notice and avoid solutioneering!). It's also helped us feel less overwhelmed as we learn that it's okay to not always have the answer!
 
-::: {.blockquote-blue}
+::: blockquote-blue
 > *"We need these coaching skills to do powerful work and inspire meaningful connections; this program is a safe space to learn, to challenge our preconceptions, to practice, and to grow. I found it to be so invaluable because it's a chance to acknowledge and learn about skills that are often unspoken in their ability to improve mentorship and collaboration."* **--- Ileana Fenwick**
 :::
 
@@ -121,20 +121,20 @@ Bravery has come up throughout this cohort and this post, and this braveness and
 
 In our final session we paired up to coach each other through developing our own statement of purpose in open science.
 
-::: {.blockquote-blue}
+::: blockquote-blue
 > *"I am an elevator to a better tomorrow"*
 :::
 
 <!-- break -->
 
-::: {.blockquote-blue}
-> *"I am a pollinator who connects people to each other and ideas so everyone flourishes"* 
+::: blockquote-blue
+> *"I am a pollinator who connects people to each other and ideas so everyone flourishes"*
 :::
 
 <!-- break -->
 
-::: {.blockquote-blue}
-> *"I am the momentum that answers to my peers"* 
+::: blockquote-blue
+> *"I am the momentum that answers to my peers"*
 :::
 
 <!-- break -->
@@ -143,15 +143,4 @@ In our final session we paired up to coach each other through developing our own
 
 <br>
 
-```{r}
-#| echo: false
-#| fig-align: center
-#| out-width: "85%"
-#| fig-alt: "A bee standing on a pink flower with multiple florets, against a black background"
-knitr::include_graphics("mrlowndes-bee.jpg")
-```
-
-::: {.caption-text .center-text}
-Photo by Elliot Lowndes
-:::
-
+![Photo by Elliot Lowndes](mrlowndes-bee.jpg){fig-alt="A bee standing on a pink flower with multiple florets, against a black background" width="85%"}
