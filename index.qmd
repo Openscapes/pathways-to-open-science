@@ -12,7 +12,7 @@ title: "Pathways to Open Science"
 
 This remote event series will convene Black environmental and marine researcher community members with the goal of developing a mindset for Open Data Science: the tools and practices enabling reproducible, transparent, and inclusive practices for data intensive science. If you're feeling bogged down by folders full of files with names like "analysis_final_v5.xlsx" and/or like empowering others, we welcome you to join us!
 
-This is an ongoing [Openscapes](https://openscapes.org) collaboration with Black in Marine Science ([BIMS](https://www.blackinmarinescience.org/)), Black Women in Ecology, Evolution, and Marine Science ([BWEEMS](https://www.bweems.org/)) and HBCU marine science professors. The program is led by Ileana Fenwick, with Alex Davis, PhD, and Aneese Williams, MSc.
+This is an ongoing [Openscapes](https://openscapes.org) collaboration with Black in Marine Science ([BIMS](https://www.blackinmarinescience.org/)), Black Women in Ecology, Evolution, and Marine Science ([BWEEMS](https://www.bweems.org/)) and marine science professors from 7 Historically Black Colleges and Universities (HBCUs). The program is led by Ileana Fenwick, with Alex Davis, PhD, and Aneese Williams, MSc.
 
 **This 6-part remote event series runs on Thursdays, January 23 - February 27**. Event format will alternate weekly (all virtual):
 
@@ -78,6 +78,8 @@ The event series builds from our work at [Openscapes](https://openscapes.org), w
 
 To learn more about Openscapes approaches:
 
+-   [Openscapes recognized at The White House!](blog/2024-10-03-openscapes-recognized-white-house/index.qmd) - Fenwick & Lowndes, October 3, 2024
+-   [A letter to researchers that want to make the world a better place](blog/2024-08-09-antoinette-foster-letter-make-the-world-better-place/index.qmd) - Antoinette Foster, August 9, 2024
 -   [Shifting institutional culture to develop climate solutions with Open Science](https://doi.org/10.1002/ece3.11341) (Lowndes et al. 2024, Ecology and Evolution)
 -   [A Journey to Data Science: Tools for Equity and Diversity in STEM](https://github.com/IleanaF/rstudio-conf22) - July 28, 2022: Talk by Ileana Fenwick at RStudio Conference ([video](https://www.rstudio.com/conference/2022/talks/journey-to-data-science-tools/)) (20 minutes)
 -   [Supercharge your research: a 10-week plan for open data science](https://openscapes.github.io/supercharge-research/) (Lowndes et al. 2019, Nature)
