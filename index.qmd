@@ -4,7 +4,7 @@ title: "Pathways to Open Science"
 
 ## Welcome
 
-**Pathways to Open Science** is a remote event series for Black environmental & marine researchers to build community for the future of data intensive science. This is an ongoing collaboration with Black in Marine Science ([BIMS](https://www.blackinmarinescience.org/)), Black Women in Ecology, Evolution, and Marine Science ([BWEEMS](https://www.bweems.org/)), HBCU marine science professors, and now [PREreview](https://prereview.org/) and Antoinette Foster, PhD. The program is led by Ileana Fenwick, with Alex Davis, PhD, and Aneese Williams. The 2024 series ran from **January 25 to February 29.**
+**Pathways to Open Science** is a remote event series for Black environmental & marine researchers to build community for the future of data intensive science. We empower our community by sharing our stories, learning together, and building skills to expand how data science can improve, accelerate, and support our science. The 2025 series will run weekly from January 23 through Feb 27. [**Registration**](https://zoom.us/meeting/register/tJ0vc-2grzgrH9URmxCRyV34ZwjvcwCU0ciH) **is now open!**
 
 ![](images/pathways-recap-zoomie-wordcloud.png){fig-alt="2 zoom selfies of 48 Black people smiling and waving, a cartoon of a Black woman sitting, smiling, reading a book called Open Science, and a word cloud with community, personal stories, resources, as largest font words" fig-align="center" width="85%"}
 
@@ -12,36 +12,35 @@ title: "Pathways to Open Science"
 
 This remote event series will convene Black environmental and marine researcher community members with the goal of developing a mindset for Open Data Science: the tools and practices enabling reproducible, transparent, and inclusive practices for data intensive science. If you're feeling bogged down by folders full of files with names like "analysis_final_v5.xlsx" and/or like empowering others, we welcome you to join us!
 
-**This 6-part remote event series runs on Thursdays, January 25 - February 29**. Event format will alternate weekly (all virtual):
+This is an ongoing [Openscapes](https://openscapes.org) collaboration with Black in Marine Science ([BIMS](https://www.blackinmarinescience.org/)), Black Women in Ecology, Evolution, and Marine Science ([BWEEMS](https://www.bweems.org/)) and marine science professors from 7 Historically Black Colleges and Universities (HBCUs). The program is led by Ileana Fenwick, with Alex Davis, PhD, and Aneese Williams, MSc.
+
+**This 6-part remote event series runs on Thursdays, January 23 - February 27**. Event format will alternate weekly (all virtual):
 
 -   3 community calls: 1.5 hour calls with facilitated discussion, mini-lectures and community conversations with Black data scientists, data science leaders and students
-    -   January 25, February 8, 22 from 5:00 to 6:30 pm EST
--   3 coworking sessions: 1 hour calls structured for folks to bring their own work, their code, or questions, screenshare, and come learn a new skill with us!
-    -   February 1, 15, 29 from 5:00 to 6:00 pm EST
+    -   January 23, February 6, 20 from 5:00 to 6:30 pm EST
+-   3 coworking sessions: 1.5 hour calls structured for folks to bring their own work, their code, or questions, screenshare, and come learn a new skill with us!
+    -   January 30, 13, 27 from 5:00 to 6:30 pm EST
 
-## Registration
+**What will Pathways to Open Science look like?**
 
-<!---[**Register via Zoom**](https://zoom.us/meeting/register/tJ0ldempqDIrHtQ4KqAbr442Tm0xl4-h_dtC).---> Check back in late 2024 to register. If you are a Black marine scientist and/or an HBCU student, we would love to have you! We hope you are able to attend all six events, however, you are welcome to join as many as you are able to. Please invite others to join you! If you are an ally, please help us amplify Black voices; we suggest allies do not sign up for this particular series.
-
-------------------------------------------------------------------------
-
-**What will Pathways to Open Science look like?** Check out the speakers in our [2024 Series](2024.qmd) and speakers and resources shared in our [2023 Series](2023.qmd).
+Check out the speakers and resources shared in our [2024](2024.qmd) and [2023](2023.qmd) Series.
 
 The event series builds from our work at [Openscapes](https://openscapes.org), where we believe open practices can accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science. Since 2019 we have mentored \>100 research teams, meeting them where they are as they develop enduring habits and community. All Openscapes events abide by our [Code of Conduct](https://www.openscapes.org/code-of-conduct/).
 
 **How do participants benefit from this event series?**
 
 -   Build data science literacy and skills
-
 -   Encourage community building and collaboration with other HBCU and Black scientists
-
 -   Resume building experience and access to skill development resources after the program is completed
-
 -   Networking opportunity
-
 -   Welcome to the Openscapes community and Slack workspace as a resource for questions and networking
-
 -   Free
+
+## Registration
+
+[Register via Zoom](https://zoom.us/meeting/register/tJ0vc-2grzgrH9URmxCRyV34ZwjvcwCU0ciH). If you are a Black marine scientist and/or an HBCU student, we would love to have you! We hope you are able to attend all six events, however, you are welcome to join as many as you are able to. Please invite others to join you! If you are an ally, please help us amplify Black voices; we suggest allies do not sign up for this particular series.
+
+------------------------------------------------------------------------
 
 ## Planning Team
 
@@ -49,27 +48,23 @@ The event series builds from our work at [Openscapes](https://openscapes.org), w
 
 [Ileana Fenwick](https://twitter.com/_ileanaf) is PI (Principal Investigator) and Lead of the Pathways to Open Science program and a core Openscapes team member. She is an open science advocate and Marine Sciences Ph.D. Student at UNC Chapel Hill. Ileana's research focuses on evaluating how marine communities respond to climate change and human impacts. Her work uses innovative quantitative methods to improve our ocean management outcomes. In addition to her research, Ileana is also a fierce advocate for HBCU engagement and equity in open science and marine science through her consulting and volunteer work.
 
-[Alex Davis](http://www.alexandracddavis.com/), PhD, is co-organizing Pathways to Open Science as a representative of [BWEEMS](https://www.bweems.org/). She is a marine ecologist and conservation scientist working as a Postdoctoral Fellow on The Diversity Project at UCLA. Alex uses her skills with diving, GIS and spatial ecology to address issues with marine invasive species. Alex is on the Board of Directors for BWEEMS.
+[Alex Davis](http://www.alexandracddavis.com/), PhD, is co-organizing Pathways to Open Science as a representative of [BWEEMS](https://www.bweems.org/). She is a marine ecologist and conservation scientist in a tenure track position at California State University, Northridge in the Biology Department, and works on The Diversity Project at UCLA. Her research uses a combination of skills with diving, GIS, and spatial ecology to address management strategies for marine conservation in temperate and tropical systems. Alex is on the Board of Directors for BWEEMS.
 
-[Aneese Williams](https://www.linkedin.com/in/aneese-williams-mps-80a846b6/) is co-organizing Pathways to Open Science as a representative of [BIMS](https://www.blackinmarinescience.org/). She is a graduate of Hampton University where she studied Marine & Environmental Science. Aneese has an M.Sc. in Marine Biology & Fisheries from University of Miami Rosenstiel School of Marine and Atmospheric Science (RSMAS). Currently, Aneese is the Environmental Management Systems Coordinator for the City of West Palm Beach, FL. She manages an Environmental Education Program that allows employees to be more aware of their potential environmental impacts associated with their everyday tasks, highlighting the importance of protecting the environment. She is an expert in problem-solving with data, working to "do things better in less time".
+[Aneese Williams](https://www.linkedin.com/in/aneese-williams-mps-80a846b6/), MSc, is co-organizing Pathways to Open Science as a representative of [BIMS](https://www.blackinmarinescience.org/). She is a graduate of Hampton University where she studied Marine & Environmental Science. Aneese has an M.Sc. in Marine Biology & Fisheries from University of Miami Rosenstiel School of Marine and Atmospheric Science (RSMAS). Currently, Aneese is the Environmental Management Systems Coordinator for the City of West Palm Beach, FL. She manages an Environmental Education Program that allows employees to be more aware of their potential environmental impacts associated with their everyday tasks, highlighting the importance of protecting the environment. She is an expert in problem-solving with data, working to "do things better in less time".
 
-[Julie Lowndes](https://www.openscapes.org/team/), PhD, founded and directs Openscapes and provides support for the Pathways to Open Science program.
+[LaWanda Walker](https://www.linkedin.com/in/lawanda-walker-b673a71b2/) creates the promotional graphics and content for Pathways to Open Science and coordinates promotion with our collaborators. She is a graduate of Hampton University and current graduate student at the University of Chicago with an interest in nonprofit management and public history.
 
-[Stefanie Butland](https://www.openscapes.org/team/) is a core Openscapes team member and provides support for the Pathways to Open Science program.
+[Julie Lowndes](https://www.openscapes.org/team/), PhD, is Openscapes founder & core team member and provides support for the Pathways to Open Science program.
+
+[Stefanie Butland](https://www.openscapes.org/team/), MSc, is a core Openscapes team member and provides support for the Pathways to Open Science program.
 
 ### Timeline
 
--   October - November 2023: Partnership planning
-
--   November 29: Planning team kickoff call
-
--   December - January 2024 planning meetings with liaisons and social media engagement, registration opens
-
--   January 24, 2024 - event series kickoff
-
--   Februrary 29 - event series concludes
-
--   March-April - followup and publish cross-posted blog post!
+-   October - November 2024: Planning team coordination
+-   November - January 2025 planning meetings with liaisons and social media engagement, registration opens
+-   January 23, 2025 - event series kickoff
+-   Februrary 27 - event series concludes
+-   March-April - followup and publish report!
 
 ## Connect with us!
 
@@ -77,12 +72,15 @@ The event series builds from our work at [Openscapes](https://openscapes.org), w
 
 **BIMS**: [Website](https://blackinmarinescience.org) • [Instagram](https://instagram.com/blackinmarinescience?igshid=MWI4MTIyMDE=) • [Twitter](https://twitter.com/blackinmarsci) • [YouTube](https://www.youtube.com/BlackInMarineScience)
 
-**Openscapes**: [Website](https://openscapes.org) • [Mastodon](https://fosstodon.org/@openscapes) • [YouTube](https://www.youtube.com/@openscapes)
+**Openscapes**: [Website](https://openscapes.org) • [Bluesky](https://bsky.app/profile/openscapes.bsky.social) • [Mastodon](https://fosstodon.org/@openscapes) • [YouTube](https://www.youtube.com/@openscapes)
 
 ## Background Information
 
 To learn more about Openscapes approaches:
 
+-   [Openscapes recognized at The White House!](blog/2024-10-03-openscapes-recognized-white-house/index.qmd) - Fenwick & Lowndes, October 3, 2024
+-   [A letter to researchers that want to make the world a better place](blog/2024-08-09-antoinette-foster-letter-make-the-world-better-place/index.qmd) - Antoinette Foster, August 9, 2024
+-   [Shifting institutional culture to develop climate solutions with Open Science](https://doi.org/10.1002/ece3.11341) (Lowndes et al. 2024, Ecology and Evolution)
 -   [A Journey to Data Science: Tools for Equity and Diversity in STEM](https://github.com/IleanaF/rstudio-conf22) - July 28, 2022: Talk by Ileana Fenwick at RStudio Conference ([video](https://www.rstudio.com/conference/2022/talks/journey-to-data-science-tools/)) (20 minutes)
 -   [Supercharge your research: a 10-week plan for open data science](https://openscapes.github.io/supercharge-research/) (Lowndes et al. 2019, Nature)
 
@@ -92,7 +90,7 @@ To learn more about Openscapes approaches:
 
 ## Funding
 
-The 2024 Pathways event series is funded in part by Mozilla, NASA Earthdata, and Openscapes LLC. We are grateful to [Mozilla Foundation's Alumni Connection grant](https://foundation.mozilla.org/en/blog/mozilla-announces-first-ever-alumni-connection-grant-finalists/) that supports our collaboration with [PREreview](https://prereview.org/) and Dr. Antoinette Foster’s expertise in values-guided career navigation and anti-racist scholarly review. Pathways to Open Science was kicked off with 2023 support from the [Code for Science & Society Event Fund](https://eventfund.codeforscience.org/event-fund-grantees/) through the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/). Thank you!
+The 2025 Pathways event series is funded by NOAA Fisheries and Openscapes LLC. We are grateful to our previous funders in past years as well. This program was kicked off in 2023, when it was funded in part by the [Code for Science & Society Event Fund](https://eventfund.codeforscience.org/event-fund-grantees/) through the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/). In 2024 it was funded in part by [Mozilla Foundation's Alumni Connection grant](https://foundation.mozilla.org/en/blog/mozilla-announces-first-ever-alumni-connection-grant-finalists/) that supported our collaboration with [PREreview](https://prereview.org/) and Dr. Antoinette Foster’s [expertise](https://openscapes.org/blog/2024-08-09-antoinette-foster-letter-make-the-world-better-place/) in values-guided career navigation and anti-racist scholarly review. Thank you!
 
 ## Citation
 
@@ -104,4 +102,4 @@ The citation will look something like:
 
 Please visit the Pathways [DOI link](https://doi.org/10.5281/zenodo.7662699) to get the most recent version - the one above is not automatically generated and may be out of date if we release an updated version.
 
-<center>![](images/logos-openscapes-bweems-bims-prereview.png){width="80%"}</center>
+<center>![](images/logos-openscapes-bweems-bims.png){width="80%"}</center>
