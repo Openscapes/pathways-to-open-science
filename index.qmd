@@ -54,7 +54,7 @@ The event series builds from our work at [Openscapes](https://openscapes.org), w
 
 [LaWanda Walker](https://www.linkedin.com/in/lawanda-walker-b673a71b2/) creates the promotional graphics and content for Pathways to Open Science and coordinates promotion with our collaborators. She is a graduate of Hampton University and current graduate student at the University of Chicago with an interest in nonprofit management and public history.
 
-[Julie Lowndes](https://www.openscapes.org/team/), PhD, founded and directs Openscapes and provides support for the Pathways to Open Science program.
+[Julie Lowndes](https://www.openscapes.org/team/), PhD, is Openscapes founder & core team member and provides support for the Pathways to Open Science program.
 
 [Stefanie Butland](https://www.openscapes.org/team/), MSc, is a core Openscapes team member and provides support for the Pathways to Open Science program.
 
@@ -88,7 +88,7 @@ To learn more about Openscapes approaches:
 
 ## Funding
 
-The 2025 Pathways event series is funded by NOAA Fisheries, NASA Earthdata and Openscapes LLC. We are grateful to Pathways to Open Science was kicked off with 2023 support from the [Code for Science & Society Event Fund](https://eventfund.codeforscience.org/event-fund-grantees/) through the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/). Our 2024 Series was funded in part by [Mozilla Foundation's Alumni Connection grant](https://foundation.mozilla.org/en/blog/mozilla-announces-first-ever-alumni-connection-grant-finalists/) that supported our collaboration with [PREreview](https://prereview.org/) and Dr. Antoinette Foster’s [expertise](https://openscapes.org/blog/2024-08-09-antoinette-foster-letter-make-the-world-better-place/) in values-guided career navigation and anti-racist scholarly review. Thank you!
+The 2025 Pathways event series is funded by NOAA Fisheries and Openscapes LLC. We are grateful to our previous funders in past years as well. This program was kicked off in 2023, when it was funded in part by the [Code for Science & Society Event Fund](https://eventfund.codeforscience.org/event-fund-grantees/) through the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/). In 2024 it was funded in part by [Mozilla Foundation's Alumni Connection grant](https://foundation.mozilla.org/en/blog/mozilla-announces-first-ever-alumni-connection-grant-finalists/) that supported our collaboration with [PREreview](https://prereview.org/) and Dr. Antoinette Foster’s [expertise](https://openscapes.org/blog/2024-08-09-antoinette-foster-letter-make-the-world-better-place/) in values-guided career navigation and anti-racist scholarly review. Thank you!
 
 ## Citation
 
