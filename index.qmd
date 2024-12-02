@@ -12,7 +12,7 @@ title: "Pathways to Open Science"
 
 This remote event series will convene Black environmental and marine researcher community members with the goal of developing a mindset for Open Data Science: the tools and practices enabling reproducible, transparent, and inclusive practices for data intensive science. If you're feeling bogged down by folders full of files with names like "analysis_final_v5.xlsx" and/or like empowering others, we welcome you to join us!
 
-This is an ongoing Openscapes collaboration with Black in Marine Science ([BIMS](https://www.blackinmarinescience.org/)), Black Women in Ecology, Evolution, and Marine Science ([BWEEMS](https://www.bweems.org/)) and HBCU marine science professors. The program is led by Ileana Fenwick, with Alex Davis, PhD, and Aneese Williams, MSc.
+This is an ongoing [Openscapes](https://openscapes.org) collaboration with Black in Marine Science ([BIMS](https://www.blackinmarinescience.org/)), Black Women in Ecology, Evolution, and Marine Science ([BWEEMS](https://www.bweems.org/)) and HBCU marine science professors. The program is led by Ileana Fenwick, with Alex Davis, PhD, and Aneese Williams, MSc.
 
 **This 6-part remote event series runs on Thursdays, January 23 - February 27**. Event format will alternate weekly (all virtual):
 
