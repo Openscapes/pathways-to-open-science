@@ -50,7 +50,7 @@ The event series builds from our work at [Openscapes](https://openscapes.org), w
 
 [Alex Davis](http://www.alexandracddavis.com/), PhD, is co-organizing Pathways to Open Science as a representative of [BWEEMS](https://www.bweems.org/). She is a marine ecologist and conservation scientist in a tenure track position at California State University, Northridge in the Biology Department, and works on The Diversity Project at UCLA. Her research uses a combination of skills with diving, GIS, and spatial ecology to address management strategies for marine conservation in temperate and tropical systems. Alex is on the Board of Directors for BWEEMS.
 
-[Aneese Williams](https://www.linkedin.com/in/aneese-williams-mps-80a846b6/), MSc, is co-organizing Pathways to Open Science as a representative of [BIMS](https://www.blackinmarinescience.org/). She is a graduate of Hampton University where she studied Marine & Environmental Science. Aneese has an M.Sc. in Marine Biology & Fisheries from University of Miami Rosenstiel School of Marine and Atmospheric Science (RSMAS). Currently, Aneese is the Environmental Management Systems Coordinator for the City of West Palm Beach, FL. She manages an Environmental Education Program that allows employees to be more aware of their potential environmental impacts associated with their everyday tasks, highlighting the importance of protecting the environment. She is an expert in problem-solving with data, working to "do things better in less time".
+[Aneese Williams](https://www.linkedin.com/in/aneese-williams-mps-80a846b6/), MSc, is co-organizing Pathways to Open Science as a representative of [BIMS](https://www.blackinmarinescience.org/). She is a graduate of Hampton University where she studied Marine & Environmental Science. Aneese has an M.Sc. in Marine Biology & Fisheries from University of Miami Rosenstiel School of Marine and Atmospheric Science (RSMAS). Currently, Aneese is the Environmental Management Systems Coordinator for the City of West Palm Beach, FL. She manages an Environmental Education Program that allows employees to be more aware of their potential environmental impacts associated with their everyday tasks, highlighting the importance of protecting the environment. Aneese is on the Science Core Heuristics for Open Science Outcomes in Learning (SCHOOL) Open Science Team (OST) with Columbia Climate School and is an NSF BIO-LEAPS Advisory Board Member. She is an expert in problem-solving with data, working to "do things better in less time".
 
 [LaWanda Walker](https://www.linkedin.com/in/lawanda-walker-b673a71b2/) creates the promotional graphics and content for Pathways to Open Science and coordinates promotion with our collaborators. She is a graduate of Hampton University and current graduate student at the University of Chicago with an interest in nonprofit management and public history.
 
@@ -58,7 +58,7 @@ The event series builds from our work at [Openscapes](https://openscapes.org), w
 
 [Stefanie Butland](https://www.openscapes.org/team/), MSc, is a core Openscapes team member and provides support for the Pathways to Open Science program.
 
-### Timeline
+## Timeline
 
 -   October - November 2024: Planning team coordination
 -   November - January 2025 planning meetings with liaisons and social media engagement, registration opens
