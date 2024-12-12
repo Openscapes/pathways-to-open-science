@@ -84,9 +84,10 @@ To learn more about Openscapes approaches:
 -   [A Journey to Data Science: Tools for Equity and Diversity in STEM](https://github.com/IleanaF/rstudio-conf22) - July 28, 2022: Talk by Ileana Fenwick at RStudio Conference ([video](https://www.rstudio.com/conference/2022/talks/journey-to-data-science-tools/)) (20 minutes)
 -   [Supercharge your research: a 10-week plan for open data science](https://openscapes.github.io/supercharge-research/) (Lowndes et al. 2019, Nature)
 
-## Promotional Graphics
+<!--- ## Promotional Graphics
 
-![Enjoying the graphics for the event series in our social channels? Check out our incredible graphic designer [LaWanda Walker](https://www.linkedin.com/in/lawanda-walker-b673a71b2)!](images/2024-pathways-commcall1-lawanda.png){fig-alt="poster for Community Call #1 with cartoon of kelp on the left and a Black woman sitting cross-legged, smiling reading a book" fig-align="left" width="300"}
+![Enjoying the graphics for the event series in our social channels? Check out our incredible graphic designer [LaWanda Walker](https://www.linkedin.com/in/lawanda-walker-b673a71b2)!](images/2024-pathways-commcall1-lawanda.png){fig-alt="poster for Community Call #1 with cartoon of kelp on the left and a Black woman sitting cross-legged, smiling reading a book" fig-align="left" width="300"} 
+--->
 
 ## Funding
 
