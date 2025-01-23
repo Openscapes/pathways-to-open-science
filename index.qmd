@@ -91,7 +91,7 @@ To learn more about Openscapes approaches:
 
 ## Funding
 
-The 2025 Pathways event series is funded by NOAA Fisheries and Openscapes LLC. We are grateful to our previous funders in past years as well. This program was kicked off in 2023, when it was funded in part by the [Code for Science & Society Event Fund](https://eventfund.codeforscience.org/event-fund-grantees/) through the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/). In 2024 it was funded in part by [Mozilla Foundation's Alumni Connection grant](https://foundation.mozilla.org/en/blog/mozilla-announces-first-ever-alumni-connection-grant-finalists/) that supported our collaboration with [PREreview](https://prereview.org/) and Dr. Antoinette Foster’s [expertise](https://openscapes.org/blog/2024-08-09-antoinette-foster-letter-make-the-world-better-place/) in values-guided career navigation and anti-racist scholarly review. Thank you!
+The 2025 Pathways event series is funded via Openscapes LLC. We are grateful to our previous funders in past years as well. This program was kicked off in 2023, when it was funded in part by the [Code for Science & Society Event Fund](https://eventfund.codeforscience.org/event-fund-grantees/) through the [Chan Zuckerberg Initiative](https://chanzuckerberg.com/). In 2024 it was funded in part by [Mozilla Foundation's Alumni Connection grant](https://foundation.mozilla.org/en/blog/mozilla-announces-first-ever-alumni-connection-grant-finalists/) that supported our collaboration with [PREreview](https://prereview.org/) and Dr. Antoinette Foster’s [expertise](https://openscapes.org/blog/2024-08-09-antoinette-foster-letter-make-the-world-better-place/) in values-guided career navigation and anti-racist scholarly review. Thank you!
 
 ## Citation
 
