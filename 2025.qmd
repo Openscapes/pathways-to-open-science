@@ -6,14 +6,16 @@ title: "Resources 2025"
 
 *Certificates will be granted for anyone who participates in one or more of the six sessions.*
 
-Quicklink: [OpenscapesCommunityCalls [ 2025-pathways ]](https://drive.google.com/drive/folders/1jwm37xpIzijJMi1PstOMJkWbIhPEAIsV?usp=drive_link) Google Drive folder
+Quicklink: [OpenscapesCommunityCalls \[ 2025-pathways \]](https://drive.google.com/drive/folders/1jwm37xpIzijJMi1PstOMJkWbIhPEAIsV?usp=drive_link) Google Drive folder
 
 # Community Calls
 
 ## Call 1, January 23: What is open science anyway? And what can it mean for you?
 
+```{=html}
 <!--- [Agenda](https://docs.google.com/document/d/1ma_a2FNXQa-a3th--xWtGUbuhK3ct8g4RsaKpxncfHA/edit?usp=drive_link) with notes and links to resources | [Video] (TO COME) 
 --->
+```
 
 **What is Openscapes?** ([slides](https://docs.google.com/presentation/d/1HSSpz6tUVGgHjJ0UIMoEd9u0h84VerjbObR5OPvCids/)), by [Ileana Fenwick](https://twitter.com/_ileanaf), UNC PhD Candidate, Openscapes Team member
 
@@ -23,9 +25,9 @@ Quicklink: [OpenscapesCommunityCalls [ 2025-pathways ]](https://drive.google.com
 
 **Data Strategies for Future Us** ([slides](https://docs.google.com/presentation/d/1MvDZ5xspJQ3BHjJbj2YDz1J6jpRYw-NPL-AvSWG-ego/)), by [Alex Davis, PhD](http://www.alexandracddavis.com/)
 
-
 ## Call 2, February 6: Building our skills for a better tomorrow
 
+```{=html}
 <!--- ([Agenda](https://docs.google.com/document/d/1rRq6UweAtBzAD1ZiemnghrvolOkqTAdNJLiDm4woa8U/edit#heading=h.y0zhyd3y1f29) with notes and links to resources \| [Video](https://drive.google.com/file/d/1hUEs7flNMa5yd7YUha9tau-BGBSjAbS3/))
 
 Speakers
@@ -38,9 +40,11 @@ Speakers
 
 LaTreese's and Antoinette's slides can be viewed in the recording. Aneese's slides are linked above.
 --->
+```
 
 ## Call 3, February 20: Data Science is for US
 
+```{=html}
 <!--- ([Agenda](https://docs.google.com/document/d/1rRq6UweAtBzAD1ZiemnghrvolOkqTAdNJLiDm4woa8U/edit#heading=h.t7xxkwa7gaf4) with notes and links to resources \| [Video](https://drive.google.com/file/d/1OwFJlFr1sfSILKjZMfLJbQf838z5E7eX/))
 
 Speakers
@@ -52,9 +56,20 @@ Speakers
 -   [Justin Rice, PhD](https://www.nasa.gov/image-article/deputy-manager-justin-rice/), Deputy Manager of the ESDIS Science Systems Development Office, NASA's Goddard Space Flight Center
 -   [Dawn Wright, PhD](https://twitter.com/deepseadawn), Chief Scientist, Environmental Systems Research Institute (ESRI)
 --->
+```
 
-# Coworking Sessions
+# Coworking
 
 Coworking comes in many flavors. For us, coworking involves doing our own work at the same time together with opportunities to check in, and sometimes screenshare to get feedback or solve a problem. Seeing how other people work is a big part of this transition to working more openly and collaboratively.
 
 Coworking sessions happen January 30, 13, 27. We have breakout rooms to meet the speakers, for topic-based screenshares and discussions, and for socializing or quiet working. Follow the links in our collaborative notes doc to see the resources people share.
+
+## Coworking, February 30
+
+### Community Guests
+
+[Jason Williams](https://jasonjwilliamsny.github.io/profile/), Assistant Director, External Collaborations at Cold Spring Harbor Laboratory, DNALC; Education, Outreach, and Training lead for CyVerse.
+
+[SherAaron Hurt](https://carpentries.org/team/), Director of Workshops, The Carpentries.
+
+[Antoinette Foster, PhD](https://www.ohsu.edu/racial-equity-and-inclusion-center/our-people), Director of Community Transformation, OHSU.
