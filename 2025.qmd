@@ -2,20 +2,13 @@
 title: "Resources 2025"
 ---
 
-*Pathways to Open Science 2025 runs weekly January 23 to February 27, 5:00 - 6:30 pm ET. This page links to the content from each Community Call (e.g. agenda, video, slides) and the Agenda doc includes many linked resources shared by speakers and participants.*
+*Pathways to Open Science 2025 runs weekly January 23 to February 27, 5:00 - 6:30 pm ET. This page links to the content from each Community Call. Our Google Drive folder contains our Agenda doc with collaborative notes and many linked resources shared by speakers and participants.*
 
 *Certificates will be granted for anyone who participates in one or more of the six sessions.*
-
-Quicklink: [OpenscapesCommunityCalls \[ 2025-pathways \]](https://drive.google.com/drive/folders/1jwm37xpIzijJMi1PstOMJkWbIhPEAIsV?usp=drive_link) Google Drive folder
 
 # Community Calls
 
 ## Call 1, January 23: What is open science anyway? And what can it mean for you?
-
-```{=html}
-<!--- [Agenda](https://docs.google.com/document/d/1ma_a2FNXQa-a3th--xWtGUbuhK3ct8g4RsaKpxncfHA/edit?usp=drive_link) with notes and links to resources | [Video] (TO COME) 
---->
-```
 
 Call 1 [recording](https://drive.google.com/file/d/18HxO2tyoqiK2tyqerjAehE4bo_arbJAq/view?usp=drive_link)
 
@@ -30,7 +23,7 @@ Data Strategies for Future Us. ([slides](https://docs.google.com/presentation/d/
 ## Call 2, February 6: Building our skills for a better tomorrow
 
 ```{=html}
-<!--- ([Agenda](https://docs.google.com/document/d/1rRq6UweAtBzAD1ZiemnghrvolOkqTAdNJLiDm4woa8U/edit#heading=h.y0zhyd3y1f29) with notes and links to resources \| [Video](https://drive.google.com/file/d/1hUEs7flNMa5yd7YUha9tau-BGBSjAbS3/))
+<!--- 
 
 Speakers
 
@@ -47,7 +40,7 @@ LaTreese's and Antoinette's slides can be viewed in the recording. Aneese's slid
 ## Call 3, February 20: Data Science is for US
 
 ```{=html}
-<!--- ([Agenda](https://docs.google.com/document/d/1rRq6UweAtBzAD1ZiemnghrvolOkqTAdNJLiDm4woa8U/edit#heading=h.t7xxkwa7gaf4) with notes and links to resources \| [Video](https://drive.google.com/file/d/1OwFJlFr1sfSILKjZMfLJbQf838z5E7eX/))
+<!--- 
 
 Speakers
 
