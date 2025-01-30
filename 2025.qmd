@@ -66,5 +66,3 @@ Coworking sessions happen January 30, 13, 27. We have breakout rooms to meet the
 [Jason Williams](https://jasonjwilliamsny.github.io/profile/), Assistant Director, External Collaborations at Cold Spring Harbor Laboratory, DNALC; Education, Outreach, and Training lead for CyVerse.
 
 [SherAaron Hurt](https://carpentries.org/team/), Director of Workshops, The Carpentries.
-
-[Antoinette Foster, PhD](https://www.ohsu.edu/racial-equity-and-inclusion-center/our-people), Director of Community Transformation, OHSU.
