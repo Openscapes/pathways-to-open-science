@@ -25,7 +25,7 @@ Speakers
 -  Elijah Catalan, PhD Candidate - Institute of Environment & Sustainability at University of California, Los Angeles - Open Science can start here. Story from a past Pathways participant!
 -  [SherAaron Hurt](https://carpentries.org/team/), Director of Workshops, The Carpentries - R You Going?! and the GPS (Gentle Push System)
 -  [Aneese Williams, MSc](https://www.linkedin.com/in/aneese-williams-mps-80a846b6/) - My Open Science Journey
-- [Ileana Fenwick]() - 
+- [Ileana Fenwick](https://openscapes.org/team) - Openscapes and UNC - Naming Things
 
 ## Call 3, February 20: Data Science is for US
 
