@@ -20,20 +20,12 @@ Data Strategies for Future Us. ([slides](https://docs.google.com/presentation/d/
 
 ## Call 2, February 6: Building our skills for a better tomorrow
 
-```{=html}
-<!--- 
-
 Speakers
 
--   [Aneese Williams, MSc](https://www.linkedin.com/in/aneese-williams-mps-80a846b6/), Environmental Management Systems (EMS) Coordinator, City of West Palm Beach
-    -   My journey to open science ([slides](https://docs.google.com/presentation/d/1FFCBGvOmr1FpCaKK7JU0C5rpdv2oQ7_Q/))
-    -   Open Science Key Terms ([slides](https://docs.google.com/presentation/d/16RbJ3S4njI22tBjrsjxzbl3Yjv1OVNKE/))
--   [LaTreese Denson, PhD](https://www.bweems.org/member-directory/latreese-s-denson-ph-d), Stock Assessment Analyst, NOAA Southeast Fisheries Science Center
--   [Antoinette Foster, PhD](https://www.ohsu.edu/racial-equity-and-inclusion-center/our-people), Director of Community Transformation, OHSU
-
-LaTreese's and Antoinette's slides can be viewed in the recording. Aneese's slides are linked above.
---->
-```
+-  Elijah Catalan, PhD Candidate - Institute of Environment & Sustainability at University of California, Los Angeles - Open Science can start here. Story from a past Pathways participant!
+-  [SherAaron Hurt](https://carpentries.org/team/), Director of Workshops, The Carpentries - R You Going?! and the GPS (Gentle Push System)
+-  [Aneese Williams, MSc](https://www.linkedin.com/in/aneese-williams-mps-80a846b6/) - My Open Science Journey
+- [Ileana Fenwick](https://openscapes.org/team) - Openscapes and UNC - Naming Things
 
 ## Call 3, February 20: Data Science is for US
 
@@ -42,12 +34,7 @@ LaTreese's and Antoinette's slides can be viewed in the recording. Aneese's slid
 
 Speakers
 
--   [Alex Davis, PhD](http://www.alexandracddavis.com/), Postdoctoral Fellow, aquatic invasive species ecologist, UCLA
-    -   What Open Science means to me ([slides](https://docs.google.com/presentation/d/1b3oUq-jc01HyEV_eRijPyF6qYURpcB4c/edit?usp=drive_link&ouid=117331415908654768512&rtpof=true&sd=true))
--   [SherAaron Hurt](https://carpentries.org/team/), Director of Workshops, The Carpentries
-    -   Journey to Open Science ([slides](https://www.canva.com/design/DAF9jeVCeTI/MR1bstUE6kgZPS8M0H2EKw))
--   [Justin Rice, PhD](https://www.nasa.gov/image-article/deputy-manager-justin-rice/), Deputy Manager of the ESDIS Science Systems Development Office, NASA's Goddard Space Flight Center
--   [Dawn Wright, PhD](https://twitter.com/deepseadawn), Chief Scientist, Environmental Systems Research Institute (ESRI)
+
 --->
 ```
 
@@ -57,10 +44,11 @@ Coworking comes in many flavors. For us, coworking involves doing our own work a
 
 Coworking sessions happen January 30, 13, 27. We have breakout rooms to meet the speakers, for topic-based screenshares and discussions, and for socializing or quiet working. Follow the links in our collaborative notes doc to see the resources people share.
 
-## Coworking, January 30
+### Community Guests for Coworking
 
-### Community Guests
+- [LaTreese Denson, PhD](https://www.fisheries.noaa.gov/contact/latreese-s-denson-phd), Stock Assessment Analyst, NOAA Southeast Fisheries Science Center
+- [SherAaron Hurt](https://carpentries.org/team/), Director of Workshops, The Carpentries.
+- [Tony Orr, PhD](https://www.fisheries.noaa.gov/contact/anthony-tony-orr), Research Scientist, NOAA Alaska Fisheries Science Center
+- [Jason Williams, PhD](https://jasonjwilliamsny.github.io/profile/), Assistant Director, External Collaborations at Cold Spring Harbor Laboratory, DNALC; Education, Outreach, and Training lead for CyVerse.
 
-[Jason Williams](https://jasonjwilliamsny.github.io/profile/), Assistant Director, External Collaborations at Cold Spring Harbor Laboratory, DNALC; Education, Outreach, and Training lead for CyVerse.
 
-[SherAaron Hurt](https://carpentries.org/team/), Director of Workshops, The Carpentries.

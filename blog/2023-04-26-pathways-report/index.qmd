@@ -107,7 +107,7 @@ Hear from experts about building community and your data science toolkit for mor
 
 Speakers:
 
--   [LaTreese Denson](https://www.bweems.org/member-directory/latreese-s-denson-ph-d), Stock Assessment Analyst, NOAA Southeast Fisheries Science Center
+-   [LaTreese Denson](https://www.fisheries.noaa.gov/contact/latreese-s-denson-phd), Stock Assessment Analyst, NOAA Southeast Fisheries Science Center
 -   [De'Marcus Robinson](https://demarcusr.com/), PhD Student, Department of Atmospheric and Oceanic Sciences, UCLA
 -   [Jason Williams](https://jasonjwilliamsny.github.io/profile/), Assistant Director, External Collaborations at Cold Spring Harbor Laboratory, DNALC; Education, Outreach, and Training lead for CyVerse
 
