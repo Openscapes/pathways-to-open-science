@@ -42,13 +42,12 @@ Speakers
 
 Coworking comes in many flavors. For us, coworking involves doing our own work at the same time together with opportunities to check in, and sometimes screenshare to get feedback or solve a problem. Seeing how other people work is a big part of this transition to working more openly and collaboratively.
 
-Coworking sessions happen January 30, 13, 27. We have breakout rooms to meet the speakers, for topic-based screenshares and discussions, and for socializing or quiet working. Follow the links in our collaborative notes doc to see the resources people share.
+Coworking sessions happen January 30, February 13, 27. We have breakout rooms to meet the speakers, for topic-based screenshares and discussions, and for socializing or quiet working. Follow the links in our collaborative notes doc to see the resources people share.
 
 ### Community Guests for Coworking
 
-- [LaTreese Denson, PhD](https://www.fisheries.noaa.gov/contact/latreese-s-denson-phd), Stock Assessment Analyst, NOAA Southeast Fisheries Science Center
+- [LaTreese Denson, PhD](https://www.linkedin.com/in/latreesedenson/), Federal Research Mathematical Statistician (Stock Assessment Analyst) 
 - [SherAaron Hurt](https://carpentries.org/team/), Director of Workshops, The Carpentries.
-- [Tony Orr, PhD](https://www.fisheries.noaa.gov/contact/anthony-tony-orr), Research Scientist, NOAA Alaska Fisheries Science Center
 - [Jason Williams, PhD](https://jasonjwilliamsny.github.io/profile/), Assistant Director, External Collaborations at Cold Spring Harbor Laboratory, DNALC; Education, Outreach, and Training lead for CyVerse.
 
 
