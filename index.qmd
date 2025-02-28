@@ -4,17 +4,17 @@ title: "Pathways to Open Science"
 
 ## Welcome
 
-**Pathways to Open Science** is a remote event series for Black environmental & marine researchers to build community for the future of data intensive science. We empower our community by sharing our stories, learning together, and building skills to expand how data science can improve, accelerate, and support our science. The 2025 series will run weekly from January 23 through Feb 27. [**Registration**](https://zoom.us/meeting/register/tJ0vc-2grzgrH9URmxCRyV34ZwjvcwCU0ciH) **is now open!**
+**Pathways to Open Science** is a remote event series for Black environmental & marine researchers to build community for the future of data intensive science. We empower our community by sharing our stories, learning together, and building skills to expand how data science can improve, accelerate, and support our science. The 2025 series - our 3rd annual - ran weekly from January 23 through February 27. We look forward to 2026 edition! <!--- [**Registration**](https://zoom.us/meeting/register/tJ0vc-2grzgrH9URmxCRyV34ZwjvcwCU0ciH) **is now open!** --->
 
 ![](images/pathways-recap-zoomie-wordcloud.png){fig-alt="2 zoom selfies of 48 Black people smiling and waving, a cartoon of a Black woman sitting, smiling, reading a book called Open Science, and a word cloud with community, personal stories, resources, as largest font words" fig-align="center" width="85%"}
 
 ## Program Details
 
-This remote event series will convene Black environmental and marine researcher community members with the goal of developing a mindset for Open Data Science: the tools and practices enabling reproducible, transparent, and inclusive practices for data intensive science. If you're feeling bogged down by folders full of files with names like "analysis_final_v5.xlsx" and/or like empowering others, we welcome you to join us!
+This remote event series convense Black environmental and marine researcher community members with the goal of developing a mindset for Open Data Science: the tools and practices enabling reproducible, transparent, and inclusive practices for data intensive science. If you're feeling bogged down by folders full of files with names like "analysis_final_v5.xlsx" and/or like empowering others, we welcome you to join us!
 
 This is an ongoing [Openscapes](https://openscapes.org) collaboration with Black in Marine Science ([BIMS](https://www.blackinmarinescience.org/)), Black Women in Ecology, Evolution, and Marine Science ([BWEEMS](https://www.bweems.org/)) and marine science professors from 7 Historically Black Colleges and Universities (HBCUs). The program is led by Ileana Fenwick, with Alex Davis, PhD, and Aneese Williams, MSc.
 
-**This 6-part remote event series runs on Thursdays, January 23 - February 27**. Event format will alternate weekly (all virtual):
+**This 6-part remote event series runs on Thursdays, January 23 - February 27**. Event format alternated weekly (all virtual):
 
 -   3 community calls: 1.5 hour calls with facilitated discussion, mini-lectures and community conversations with Black data scientists, data science leaders and students
     -   January 23, February 6, 20 from 5:00 to 6:30 pm EST
@@ -23,9 +23,9 @@ This is an ongoing [Openscapes](https://openscapes.org) collaboration with Black
 
 **What will Pathways to Open Science look like?**
 
-Check out the speakers and resources shared in our [2024](2024.qmd) and [2023](2023.qmd) Series.
+Check out the speakers and resources shared in our [2025](2025.qmd), [2024](2024.qmd), and [2023](2023.qmd) Series.
 
-The event series builds from our work at [Openscapes](https://openscapes.org), where we believe open practices can accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science. Since 2019 we have mentored \>100 research teams, meeting them where they are as they develop enduring habits and community. All Openscapes events abide by our [Code of Conduct](https://www.openscapes.org/code-of-conduct/).
+The event series builds from our work at [Openscapes](https://openscapes.org), where we believe open practices can accelerate data-driven solutions and increase diversity, equity, inclusion, and belonging in science. Since 2019 we have mentored >100 research teams, meeting them where they are as they develop enduring habits and community. All Openscapes events abide by our [Code of Conduct](https://www.openscapes.org/code-of-conduct/).
 
 **How do participants benefit from this event series?**
 
@@ -38,7 +38,9 @@ The event series builds from our work at [Openscapes](https://openscapes.org), w
 
 ## Registration
 
-[Register via Zoom](https://zoom.us/meeting/register/tJ0vc-2grzgrH9URmxCRyV34ZwjvcwCU0ciH). If you are a Black marine scientist and/or an HBCU student, we would love to have you! We hope you are able to attend all six events, however, you are welcome to join as many as you are able to. Please invite others to join you! If you are an ally, please help us amplify Black voices; we suggest allies do not sign up for this particular series.
+Registration for 2026 will open in December 2025.
+
+<!--- [Register via Zoom](https://zoom.us/meeting/register/tJ0vc-2grzgrH9URmxCRyV34ZwjvcwCU0ciH).---> If you are a Black marine scientist and/or an HBCU student, we would love to have you! We hope you are able to attend all six events, however, you are welcome to join as many as you are able to. Please invite others to join you! If you are an ally, please help us amplify Black voices; we suggest allies do not sign up for this particular series.
 
 ------------------------------------------------------------------------
 
@@ -84,10 +86,12 @@ To learn more about Openscapes approaches:
 -   [A Journey to Data Science: Tools for Equity and Diversity in STEM](https://github.com/IleanaF/rstudio-conf22) - July 28, 2022: Talk by Ileana Fenwick at RStudio Conference ([video](https://www.rstudio.com/conference/2022/talks/journey-to-data-science-tools/)) (20 minutes)
 -   [Supercharge your research: a 10-week plan for open data science](https://openscapes.github.io/supercharge-research/) (Lowndes et al. 2019, Nature)
 
+```{=html}
 <!--- ## Promotional Graphics
 
 ![Enjoying the graphics for the event series in our social channels? Check out our incredible graphic designer [LaWanda Walker](https://www.linkedin.com/in/lawanda-walker-b673a71b2)!](images/2024-pathways-commcall1-lawanda.png){fig-alt="poster for Community Call #1 with cartoon of kelp on the left and a Black woman sitting cross-legged, smiling reading a book" fig-align="left" width="300"} 
 --->
+```
 
 ## Funding
 
@@ -99,7 +103,7 @@ Please cite Pathways to Open Science through the project's Zenodo archive using 
 
 The citation will look something like:
 
-> Ileana Fenwick & Julia Stewart Lowndes. (2023). Pathways to Open Science (2023.02). Zenodo. https://doi.org/10.5281/zenodo.7662700
+> Ileana Fenwick, Alexandra Davis, Aneese Williams, Stefanie Butland & Julia Stewart Lowndes. (2025). Pathways to Open Science (2025.02). Zenodo. https://doi.org/10.5281/zenodo.7662700
 
 Please visit the Pathways [DOI link](https://doi.org/10.5281/zenodo.7662699) to get the most recent version - the one above is not automatically generated and may be out of date if we release an updated version.
 

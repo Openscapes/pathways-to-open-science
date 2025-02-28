@@ -2,7 +2,7 @@
 title: "Resources 2025"
 ---
 
-*Pathways to Open Science 2025 runs weekly January 23 to February 27, 5:00 - 6:30 pm ET. This page links to the content from each Community Call. Our Google Drive folder contains our Agenda doc with collaborative notes and many linked resources shared by speakers and participants.*
+*Pathways to Open Science 2025 ran weekly January 23 to February 27, 5:00 - 6:30 pm ET. This page links to the content from each Community Call. Our Google Drive folder contains our Agenda doc with collaborative notes, recordings, and many linked resources shared by speakers and participants.*
 
 *Certificates will be granted for anyone who participates in one or more of the six sessions.*
 
@@ -10,35 +10,30 @@ title: "Resources 2025"
 
 ## Call 1, January 23: What is open science anyway? And what can it mean for you?
 
-What is Openscapes? ([slides](https://docs.google.com/presentation/d/1HSSpz6tUVGgHjJ0UIMoEd9u0h84VerjbObR5OPvCids/)), by [Ileana Fenwick](https://twitter.com/_ileanaf), UNC PhD Candidate, Openscapes Team member
+Speakers
 
-What does open science mean to me? ([slides](https://docs.google.com/presentation/d/1RAEYTlaCGNJ8MnX2jeh2piWzr599cr5R/edit?usp=drive_link&ouid=117331415908654768512&rtpof=true&sd=true)), by [Alex Davis, PhD](http://www.alexandracddavis.com/)
-
-Open Science can start here. Stories from past Pathways participants!, by Ngozi Oguguah and Deniel Novella
-
-Data Strategies for Future Us. ([slides](https://docs.google.com/presentation/d/1MvDZ5xspJQ3BHjJbj2YDz1J6jpRYw-NPL-AvSWG-ego/)), by [Alex Davis, PhD](http://www.alexandracddavis.com/)
+-   [Ileana Fenwick](https://www.linkedin.com/in/ileana-fenwick-0238ba132/), Lead of Pathways to Open Science, Openscapes Team member, PhD Candidate at UNC Chapel Hill  - What is Openscapes? ([slides](https://docs.google.com/presentation/d/1HSSpz6tUVGgHjJ0UIMoEd9u0h84VerjbObR5OPvCids/))
+-   Deniel Novella - Open Science can start here. Stories from past Pathways participants!
+-   [Alex Davis, PhD](http://www.alexandracddavis.com/), co-organizer of Pathways to Open Science, Faculty at California State University, Northridge - What does open science mean to me? ([slides](https://docs.google.com/presentation/d/1RAEYTlaCGNJ8MnX2jeh2piWzr599cr5R/edit?usp=drive_link&ouid=117331415908654768512&rtpof=true&sd=true)) and Data Strategies for Future Us. ([slides](https://docs.google.com/presentation/d/1MvDZ5xspJQ3BHjJbj2YDz1J6jpRYw-NPL-AvSWG-ego/))
 
 ## Call 2, February 6: Building our skills for a better tomorrow
 
 Speakers
 
--  Elijah Catalan, PhD Candidate - Institute of Environment & Sustainability at University of California, Los Angeles - Open Science can start here. Story from a past Pathways participant!
--  [SherAaron Hurt](https://carpentries.org/team/), Director of Workshops, The Carpentries - R You Going?! and the GPS (Gentle Push System)
--  [Aneese Williams, MSc](https://www.linkedin.com/in/aneese-williams-mps-80a846b6/) - My Open Science Journey
-- [Ileana Fenwick](https://openscapes.org/team) - Openscapes and UNC - Naming Things
+-   Elijah Catalan, PhD Candidate, Institute of Environment & Sustainability at University of California, Los Angeles - Open Science can start here. Story from a past Pathways participant!
+-   [SherAaron Hurt](https://carpentries.org/team/), Director of Workshops, The Carpentries - R You Going?! and the GPS (Gentle Push System)
+-   [Aneese Williams, MSc](https://www.linkedin.com/in/aneese-williams-mps-80a846b6/), co-organizer of Pathways to Open Science, Environmental Management Systems Coordinator for the City of West Palm Beach, FL - My Open Science Journey
+-   [Ileana Fenwick](https://openscapes.org/team), Openscapes and UNC - Naming Things
 
 ## Call 3, February 20: Data Science is for US
 
-```{=html}
-<!--- 
-
 Speakers
 
+-   [Justin Rice, PhD](https://www.nasa.gov/image-article/deputy-manager-justin-rice/), ESDIS Deputy Project Manager of Data Systems, NASA’s Goddard Space Flight Center
+-   [Dawn Wright, PhD](https://twitter.com/deepseadawn), Chief Scientist, Environmental Systems Research Institute (ESRI)
+-   [Cam Mosley, PhD](https://bsky.app/profile/fisherthem.bsky.social), NSF Postdoctoral Research Fellow, University of Minnesota
 
---->
-```
-
-# Coworking
+## Coworking
 
 Coworking comes in many flavors. For us, coworking involves doing our own work at the same time together with opportunities to check in, and sometimes screenshare to get feedback or solve a problem. Seeing how other people work is a big part of this transition to working more openly and collaboratively.
 
@@ -46,8 +41,7 @@ Coworking sessions happen January 30, February 13, 27. We have breakout rooms to
 
 ### Community Guests for Coworking
 
-- [LaTreese Denson, PhD](https://www.linkedin.com/in/latreesedenson/), Federal Research Mathematical Statistician (Stock Assessment Analyst) 
-- [SherAaron Hurt](https://carpentries.org/team/), Director of Workshops, The Carpentries.
-- [Jason Williams, PhD](https://jasonjwilliamsny.github.io/profile/), Assistant Director, External Collaborations at Cold Spring Harbor Laboratory, DNALC; Education, Outreach, and Training lead for CyVerse.
-
-
+-   [LaTreese Denson, PhD](https://www.linkedin.com/in/latreesedenson/), Federal Research Mathematical Statistician (Stock Assessment Analyst)
+-   [SherAaron Hurt](https://carpentries.org/team/), Director of Workshops, The Carpentries.
+-   [Jason Williams, PhD](https://jasonjwilliamsny.github.io/profile/), Assistant Director, External Collaborations at Cold Spring Harbor Laboratory, DNALC; Education, Outreach, and Training lead for CyVerse.
+-   [Kilan Bishop](https://people.miami.edu/profile/ca49d7d9ad0ac3a5d3e8b5f3338f720c), [STEMNoire](https://www.stemnoire.org/) Founder, Assistant Professor in the Department of Environmental Science and Policy at the University of Miami Rosenstiel School of Marine, Atmospheric, & Earth Science.
